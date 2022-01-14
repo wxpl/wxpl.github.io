@@ -1,8 +1,8 @@
 ---
 layout: default
-title: LP Staking
-nav_order: 140
-parent: WavesExchange
+title: NSBT
+nav_order: 21
+parent: Neutrino
 ---
 
 ![Under Construction](images/under-construction.png)

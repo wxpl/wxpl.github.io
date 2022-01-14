@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Algorithmic Trading
-nav_order: 130
-parent: WavesExchange
+title: Whitepaper
+nav_order: 22
+parent: Neutrino
 ---
 
 ![Under Construction](images/under-construction.png)

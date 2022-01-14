@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Whitepaper
-nav_order: 220
-parent: Neutrino
+title: Neutrino Staking
+nav_order: 15
+parent: WavesExchange
 ---
+**Neutrino Staking**
 
 ![Under Construction](images/under-construction.png)
 

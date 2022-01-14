@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQ
-nav_order: 230
+nav_order: 23
 parent: Neutrino
 ---
 

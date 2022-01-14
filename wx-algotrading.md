@@ -1,8 +1,8 @@
 ---
 layout: default
-title: NSBT
-nav_order: 210
-parent: Neutrino
+title: Algorithmic Trading
+nav_order: 13
+parent: WavesExchange
 ---
 
 ![Under Construction](images/under-construction.png)

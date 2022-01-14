@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Neutrino Staking
-nav_order: 150
+title: LP Staking
+nav_order: 14
 parent: WavesExchange
 ---
-**Neutrino Staking**
 
 ![Under Construction](images/under-construction.png)
 
