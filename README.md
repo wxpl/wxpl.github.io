@@ -1,7 +1,10 @@
 Documentation WebSite of WavesPolska
+
+\
 [Telegram](https://t.me/wavesexchange_polska)
 
 Website Structure:
+\
 **Home** `nav_order: 1` - `index.md`
 
 **WavesPolska** `nav_order: 2` - `wavespolska.md`
