@@ -1,12 +1,10 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: EnnoWallet
+nav_order: 900
 ---
 
-**ViresFinance**
-
+**EnnoWallet**
 ![Under Construction](images/under-construction.png)
 
 Zaangażuj się w rozwój projektu.

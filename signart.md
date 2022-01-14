@@ -1,11 +1,10 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: SignArt
+nav_order: 800
 ---
 
-**ViresFinance**
+**SignArt**
 
 ![Under Construction](images/under-construction.png)
 

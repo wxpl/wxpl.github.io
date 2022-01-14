@@ -1,11 +1,9 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: Mega Pools
+nav_order: 510
+parent: PuzzleSwap
 ---
-
-**ViresFinance**
 
 ![Under Construction](images/under-construction.png)
 

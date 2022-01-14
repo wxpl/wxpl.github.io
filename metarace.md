@@ -1,11 +1,10 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: MetaRace
+nav_order: 700
 ---
 
-**ViresFinance**
+**MetaRace**
 
 ![Under Construction](images/under-construction.png)
 

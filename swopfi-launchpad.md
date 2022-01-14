@@ -1,11 +1,9 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: Launchpad
+nav_order: 350
+parent: SwopFi
 ---
-
-**ViresFinance**
 
 ![Under Construction](images/under-construction.png)
 

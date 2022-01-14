@@ -1,7 +1,7 @@
 ---
 layout: default
 title: WavesPools
-nav_order: 3
+nav_order: 110
 parent: WavesExchange
 ---
 

@@ -1,11 +1,9 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: Exchange
+nav_order: 320
+parent: SwopFi
 ---
-
-**ViresFinance**
 
 ![Under Construction](images/under-construction.png)
 

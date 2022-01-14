@@ -1,11 +1,10 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: Neutrino Staking
+nav_order: 150
+parent: WavesExchange
 ---
-
-**ViresFinance**
+**Neutrino Staking**
 
 ![Under Construction](images/under-construction.png)
 

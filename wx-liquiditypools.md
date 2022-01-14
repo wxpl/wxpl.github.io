@@ -1,11 +1,9 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: Liquidity Pools
+nav_order: 110
+parent: WavesExchange
 ---
-
-**ViresFinance**
 
 ![Under Construction](images/under-construction.png)
 

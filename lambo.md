@@ -1,11 +1,9 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: Lambo Investments
+nav_order: 120
+parent: WavesExchange
 ---
-
-**ViresFinance**
 
 ![Under Construction](images/under-construction.png)
 

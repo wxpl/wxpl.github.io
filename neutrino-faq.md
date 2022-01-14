@@ -1,11 +1,9 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: FAQ
+nav_order: 230
+parent: Neutrino
 ---
-
-**ViresFinance**
 
 ![Under Construction](images/under-construction.png)
 

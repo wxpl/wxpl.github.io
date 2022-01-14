@@ -1,11 +1,9 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: Algorithmic Trading
+nav_order: 130
+parent: WavesExchange
 ---
-
-**ViresFinance**
 
 ![Under Construction](images/under-construction.png)
 

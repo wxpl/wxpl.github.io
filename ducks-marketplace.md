@@ -1,11 +1,9 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: Marketplace
+nav_order: 630
+parent: WavesDucks
 ---
-
-**ViresFinance**
 
 ![Under Construction](images/under-construction.png)
 

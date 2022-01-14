@@ -1,11 +1,9 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: vTokens
+nav_order: 420
+parent: ViresFinance
 ---
-
-**ViresFinance**
 
 ![Under Construction](images/under-construction.png)
 

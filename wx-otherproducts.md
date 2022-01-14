@@ -1,11 +1,10 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: Other Products
+nav_order: 160
+parent: WavesExchange
 ---
-
-**ViresFinance**
+**Other Products**
 
 ![Under Construction](images/under-construction.png)
 

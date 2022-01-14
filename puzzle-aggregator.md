@@ -1,11 +1,9 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: DEX Aggregator
+nav_order: 520
+parent: PuzzleSwap
 ---
-
-**ViresFinance**
 
 ![Under Construction](images/under-construction.png)
 

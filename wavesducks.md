@@ -1,11 +1,11 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
+title: WavesDucks
+nav_order: 600
 has_children: true
 ---
 
-**ViresFinance**
+**WavesDucks**
 
 ![Under Construction](images/under-construction.png)
 

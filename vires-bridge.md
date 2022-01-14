@@ -1,11 +1,9 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: Blockchain Bridge
+nav_order: 410
+parent: ViresFinance
 ---
-
-**ViresFinance**
 
 ![Under Construction](images/under-construction.png)
 

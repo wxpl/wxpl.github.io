@@ -1,11 +1,9 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: Burning
+nav_order: 360
+parent: SwopFi
 ---
-
-**ViresFinance**
 
 ![Under Construction](images/under-construction.png)
 

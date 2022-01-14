@@ -1,11 +1,9 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: Incubator
+nav_order: 610
+parent: WavesDucks
 ---
-
-**ViresFinance**
 
 ![Under Construction](images/under-construction.png)
 

@@ -1,11 +1,9 @@
 ---
 layout: default
-title: ViresFinance
-nav_order: 400
-has_children: true
+title: Collective Farms
+nav_order: 640
+parent: WavesDucks
 ---
-
-**ViresFinance**
 
 ![Under Construction](images/under-construction.png)
 
