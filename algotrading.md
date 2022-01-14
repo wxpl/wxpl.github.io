@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Liquidity Pools
-nav_order: 11
+title: Algorithmic Trading
+nav_order: 130
 parent: WavesExchange
 ---
 

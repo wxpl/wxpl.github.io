@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Liquidity Pools
-nav_order: 11
-parent: WavesExchange
+title: Governance
+nav_order: 340
+parent: SwopFi
 ---
 
 ![Under Construction](images/under-construction.png)

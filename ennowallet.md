@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Liquidity Pools
-nav_order: 11
-parent: WavesExchange
+title: EnnoWallet
+nav_order: 900
 ---
 
+**EnnoWallet**
 ![Under Construction](images/under-construction.png)
 
 Zaangażuj się w rozwój projektu.

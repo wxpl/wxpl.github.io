@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Liquidity Pools
-nav_order: 11
-parent: WavesExchange
+title: DEX Aggregator
+nav_order: 520
+parent: PuzzleSwap
 ---
 
 ![Under Construction](images/under-construction.png)

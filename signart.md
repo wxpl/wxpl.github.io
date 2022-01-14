@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Liquidity Pools
-nav_order: 11
-parent: WavesExchange
+title: SignArt
+nav_order: 800
 ---
+
+**SignArt**
 
 ![Under Construction](images/under-construction.png)
 

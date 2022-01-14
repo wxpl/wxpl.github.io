@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Liquidity Pools
-nav_order: 11
-parent: WavesExchange
+title: Collective Farms
+nav_order: 640
+parent: WavesDucks
 ---
 
 ![Under Construction](images/under-construction.png)

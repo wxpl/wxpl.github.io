@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Liquidity Pools
-nav_order: 11
+title: LP Staking
+nav_order: 140
 parent: WavesExchange
 ---
 

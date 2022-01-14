@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Liquidity Pools
-nav_order: 11
-parent: WavesExchange
+title: Incubator
+nav_order: 610
+parent: WavesDucks
 ---
 
 ![Under Construction](images/under-construction.png)

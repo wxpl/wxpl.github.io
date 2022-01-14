@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Liquidity Pools
-nav_order: 11
+title: Lambo Investments
+nav_order: 12
 parent: WavesExchange
 ---
 

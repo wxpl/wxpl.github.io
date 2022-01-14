@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Liquidity Pools
-nav_order: 11
-parent: WavesExchange
+title: MetaRace
+nav_order: 700
 ---
+
+**MetaRace**
 
 ![Under Construction](images/under-construction.png)
 

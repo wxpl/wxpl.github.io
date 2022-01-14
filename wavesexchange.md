@@ -1,7 +1,7 @@
 ---
 layout: default
 title: WavesExchange
-nav_order: 100
+nav_order: 10
 has_children: true
 ---
 

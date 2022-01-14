@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Liquidity Pools
-nav_order: 11
-parent: WavesExchange
+title: NSBT
+nav_order: 210
+parent: Neutrino
 ---
 
 ![Under Construction](images/under-construction.png)
