@@ -1,7 +1,7 @@
 ---
 layout: default
-title: AMA's
-nav_order: 370
+title: AMA
+nav_order: 37
 parent: SwopFi
 ---
 ![Swop AMA](https://miro.medium.com/max/1400/1*a0ux2i8s2ueKXp0qrYGT8w.jpeg)

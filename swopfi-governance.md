@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Governance
-nav_order: 340
+nav_order: 34
 parent: SwopFi
 ---
 

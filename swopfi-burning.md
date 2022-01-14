@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Burning
-nav_order: 360
+nav_order: 36
 parent: SwopFi
 ---
 

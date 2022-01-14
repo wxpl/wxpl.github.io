@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SwopFi
-nav_order: 300
+nav_order: 30
 has_children: true
 ---
 

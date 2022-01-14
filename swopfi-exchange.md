@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Exchange
-nav_order: 320
+nav_order: 32
 parent: SwopFi
 ---
 
