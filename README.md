@@ -3,7 +3,8 @@ Documentation WebSite of WavesPolska
 \
 [Telegram](https://t.me/wavesexchange_polska)
 
-Website Structure:
+## Website Structure:
+
 \
 **Home** `nav_order: 1` - `index.md`
 
@@ -24,7 +25,7 @@ Website Structure:
 - FAQ `nav_order: 23` - `neutrino-faq.md`
 
 \
-**SwopFi** `nav_order: 30` `has_children: true` - `swopfi.md`
+**SwopFi** `nav_order: 30` - `has_children: true` - `swopfi.md`
 - Account `nav_order: 31` - `swopfi-account.md`
 - Exchange `nav_order: 32` - `swopfi-exchange.md`
 - Farming `nav_order: 33` - `swopfi-farming.md`
@@ -32,36 +33,37 @@ Website Structure:
 - Launchpad `nav_order: 35` - `swopfi-launchpad.md`
 - Burning `nav_order: 36` - `swopfi-burning.md`
 - AMA's `nav_order: 37` - `swopfi-ama.md`
-\
-**ViresFinance** `400`
-- Blockchain Bridge `410`
-- vTokens `420`
-- Whitepaper `430`
 
 \
-**PuzzleSwop** `500`
-- Mega pools `510`
-- DEX Aggregator `520`
+**ViresFinance** `nav_order: 40` - `has_children: true`
+- Blockchain Bridge `nav_order: 41` - 
+- vTokens `nav_order: 42`
+- Whitepaper `nav_order: 43`
 
 \
-**WavesDucks** `600`
-- Incubator `610`
-- Breeding `620`
-- Marketplace `630`
-- Collective Farms `640`
-- Play To Earn `650`
+**PuzzleSwop** `nav_order: 50` - `has_children: true`
+- Mega pools `nav_order: 51`
+- DEX Aggregator `nav_order: 52`
 
 \
-**MetaRace** `700`
-
-**SignArt** `800`
-
-**EnnoWallet** `900`
-
-**Bonus** `1000`
-- Słownik Blockchain `1010`
-- FAQ `1020`
+**WavesDucks** `nav_order: 60` - `has_children: true`
+- Incubator `nav_order: 61`
+- Breeding `nav_order: 62`
+- Marketplace `nav_order: 63`
+- Collective Farms `nav_order: 64`
+- Play To Earn `nav_order: 65`
 
 \
-**Kontakt** `1100`
+**MetaRace** `nav_order: 70`
+
+**SignArt** `nav_order: 80`
+
+**EnnoWallet** `nav_order: 90`
+
+**Bonus** `nav_order: 100` - `has_children: true`
+- Słownik Blockchain `nav_order: 101`
+- FAQ `nav_order: 102`
+
+\
+**Kontakt** `nav_order: 110`
 
