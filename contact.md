@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kontakt
-nav_order: 1100
+nav_order: 110
 ---
 
 **Kontakt:**

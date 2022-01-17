@@ -1,7 +1,7 @@
 ---
 layout: default
 title: vTokens
-nav_order: 420
+nav_order: 42
 parent: ViresFinance
 ---
 # vTokens

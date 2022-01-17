@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Whitepaper
-nav_order: 430
+nav_order: 43
 parent: ViresFinance
 ---
 

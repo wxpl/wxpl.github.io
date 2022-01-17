@@ -35,10 +35,10 @@ Documentation WebSite of WavesPolska
 - AMA's `nav_order: 37` - `swopfi-ama.md`
 
 \
-**ViresFinance** `nav_order: 40` - `has_children: true`
-- Blockchain Bridge `nav_order: 41` - 
-- vTokens `nav_order: 42`
-- Whitepaper `nav_order: 43`
+**ViresFinance** `nav_order: 40` - `has_children: true` - `viresfinance.md`
+- Blockchain Bridge `nav_order: 41` - `vires-bridge.md`
+- vTokens `nav_order: 42` - `vires-vtokens.md`
+- Whitepaper `nav_order: 43` - `vires-whitepaper.md`
 
 \
 **PuzzleSwop** `nav_order: 50` - `has_children: true`
