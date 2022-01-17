@@ -4,11 +4,8 @@ title: vTokens
 nav_order: 420
 parent: ViresFinance
 ---
-
+# vTokens
 ![vTokens](https://miro.medium.com/max/2400/1*em31lm1RQDkj7OeUMP09Iw.png)
-
-**vTokens**
-
 Zaawansowana funkcjonalność do zarządzania depozytem
 
 **Co to są vTokeny?**
@@ -37,5 +34,7 @@ vTokeny mogą być wymienione na bazowe aktywa.
 
 
 
+
+
 \
-Zaproponuj zmiany porzez portal [GitHub](https://github.com/wxpl/wxpl.github.io) lub skontaktuj się pisząc na [email](mailto:contact@wxpl.club) lub [Telegram](https://t.me/wavesexchange_polska)
+*Zaproponuj zmiany porzez portal [GitHub](https://github.com/wxpl/wxpl.github.io) lub skontaktuj się pisząc na [email](mailto:contact@wxpl.club) lub [Telegram](https://t.me/wavesexchange_polska).*
