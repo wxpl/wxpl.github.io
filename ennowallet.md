@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EnnoWallet
-nav_order: 900
+nav_order: 90
 ---
 
 **EnnoWallet**

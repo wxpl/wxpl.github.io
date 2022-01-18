@@ -1,7 +1,7 @@
 ---
 layout: default
 title: WavesDucks
-nav_order: 600
+nav_order: 60
 has_children: true
 ---
 

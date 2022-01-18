@@ -4,10 +4,10 @@ title: WavesPolska
 nav_order: 2
 ---
 
-*Uczyć się i nie myśleć to strata czasu, myśleć i nie uczyć się to niebezpieczeństwo.*
+>*Uczyć się i nie myśleć to strata czasu, myśleć i nie uczyć się to niebezpieczeństwo.*
+>\
+>*– Konfucjusz*
 
-*– Konfucjusz*\
-\
 Witamy na stronie dokumentacji **WavesPolska**\
 \
 Celem niniejszego zbioru informacji jest skatalogowanie i usystematyzowanie wiedzy związanej z produktami oraz usługami dostępnymi w ekosystemie **Waves**.

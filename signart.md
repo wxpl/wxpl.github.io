@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SignArt
-nav_order: 800
+nav_order: 80
 ---
 
 **SignArt**

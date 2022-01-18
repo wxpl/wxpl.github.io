@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQ
-nav_order: 1020
+nav_order: 102
 parent: Bonus
 ---
 

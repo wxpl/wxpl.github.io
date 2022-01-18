@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Słownik
-nav_order: 910
+nav_order: 101
 parent: Bonus
 ---
 

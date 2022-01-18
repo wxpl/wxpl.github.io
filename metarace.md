@@ -1,7 +1,7 @@
 ---
 layout: default
 title: MetaRace
-nav_order: 700
+nav_order: 70
 ---
 
 **MetaRace**
