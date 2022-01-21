@@ -1,10 +1,14 @@
 ---
+
 layout: default
 title: vTokens
 nav_order: 42
 parent: ViresFinance
+
 ---
+
 # vTokens
+
 ![vTokens](https://miro.medium.com/max/2400/1*em31lm1RQDkj7OeUMP09Iw.png)
 Zaawansowana funkcjonalność do zarządzania depozytem
 
@@ -31,10 +35,6 @@ Twoja siła pożyczkowa jest zmniejszona, vTokeny nie generują nagród VIRES.
 
 vTokeny mogą być użyte do uzupełnienia Twojego depozytu,
 vTokeny mogą być wymienione na bazowe aktywa.
-
-
-
-
 
 \
 *Zaproponuj zmiany porzez portal [GitHub](https://github.com/wxpl/wxpl.github.io) lub skontaktuj się pisząc na [email](mailto:contact@wxpl.club) lub [Telegram](https://t.me/wavesexchange_polska).*
