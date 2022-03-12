@@ -32,17 +32,17 @@ Jeżeli wartość niespłaconych pożyczek na koncie przekracza zdolność kredy
 **2.4. Model stopy procentowej**
 
 Stopa procentowa kredytu `I` dla danego składnika aktywów a jest funkcją jego wykorzystania `U` , które jest parametryzowane dla każdego składnika aktywów:
-![01](images/01_vires-formula.png)
-![02](images/02_vires-formula.png)
+![01](/images/01_vires-formula.png)
+![02](/images/02_vires-formula.png)
 
 **2.4.1. Dynamika Rynku**
 
 Przy każdym wystąpieniu transakcji, Indeks Stopy Procentowej dla danego składnika aktywów jest aktualizowany w celu skompensowania odsetek od poprzedniego indeksu, używając odsetek za dany okres, denominowane przez `r * t`, obliczone przy użyciu stopy procentowej per-block:
-![03](images/03_vires-formula.png)
+![03](/images/03_vires-formula.png)
 Odpowiednio,
-![04](images/04_vires-formula.png)
+![04](/images/04_vires-formula.png)
 oraz,
-![05](images/05_vires-formula.png)
+![05](/images/05_vires-formula.png)
 Zatem `λ`, mieszcząca się w przedziale od 0 do 1, reprezentuje współczynnik rezerwy, zapewniając, że część naliczonych odsetek zostanie zatrzymana (odłożona) jako rezerwa.
 
 **2.4.2. Bodziec płynnościowy**
@@ -56,19 +56,19 @@ Opisane mechanizmy są zaimplementowane jako system połączonych ze sobą intel
 **3.1. Zdolność pożyczkowa**
 
 Za każdym razem, gdy użytkownik wpłaca środki do rezerwy tokenów, może zdecydować, czy chce wykorzystać chce wykorzystać depozyt tokenów jako zabezpieczenie. Zdolność użytkownika do zaciągania pożyczek jest definiowana jako suma ważona wszystkich jego aktywów, wykorzystywanych jako zabezpieczenie:
-![05](images/06_vires-formula.png)
+![05](/images/06_vires-formula.png)
 gdzie
 - `Ltv` jest wyrażonym w procentach stosunkiem wartości kredytu do wartości nieruchomości,
 - `C (u,a)` jest opcją użycia jako zabezpieczenia ustaloną przez użytkownika,
 - `Price a` to cena aktywa `a` podana przez wyrocznię (oracle);
 \
-![diagram](images/vires-smartcontract.svg)
+![diagram](/images/vires-smartcontract.svg)
 
 
 **3.2. Próg likwidacji**
 
 Wykorzystana zdolność kredytowa użytkownika u (BCU u ) jest definiowana jako suma ważona wszystkich jego aktywów, wykorzystywanych jako zabezpieczenie:
-![05](images/07_vires-formula.png)
+![05](/images/07_vires-formula.png)
 gdzie `LT` oznacza wartość progu likwidacji dla każdego składnika aktywów, z zakresu od 0 do 1.
 
 **3.3. Czynnik kondycji i likwidacja**
