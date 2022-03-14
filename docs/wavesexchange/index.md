@@ -5,7 +5,7 @@ nav_order: 10
 has_children: true
 ---
 
-![WavesExchange Logo](images/logo-exchange-dark.svg)
+![WavesExchange Logo](/images/logo-exchange-dark.svg)
 
 **Co to jest WavesExchange?**
 

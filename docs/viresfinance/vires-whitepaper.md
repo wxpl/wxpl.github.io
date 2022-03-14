@@ -4,7 +4,7 @@ title: Whitepaper
 nav_order: 43
 parent: ViresFinance
 ---
-![ViresFinance](images/vires-logo.png)
+![ViresFinance](/images/vires-logo.png)
 
 # ViresFinance Whitepaper
 Protokół rynku pieniężnego dla Waves Ecosystem

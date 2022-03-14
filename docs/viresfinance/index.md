@@ -1,11 +1,15 @@
 ---
+
 layout: default
 title: ViresFinance
 nav_order: 40
 has_children: true
+
 ---
+
 # ViresFinance
-![ViresFinance](images/vires-logo.png)
+
+![ViresFinance](/images/vires-logo.png)
 
 ## Wprowadzenie
 
