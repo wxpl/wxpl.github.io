@@ -9,7 +9,7 @@ permalink: /wx-faq
 # WavesExchange - FAQ
 {: .no_toc }
 
-<details open markdown="block">
+<details closed markdown="block">
   <summary>
     Spis Treści
   </summary>
@@ -19,10 +19,6 @@ permalink: /wx-faq
 </details>
 
 ## Rejestracja i logowanie
-
-FAQ
-
-## WavesExchange - Rejestracja i logowanie
 
 ### **Dlaczego polecacie mi używać konta e-mail?**
 
