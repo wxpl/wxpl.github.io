@@ -92,4 +92,4 @@ Jeśli aktywo nie jest używane jako zabezpieczenie, użytkownik może stworzyć
 \
 \
 \
-*Zaproponuj zmiany porzez portal [GitHub](https://github.com/wxpl/wxpl.github.io) lub skontaktuj się pisząc na [email](mailto:contact@wxpl.club) lub [Telegram](https://t.me/wavesexchange_polska).*
+*Zaproponuj zmiany porzez portal [GitHub](https://github.com/wxpl/wxpl.github.io) lub skontaktuj się pisząc na [email](mailto:contact@wxpl.club) lub [Telegram](https://t.me/waves_polska).*
