@@ -13,6 +13,5 @@ Waves Exchange (dawniej Waves DEX) to szybkie i bezpieczne zdecentralizowane śr
 Okrzyknięta "najbezpieczniejszą na świecie giełdą kryptowalut" i "najszybszym DEX-em", Waves Exchange nie wymaga od użytkowników przekazania opieki nad ich aktywami podczas handlu i ma wyjątkowo niskie opłaty transakcyjne - na poziomie zaledwie 0,003% za wypełnione zlecenie.
 Poza prostymi funkcjami handlu kryptowalutami, Waves Exchange pozwala użytkownikom na ulokowanie różnych aktywów w celu uzyskania zmiennego oprocentowania. Platforma oferuje możliwość zakupu Bitcoin (BTC) i USD Neutrino (USDN) za pomocą karty kredytowej.
 
-
 \
 *Zaproponuj zmiany poprzez portal [GitHub](https://github.com/wxpl/wxpl.github.io) lub skontaktuj się pisząc na [email](mailto:contact@wxpl.club) lub [Telegram](https://t.me/waves_polska).*
