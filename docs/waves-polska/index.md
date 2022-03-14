@@ -23,3 +23,8 @@ Strona w całości dostępna na portalu Github, dzięki czemu możesz w łatwy s
 Wszystkie materiały znajdujące się na tej stronie są dostępne bezpłatnie i mogą być rozpowszechniane bez ograniczeń wyłącznie do użytku niekomercyjnego.
 
 Żadna z informacji przedstawionych na naszej stronie nie powinna być traktowana jako wiążąca oferta, czy porada finansowa lecz jako zaproszenie dla osoby trzeciej do zapoznania się z systemem Waves.Exchange ©2022
+
+\
+\
+\
+*Zaproponuj zmiany poprzez portal [GitHub](https://github.com/wxpl/wxpl.github.io) lub skontaktuj się pisząc na [email](mailto:contact@wxpl.club) lub [Telegram](https://t.me/waves_polska).*

@@ -27,4 +27,6 @@ Aby skorzystać z usługi, wystarczy dostarczyć preferowane aktywa. Po dostarcz
 Dodatkowo, niektóre tokeny (na przykład WAVES i USDN) są bezpiecznie stakkowane w ekosystemie, aby uzyskać dodatkowy dochód dla deponentów.
 
 \
+\
+\
 *Zaproponuj zmiany poprzez portal [GitHub](https://github.com/wxpl/wxpl.github.io) lub skontaktuj się pisząc na [email](mailto:contact@wxpl.club) lub [Telegram](https://t.me/waves_polska).*

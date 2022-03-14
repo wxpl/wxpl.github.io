@@ -93,3 +93,8 @@ W opublikowanej „road” mapie na kolejny rok znajduje się min.:
 Technologie Waves są wspierane przez Waves Association - berlińską organizację non-profit, która promuje badania nad Waves, edukację i zapewnia granty dla projektów opartych na stosie Waves. Ani kontrola, ani prowadzenie nie leżą w rękach stowarzyszenia - Waves jest budowany i utrzymywany przez społeczność.
 
 Aby dowiedzieć się więcej o stowarzyszeniu, odwiedź stronę: [https://wavesassociation.org](https://wavesassociation.org)
+
+\
+\
+\
+*Zaproponuj zmiany poprzez portal [GitHub](https://github.com/wxpl/wxpl.github.io) lub skontaktuj się pisząc na [email](mailto:contact@wxpl.club) lub [Telegram](https://t.me/waves_polska).*

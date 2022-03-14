@@ -37,4 +37,6 @@ vTokeny mogą być użyte do uzupełnienia Twojego depozytu,
 vTokeny mogą być wymienione na bazowe aktywa.
 
 \
+\
+\
 *Zaproponuj zmiany poprzez portal [GitHub](https://github.com/wxpl/wxpl.github.io) lub skontaktuj się pisząc na [email](mailto:contact@wxpl.club) lub [Telegram](https://t.me/waves_polska).*
