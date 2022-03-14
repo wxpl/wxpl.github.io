@@ -9,3 +9,7 @@ title: WavesPolska
 tagline: "Dokumentacja WavesPolska"
 description: "Materiały edukacyjne na temat technologii Waves"
 type: website
+
+# Google Analytics
+ga_tracking: G-GZEZBSNWE3
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)

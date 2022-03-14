@@ -2,15 +2,14 @@
 
 layout: default
 title: Elevate CV
-nav_order: 103
+nav_order: 102
 parent: Bonus
 permalink: /bonus/elevate-cv
 
 ---
 
 # Elevate CV
-[Twitter](https://twitter.com/Elevate_CV)
-[Medium](https://elevate-cv.medium.com/)
+[Twitter](https://twitter.com/Elevate_CV) | [Medium](https://elevate-cv.medium.com/)
 
 Elevate i Stakenode skupia się na budowaniu oraz edukowaniu wszystkich tych, którzy chcą zgłębić wiedzę na temat technologii blockchain ze szczególnym uwzględnieniem sieci PoS. Obecnie wspieramy większość PoS sieci z ekosystemu Polkadot.
 
@@ -19,7 +18,7 @@ Stakenode to bramka do gospodarki Polkadot. Dostarczamy wszystkie możliwe opcje
 Stale się rozwijamy, a to dopiero początek tego, co mamy w głowach i ambicjach. ELEVATE Community Ventures LLC będzie to finansowa warstwa ekosystemu, który staramy się rozwijać i pomoże nam zapewnić naszej społeczności na wczesnym etapie możliwości inwestycyjne, takie jak seed / private sales.
 
 
-## Giełda WAVES Exchange 🌊. Jak Zacząć Jak Kupić Jak Handlować i zarabiać pasywnie.
+**Giełda WAVES Exchange 🌊. Jak Zacząć Jak Kupić Jak Handlować i zarabiać pasywnie.**
 
 [![zywiec-01](/images/zywiec-01.png)](https://youtu.be/qM2BmYEBImo){:target="_blank"}
 

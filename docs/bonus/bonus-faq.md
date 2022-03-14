@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQ
-nav_order: 102
+nav_order: 103
 parent: Bonus
 ---
 
@@ -9,4 +9,4 @@ parent: Bonus
 
 Zaangażuj się w rozwój projektu.
 
-Zaproponuj zmiany porzez portal [GitHub](https://github.com/wxpl/wxpl.github.io) lub skontaktuj się pisząc na [email](mailto:contact@wxpl.club) lub [Telegramie](https://t.me/wavesexchange_polska)
+Zaproponuj zmiany porzez portal [GitHub](https://github.com/wxpl/wxpl.github.io) lub skontaktuj się pisząc na [email](mailto:contact@wxpl.club) lub [Telegramie](https://t.me/waves_polska)
