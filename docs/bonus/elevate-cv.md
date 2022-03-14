@@ -22,4 +22,4 @@ Stale się rozwijamy, a to dopiero początek tego, co mamy w głowach i ambicjac
 
 [![zywiec-01](/images/zywiec-01.png)](https://youtu.be/qM2BmYEBImo){:target="_blank"}
 
-Dziś moim gościem jest Zibi - ekspert na sieci Waves. Zbyszek zaprezentuje wam platformę https://waves.exchange/ gdzie przeprowadzi Nas przez wszystkie zakładki oraz pokaże jak stworzyć swój pierwszy portfel na tej sieci.
+Dziś moim gościem jest Zibi - ekspert na sieci Waves. Zbyszek zaprezentuje wam platformę [WavesExchange](https://waves.exchange), gdzie przeprowadzi Nas przez wszystkie zakładki oraz pokaże jak stworzyć swój pierwszy portfel na tej sieci.
