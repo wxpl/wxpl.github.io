@@ -8,7 +8,6 @@ permalink: /nsbt
 ---
 
 # NSBT
-
 {: .no_toc }
 
 <details closed markdown="block">
@@ -21,7 +20,7 @@ permalink: /nsbt
 </details>
 
 Token Neutrino lub NSBT (skrót od Neutrino System Base Token) to token rekapitalizacyjny i zarządzający systemem Neutrino.
-\
+
 Jako token rekapitalizacyjny, NSBT zapewnia stabilność rezerw zabezpieczeń w głównym smart kontrakcie Neutrino. Nowe tokeny NSBT są wydawane w celu zablokowania WAVES w kontrakcie, służąc jako dodatkowe zabezpieczenie i ubezpieczając system przed deficytem. Kiedy wartość tokenów WAVES w USDN spada, pozwala to użytkownikom spekulować na parametrze Backing Ratio (BR).
 
 ## Krzywa emisji NSBT
@@ -31,8 +30,11 @@ Cena emisyjna NSBT, czyli cena, za którą inteligentny kontrakt sprzedaje NSBT 
 ![01-nsbt](/images/01-nsbt.png)
 
 gdzie
+\
 М = maksymalna podaż NSBT
+\
 S = całkowita bieżąca podaż NSBT
+\
 K = dodatkowy współczynnik oparty na BR i innych parametrach:
 
 ![02-nsbt](/images/02-nsbt.png)
@@ -53,12 +55,17 @@ Jako token zarządzający, NSBT ułatwia głosowanie przy wydawaniu nowych aktyw
 ## Stakowanie NSBT
 
 NSBT jest aktywem stakowalnym umożliwiającym posiadaczom zarabianie na opłatach za transakcje swapowe WAVES<>USDN. Opłaty za transakcje swapowe są gromadzone w puli, a następnie codziennie rozdzielane pomiędzy stakerów NSBT. Opłaty są zbierane w USDN dla swapów WAVES na USDN oraz w WAVES dla swapów USDN na WAVES. Nagrody są wypłacane codziennie do portfeli Waves stakerów NSBT. 
-\
+
 Aby stakować NSBT, musisz wysłać tokeny do smart kontraktu. Można to zrobić poprzez interfejs [Waves.Exchange](https://waves.exchange).
 Wielkość nagrody za stakowanie NSBT zależy od wolumenu wymian WAVES<>USDN oraz udziału salda stakującego użytkownika w całkowitej ilości stakowanych NSBT. Okres obliczeniowy wynosi 1 440 bloków, co odpowiada około 24 godzinom. Po wygaśnięciu 1440 bloków opłaty za swap zaczynają być rozdzielane między stakerów NSBT. System dystrybucji wykorzystuje parametr IPB (dochód na blok). Aby go obliczyć, całkowity dochód okresu (całkowity dochód za okres obliczeniowy) jest dzielony przez 1,440 bloków:
-\
+
 IPB = całkowity dochód okresu / okres obliczeniowy.
-\
+
 Aby obliczyć udział IPB (udział dochodu przypadającego na blok), system dystrybucji określa saldo stawki każdego użytkownika w każdym bloku i dzieli tę wartość przez sumę wszystkich sald stawki:
-\
+
 *Udział IPB = saldo stawek użytkownika w bloku / suma wszystkich stawek w bloku*
+
+\
+\
+\
+*Zaproponuj zmiany poprzez portal [GitHub](https://github.com/wxpl/wxpl.github.io) lub skontaktuj się pisząc na [email](mailto:contact@wxpl.club) lub [Telegram](https://t.me/waves_polska).*
