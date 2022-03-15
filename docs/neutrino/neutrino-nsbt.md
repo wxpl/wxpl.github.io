@@ -40,6 +40,7 @@ K = dodatkowy współczynnik oparty na BR i innych parametrach:
 ![02-nsbt](/images/02-nsbt.png)
 
 a = parametr w BR
+\
 b = współczynnik wygładzający, który zapobiega gwałtownym skokom stawek w momencie wdrożenia.
 
 Kiedy Backing Ratio spada lub pojawia się deficyt (BR<1), a aktualny fundusz rezerwowy nie jest wystarczający, by zrekompensować spadek wartości zabezpieczenia, NSBT służy jako obligacja. Traderzy kupują NSBT za WAVES za pomocą inteligentnego kontraktu, oczekując zwrotu w przyszłości, gdy BR zostanie odzyskany. Kiedy BR osiągnie 1,5 lub 150% nadwyżki, cena emisyjna NSBT gwałtownie wzrasta, a ponieważ maksymalna możliwa podaż tokenów jest ograniczona do 2,8 miliona tokenów, cena emisyjna rośnie wykładniczo, co zapewnia rezerwy z dodatkowym zabezpieczeniem chroniącym cały system przed deficytem.

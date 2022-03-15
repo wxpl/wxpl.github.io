@@ -157,6 +157,121 @@ Aby zapłacić opłatę sieciową, możesz kupić Waves na giełdzie lub zapłac
 
 Aby uiścić opłatę bramkową, możesz kupić potrzebne aktywa na giełdzie lub zmniejszyć kwotę wypłaty.
 
+## Pule Płynności
+
+### **Czym są Pule Płynności?**
+
+Liquidity Pools to nowy produkt inwestycyjny, który pozwala użytkownikom na otrzymywanie pasywnego dochodu poprzez dostarczanie płynności do puli płynności w celu usprawnienia handlu.
+
+Pula płynności to ilość tokenów zebranych na inteligentnym kontrakcie, który zapewnia płynność zdecentralizowanemu handlowi Waves Exchange. Pule płynności ułatwiają i przyspieszają proces handlu za pomocą AMM (Automated Market Making). Algorytm AMM automatycznie wypełnia zlecenia traderów, wykorzystując płynność puli. AMM kontroluje proporcje tokenów w każdej puli w zależności od zmiany ceny.
+
+Środki na pule płynności są dostarczane przez użytkowników zwanych dostawcami płynności.
+
+### **Czym jest Liquidity Provider?**
+
+Dostawca Płynności (Liquidity Provider) to użytkownik, który dostarcza płynność do puli i w zamian otrzymuje tokeny LP.
+
+### **Co to jest token LP?**
+
+Token LP (Liquidity Provider Token) to token, który otrzymujesz, gdy wpłacasz swoje środki do puli płynności. Nazwa tokena LP jest oparta na nazwie puli płynności (na przykład nazwa tokena LP puli BTC/USDN to BTCUSDNLP). Cena tokena LP rośnie proporcjonalnie do przychodów z działalności handlowej z wykorzystaniem płynności puli.
+
+Możesz stakować tokeny LP, aby otrzymywać nagrody WX.
+
+W każdej chwili możesz wycofać tokeny LP i wypłacić zdeponowane środki. Przy wypłacie otrzymana ilość tokenów może różnić się od zdeponowanej. Różnica ta wynika ze zmiany ceny tokenów od momentu wpłaty.
+
+### **Jaka jest nagroda za stakowanie tokenów LP?**
+
+Ten rodzaj nagrody jest wypłacany w tokenach WX tym dostawcom płynności, którzy złożyli swoje tokeny LP w stakach. Wysokość nagrody zależy od nagrody tAPY odpowiedniej puli i może być zwiększona przez boosting. Wypłata nagrody ma miejsce za każdym razem, gdy do blockchaina Waves dodawany jest nowy blok. Nagroda w tokenach WX jest gromadzona na kontrakcie. Możesz odebrać WX z kontraktu ręcznie.
+
+### **Czym jest nagroda za zarządzanie?**
+
+Ten rodzaj nagrody jest wypłacany w tokenach WX użytkownikom, którzy posiadają gWX. Opłaty za handel spot oraz 5% emisji WX są co tydzień wypłacane posiadaczom gWX.
+
+Wysokość nagrody zależy od udziału użytkownika w gWX oraz od wysokości opłat za zarządzanie i emisji WX zebranych w danym tygodniu. Na przykład, jeśli użytkownik ma 0,5% wszystkich istniejących gWX, to otrzyma 0,5% zebranej kwoty. Możesz odebrać nagrodę za zarządzanie z kontraktu ręcznie.
+
+### ***Co to jest Base vAPY (Variable Annual Percentage Yield)?***
+
+Bazowe vAPY wskazuje przyrost liczby tokenów puli (np. WAVES/USDN), które dostawca płynności otrzymuje, gdy zwraca jeden ze swoich tokenów LP z powrotem do puli (tzn. akcja wycofania). Zysk z tego działania jest akumulowany w odpowiednich pulach i zwiększa wolumen ich płynności. Im większy zysk osiąga pula, tym wyższa jest wartość jej Bazowego vAPY i tym wyższa cena tokena LP puli.
+
+Bazowa vAPY dla puli regularnych jest obliczana według następującego wzoru:
+![01-vapy](/images/01-vapy.png)
+
+Parametry:
+\
+A - ilość tokenów bazowych w puli.
+\
+B - ilość tokenów cenowych w puli.
+\
+Ndays - liczba dni w przedziale szacowania.
+
+Bazowe vAPY dla stabilnych puli jest obliczana według następującego wzoru:
+![02-vapy](/images/02-vapy.png)
+![03-vapy](/images/03-vapy.png)
+![04-vapy](/images/04-vapy.png)
+
+Parametry:
+\
+A - ilość tokenów bazowych w puli.
+\
+B - ilość tokenów cenowych w puli.
+\
+Ndays - liczba dni w przedziale szacowania.
+\
+L - współczynnik amplifikacji (L = 50).
+
+### **Czym jest Nagroda tAPY (Token Annual Percentage Yield)?**
+
+Nagroda tAPY określa wysokość nagrody za stawianie tokenów LP. Każda pula ma minimalną i maksymalną wartość nagrody tAPY. Wartość minimalna wskazuje ilość WX, jaką dostawca płynności może uzyskać bez boostingu. Maksymalna wartość może być osiągnięta przez boosting (uzyskanie gWX).
+
+### **Co to jest token WX?**
+
+Token WX jest tokenem zarządzającym zdecentralizowanej giełdy Waves.Exchange.
+
+### **Czym jest gWX?**
+
+gWX nie jest tokenem. Jest to jednostka, w której mierzy się boosting i siłę głosu*. Im więcej gWX posiadasz, tym większa jest Twoja siła przebicia i siła głosu. Aby zdobyć gWX, musisz zablokować tokeny WX na pewien czas. Im dłużej zablokujesz swoje WX, tym więcej gWX otrzymasz.
+
+Wszyscy posiadacze gWX (nie tylko dostawcy płynności) są uprawnieni do otrzymywania regularnych nagród za zarządzanie w WX.
+
+Zwróć uwagę, że ilość gWX na twoim saldzie stopniowo maleje, począwszy od momentu, w którym je otrzymałeś. Zmniejszanie gWX nie ma wpływu na ilość WX, która została zablokowana. Możesz odzyskać wszystkie WX po zakończeniu okresu blokady.
+
+*funkcja głosowania pojawi się wkrótce.*
+
+### **Co to jest Boosting?**
+
+Boosting to mechanizm, który pozwala na zwiększenie nagrody za stakowanie tokenów LP. Boosting jest automatycznie aktywowany dla dostawców płynności, którzy posiadają gWX.
+
+Ilość gWX potrzebna do maksymalnego boostingu zależy od twojego udziału w stakowanych tokenach LP. Im większy jest twój udział, tym więcej gWX potrzebujesz do boostowania.
+
+### **Co to jest Waga Puli?**
+
+Waga puli (weight pool) wskazuje, jaka część tokenów WX trafi do tej puli płynności, gdy tokeny WX zostaną uwolnione. Im większa jest waga puli, tym więcej tokenów WX otrzyma pula i tym wyższą Nagrodą tAPY dysponuje ta pula. Waga puli może zostać zmieniona przez głosowanie* lub po uruchomieniu nowej puli.
+
+*Funkcja głosowania będzie wkrótce dostępna.*
+
+### **Co to jest strata nietrwała?**
+
+Strata nietrwała (impermanent loss) opisuje tymczasową utratę środków, której doświadczają dostawcy płynności (LP) z powodu zmienności w parze handlowej.
+
+Ilustruje to również, o ile więcej pieniędzy ktoś mógłby mieć, gdyby po prostu trzymał swoje tokeny zamiast dostarczać płynność do puli.
+
+Dzieje się tak, gdy cena jednego tokena w ramach puli płynności zmienia się w stosunku do innego w dowolnym kierunku. Im większa jest ta zmiana, tym większa jest strata nietrwała. Straty nietrwałe nazywamy nietrwałymi lub niezrealizowanymi, ponieważ nie są one rejestrowane do momentu wycofania tokenów z puli płynności. Strata staje się trwała tylko wtedy, gdy dostawca zdecyduje się wycofać swoją płynność z puli. Innymi słowy, jeśli zdecydujesz się wycofać płynność, w pewnym momencie jej wartość może być niższa niż w momencie jej dostarczenia, a strata staje się trwała.
+
+Przykład:
+
+Zdeponowałeś 100 USDN i 5 WAVES do puli WAVES/USDN (w sumie 200 USD, przy cenie 1 WAVES = 20 USDN).
+
+Jeśli cena WAVES spadnie do 15 USDN, to AMM (Automated Market Maker) automatycznie wyrówna proporcje tokenów w puli i tym samym określi ich wartość według wzoru:
+
+ilość USDN × ilość WAVES = stała
+
+oraz
+
+ilość USDN / ilość WAVES = aktualna cena WAVES
+
+Obliczając, otrzymujemy, że wartość twoich tokenów w puli wynosi 173,2 USD (86,6 USDN i 5,77 WAVES). Gdybyś zatrzymał tokeny w swoim portfelu, ich wartość wyniosłaby 175 dolarów (100 USDN i 5 WAVES). Nietrwała strata wynosi 175$ - 173,2$ = 1,8$.
+Nietrwała strata jest nieodłącznym ryzykiem związanym z dostarczaniem płynności do puli i zależy bezpośrednio od zmienności pary handlowej. Dlatego, jeśli chcesz zminimalizować potencjalne straty, możesz inwestować w stabilne pule, takie jak USDT/USDN.
+
 
 
 \
