@@ -189,7 +189,7 @@ Ten rodzaj nagrody jest wypłacany w tokenach WX użytkownikom, którzy posiadaj
 
 Wysokość nagrody zależy od udziału użytkownika w gWX oraz od wysokości opłat za zarządzanie i emisji WX zebranych w danym tygodniu. Na przykład, jeśli użytkownik ma 0,5% wszystkich istniejących gWX, to otrzyma 0,5% zebranej kwoty. Możesz odebrać nagrodę za zarządzanie z kontraktu ręcznie.
 
-### ***Co to jest Base vAPY (Variable Annual Percentage Yield)?***
+### **Co to jest Base vAPY (Variable Annual Percentage Yield)?**
 
 Bazowe vAPY wskazuje przyrost liczby tokenów puli (np. WAVES/USDN), które dostawca płynności otrzymuje, gdy zwraca jeden ze swoich tokenów LP z powrotem do puli (tzn. akcja wycofania). Zysk z tego działania jest akumulowany w odpowiednich pulach i zwiększa wolumen ich płynności. Im większy zysk osiąga pula, tym wyższa jest wartość jej Bazowego vAPY i tym wyższa cena tokena LP puli.
 
