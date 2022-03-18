@@ -8,9 +8,8 @@ permalink: /bonus/wavescap
 
 ---
 
-<span class="fs-8">
+
 [WavesCap](https://wavescap.com){: .btn .btn-blue }
-</span>
 
 ## Tracking Waves Token Prices, DApps and Nodes
 

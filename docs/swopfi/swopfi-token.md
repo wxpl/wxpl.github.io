@@ -5,7 +5,7 @@ nav_order: 31
 parent: SwopFi
 permalink: /swop-token
 ---
-<details closed markdown="block">
+<details open markdown="block">
   <summary>
     Spis Treści
   </summary>
@@ -16,7 +16,7 @@ permalink: /swop-token
 
 # SWOP jest tutaj
 
-2021-02-01  |  [Medium](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456)
+2021-02-01 [Medium](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456)
 
 ![](/images/01_swop-is-here.png)
 
@@ -61,7 +61,7 @@ Nowa część nagrody za zarządzanie staje się dostępna mniej więcej raz na 
 
 # Jaka będzie cena tokena SWOP?
 
-2021-02-05 | [Medium](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456)
+2021-02-05 [Medium](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456)
 
 ![](01_swop-price.png)
 
