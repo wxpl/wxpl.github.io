@@ -15,8 +15,9 @@ permalink: /swop-token
 </details>
 
 # SWOP jest tutaj
+*2021-02-01* 
 
-2021-02-01 [![Medium](/images/medium.svg)](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456){:target="_blank"}
+[![Medium](/images/medium.svg)](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456){:target="_blank"}
 
 ![](/images/01_swop-is-here.png)
 
@@ -60,10 +61,11 @@ Dzięki temu możesz nadal zarabiać tę nagrodę, nawet jeśli usuniesz płynno
 Nowa część nagrody za zarządzanie staje się dostępna mniej więcej raz na godzinę. Możesz odebrać swoją nagrodę lub stakować ją ponownie.
 
 # Jaka będzie cena tokena SWOP?
+*2021-02-05*
 
-2021-02-05 [![Medium](/images/medium.svg)](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456){:target="_blank"}
+[![Medium](/images/medium.svg)](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456){:target="_blank"}
 
-![](01_swop-price.png)
+![](/images/01_swop-price.png)
 
 *W tym artykule omówimy główne czynniki, które mogą mieć wpływ na cenę tokena SWOP.*
 
@@ -94,7 +96,7 @@ W ciągu drugiego roku udostępniony zostanie kolejny 1 mln tokenów SWOP. W ka�
 
 Ten diagram pokazuje planowaną podaż SWOP na najbliższe 10 lat. W 2031 roku zostanie wyemitowanych około 75 000 nowych tokenów, a całkowita podaż osiągnie około 5,7 mln.
 
-[](/images/02_swop-price.png)
+![](/images/02_swop-price.png)
 
 \
 \
