@@ -8,15 +8,15 @@ permalink: /swop-exchange
 
 ## Exchange
 
-Before the exchange, you should have at least 0.005 WAVES to pay the network fee.
+Przed wymianą powinieneś mieć co najmniej 0,005 WAVES, żeby zapłacić opłatę sieciową.
 
-For the USDT-USDN and USDC-USDN pair, the minimum amount to exchange is 10 USDT, or 10 USDC, or 10 USDN.
+Dla par USDT-USDN i USDC-USDN minimalna kwota do wymiany to 10 USDT, 10 USDC lub 10 USDN.
 
-1. Connect your wallet using Waves Keeper or Waves Exchange.
-2. In the side menu, select Exchange.
-3. Select the cryptocurrency pair.
-4. Enter the amount you pay. Review the estimated amount you get and click Swap.
-5. Sign the transaction and enjoy the speed!
+1. Podłącz swój portfel za pomocą Waves Keeper lub Waves Exchange.
+2. W menu bocznym wybierz `Exchange`.
+3. Wybierz parę kryptowalut.
+4. Wprowadź kwotę, którą płacisz. Sprawdź szacunkową kwotę, którą otrzymasz i kliknij `Swap`.
+5. Podpisz transakcję i ciesz się szybkością!
 
 ![](/images/swop-ex-1.png)
 

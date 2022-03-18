@@ -98,7 +98,7 @@ Jeśli posiadasz tokeny SWOP, możesz głosować za lub przeciw dodaniu nowej pu
 
 ## Anulowanie głosu
 
-Aby zresetować swój głos na daną pulę, zmień liczbę głosujących SWOP na 0. Zobacz poprzednie sekcje **Głosowanie na udział puli** i **Głosowanie na nową pulę**.
+Aby zresetować swój głos na daną pulę, zmień liczbę głosujących SWOP na 0. Zobacz poprzednie sekcje [**Głosowanie na udział puli**](https://wxpl.github.io/swop-governance#g%C5%82osowanie-na-podzia%C5%82-puli-pool-weight) i [**Głosowanie na nową pulę**](https://wxpl.github.io/swop-governance#g%C5%82osowanie-na-now%C4%85-pul%C4%99).
 
 
 \
