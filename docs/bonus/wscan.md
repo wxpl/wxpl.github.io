@@ -7,7 +7,7 @@ permalink: /bonus/wscan
 
 ---
 
-![wscan](/images/wscan.svg)
+![wscan](/images/wscan-logo.svg)
 
 ## Wscan.io - Waves Blockchain Explorer
 

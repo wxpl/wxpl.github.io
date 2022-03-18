@@ -75,7 +75,7 @@ Wiele osób zastanawia się nad ceną tokena SWOP w momencie emisji - kiedy dost
 2. Cena SWOP jest wspierana przez opłaty swapowe we wszystkich pulach swop.fi: im większa liczba transakcji, tym wyższa cena SWOP.
 3. Całkowita podaż tokenów SWOP będzie znacznie ograniczona.
 
-## Funkcje zarządcze
+## Funkcje zarządzania
 
 Tokeny SWOP będą potrzebne do zarządzania nagrodami w pulach płynności na późniejszych etapach. W przeciwieństwie do etapu "early bird", w którym dostarczenie płynności do dowolnej puli było nagradzane taką samą ilością tokenów SWOP, na późniejszych etapach nagroda dla każdej puli będzie ustalana w drodze głosowania za pomocą tokenów SWOP. Udział danej puli w całkowitej liczbie głosów będzie odpowiadał proporcji wpływów z opłat wypłacanych jej uczestnikom jako nagrody w ciągu kolejnego tygodniowego okresu.
 
