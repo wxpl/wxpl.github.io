@@ -5,12 +5,20 @@ nav_order: 31
 parent: SwopFi
 permalink: /swop-token
 ---
+<details closed markdown="block">
+  <summary>
+    Spis Treści
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 # SWOP jest tutaj
 
-2021-02-01 [Medium](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456)
+2021-02-01  |  [Medium](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456)
 
-![swop-time](https://miro.medium.com/max/1400/1*NrMiVfoqPgCiyJUlYSgbtA.png)
+![](/images/01_swop-is-here.png)
 
 Dziś mamy przyjemność zaprezentować SWOP - token zarządzania protokołem i specjalną zachętę dla dostawców płynności.
 1 milon SWOP jest zarezerwowane dla dostawców płynności typu early-bird, którym udało się zapewnić płynność przed startem. Nagroda za early-bird jest obliczana i zapisywana; będzie odblokowywana stopniowo w ciągu roku, jak pisaliśmy wcześniej. Kolejny 1 milion zostanie rozdane w ciągu pierwszego roku jako nagroda za farming SWOP zgodnie z planem emisji.
@@ -22,7 +30,7 @@ Stawiaj swoje tokeny udziałów, by otrzymać nagrodę za farmowanie SWOP. Zobac
 Wykorzystaj swoje dostępne SWOP-y, zarówno z nagrody za farmowanie, jak i nagrody early-bird, by otrzymać nagrodę za zarządzanie. Kiedy nagroda za zarządzanie zostanie ci przyznana, możesz ją również wykorzystać. Zobacz sekcję Stake SWOP w naszym przewodniku.
 Pamiętaj, że nie ma zrzutów z powietrza. Nagrodę możesz otrzymać po złożeniu wniosku. Zobacz sekcję Claim SWOP w naszym przewodniku.
 
-![](/images/01_swop-is-here.png)
+![](/images/02_swop-is-here.png)
 
 ## SWOP farming: nagroda za zapewnienie płynności
 
@@ -53,7 +61,7 @@ Nowa część nagrody za zarządzanie staje się dostępna mniej więcej raz na 
 
 # Jaka będzie cena tokena SWOP?
 
-2022-02-01 [Medium](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456)
+2021-02-05 | [Medium](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456)
 
 ![](01_swop-price.png)
 

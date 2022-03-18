@@ -21,10 +21,6 @@ Opłata za wymianę wynosi 0,3% kwoty wymiany (0,05% dla USDT-USDN i USDC-USDN).
 
 Projekt jest otwarty dla dostawców płynności: każdy może uzupełniać pulę i zarabiać na opłatach i nagrodach w SWOP.
 
-## Jaka będzie cena tokena SWOP?
-
-![](01_swop-price.png)
-
 \
 \
 \
