@@ -1,9 +1,12 @@
 ---
+
 layout: default
 title: AMA
 nav_order: 37
 parent: SwopFi
+
 ---
+
 ![Swop AMA](https://miro.medium.com/max/1400/1*a0ux2i8s2ueKXp0qrYGT8w.jpeg)
 *Poniższy artykuł jest przetłumaczoną wersją udokumentowanego AMA z marca 2021.
 Niewielka część materiału została poprawiona o aktualne informacje (grudzień 2021).*
@@ -76,3 +79,8 @@ Posiadacze SWOP mogą głosować nad parametrami systemu, na przykład nad wagam
 Jak wspomniano powyżej, funkcja niestandardowej puli jest obecnie w fazie rozwoju i będzie dostępna za kilka miesięcy. Wierzymy, że ten krok znacznie zwiększy popularność Swop.fi i przyciągnie więcej interesujących projektów wraz z ich społecznościami.
 
 *Źródło: [https://medium.com/swop-fi/swop-fi-explained-23316b447b39](https://medium.com/swop-fi/swop-fi-explained-23316b447b39)*
+
+\
+\
+\
+*Zaproponuj zmiany poprzez portal [GitHub](https://github.com/wxpl/wxpl.github.io) lub skontaktuj się pisząc na [email](mailto:contact@wxpl.club) lub [Telegram](https://t.me/waves_polska).*
