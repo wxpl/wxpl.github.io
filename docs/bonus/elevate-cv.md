@@ -1,14 +1,14 @@
 ---
-
 layout: default
 title: Elevate CV
-nav_order: 102
+nav_order: 109
 parent: Bonus
 permalink: /bonus/elevate-cv
 
 ---
 
 # Elevate CV
+
 [Twitter](https://twitter.com/Elevate_CV) | [Medium](https://elevate-cv.medium.com/)
 
 Elevate i Stakenode skupia się na budowaniu oraz edukowaniu wszystkich tych, którzy chcą zgłębić wiedzę na temat technologii blockchain ze szczególnym uwzględnieniem sieci PoS. Obecnie wspieramy większość PoS sieci z ekosystemu Polkadot.
