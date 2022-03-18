@@ -3,9 +3,13 @@ layout: default
 title: Neutrino
 nav_order: 20
 has_children: true
+permalink: /neutrino
+
 ---
+
 # Neutrino
-[Neutrino Logo](/images/neutrino-dark.svg)
+![Neutrino Logo](/images/neutrino-dark.svg)
+
 **Co to jest Protokół Neutrino?**
 
 Neutrino Protocol to flagowa zdecentralizowana aplikacja Waves i obecnie najpopularniejszy dapp na Waves.

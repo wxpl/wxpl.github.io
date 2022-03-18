@@ -1,11 +1,11 @@
 ---
 layout: default
 title: FAQ
-nav_order: 103
+nav_order: 109
 parent: Bonus
 ---
 
-![Under Construction](images/under-construction.png)
+![Under Construction](/images/under-construction.png)
 
 Zaangażuj się w rozwój projektu.
 
