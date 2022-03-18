@@ -16,7 +16,7 @@ permalink: /swop-token
 
 # SWOP jest tutaj
 
-2021-02-01 [Medium](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456)
+2021-02-01 [![Medium](/images/medium.svg)](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456){:target="_blank"}
 
 ![](/images/01_swop-is-here.png)
 
@@ -61,7 +61,7 @@ Nowa część nagrody za zarządzanie staje się dostępna mniej więcej raz na 
 
 # Jaka będzie cena tokena SWOP?
 
-2021-02-05 [Medium](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456)
+2021-02-05 [![Medium](/images/medium.svg)](https://medium.com/swop-fi/what-will-be-the-swop-tokens-price-55921fbe6456){:target="_blank"}
 
 ![](01_swop-price.png)
 

@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: WavesCap
 nav_order: 102
@@ -7,7 +6,6 @@ parent: Bonus
 permalink: /bonus/wavescap
 
 ---
-
 
 [WavesCap](https://wavescap.com){: .btn .btn-blue }
 

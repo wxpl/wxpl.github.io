@@ -7,7 +7,8 @@ parent: Bonus
 permalink: /bonus/wscan
 
 ---
-![wscan](https://wscan.io)
+
+![wscan](/images/wscan.svg)
 
 ## Wscan.io - Waves Blockchain Explorer
 
@@ -17,4 +18,3 @@ permalink: /bonus/wscan
 [Wscan](https://wscan.io){: .btn .btn-blue }
 \
 ![wscan](/images/wscan-1.png)
-
