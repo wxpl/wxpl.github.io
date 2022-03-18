@@ -9,8 +9,6 @@ permalink: /swopfi
 
 ![swop-logo](/images/swop-logo.svg)
 
-# Czym jest Swop.fi
-
 [Swop.fi](https://swop.fi) to Automated Market Maker (AMM), który pozwala użytkownikom na natychmiastową wymianę tokenów bez konieczności tworzenia zleceń i czekania na ich realizację.
 
 [Swop.fi](https://swop.fi) łączy w sobie kilka rodzajów puli płynności. Każda pula płynności jest zaimplementowana jako inteligentny kontrakt. Kurs wymiany jest ustalany na podstawie algorytmicznej wyceny i zależy tylko od ilości tokenów przechowywanych w inteligentnym kontrakcie. Pule używają różnych formuł obliczania cen, które są najbardziej odpowiednie dla każdej konkretnej pary tokenów.

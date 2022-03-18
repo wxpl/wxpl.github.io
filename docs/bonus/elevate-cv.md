@@ -9,7 +9,7 @@ permalink: /bonus/elevate-cv
 
 # Elevate CV
 
-[![Twitter](/images/twitter.svg)(https://twitter.com/Elevate_CV)]{:target="_blank"} || [![Medium](/images/medium.svg)(https://elevate-cv.medium.com/)]{:target="_blank"} || [![YouTube](/images/youtube.svg)(https://www.youtube.com/channel/UCDBUVP2Slqw8n9MCsghlPmw)]{:target="_blank"}
+[![Twitter](/images/twitter.svg)](https://twitter.com/Elevate_CV){:target="_blank"}  [![Medium](/images/medium.svg)](https://elevate-cv.medium.com/){:target="_blank"}  [![YouTube](/images/youtube.svg)](https://www.youtube.com/channel/UCDBUVP2Slqw8n9MCsghlPmw){:target="_blank"}
 
 Elevate i Stakenode skupia się na budowaniu oraz edukowaniu wszystkich tych, którzy chcą zgłębić wiedzę na temat technologii blockchain ze szczególnym uwzględnieniem sieci PoS. Obecnie wspieramy większość PoS sieci z ekosystemu Polkadot.
 

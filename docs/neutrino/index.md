@@ -7,7 +7,6 @@ permalink: /neutrino
 
 ---
 
-# Neutrino
 ![Neutrino Logo](/images/neutrino-dark.svg)
 
 **Co to jest Protokół Neutrino?**
