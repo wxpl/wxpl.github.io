@@ -13,6 +13,11 @@ permalink: /bonus/wavescap
 
 ## Tracking Waves Token Prices, DApps and Nodes
 
+<div data-wavescap-widget="" data-design="bright" data-asset-id="WAVES" data-currency="usd-n" width="560" height="315"></div>
+<script type="text/javascript" src="https://wavescap.com/widget/asset.js"></script>
+
+
+
 Our node staking address:  3PGobRuQzBY9VbeKLaZqrcQtW26wrE9jFm7
 
 Our node address alias: wavescapnode & wcapnode
