@@ -2,7 +2,7 @@
 
 layout: default
 title: vTokens
-nav_order: 42
+nav_order: 43
 parent: ViresFinance
 permalink: /vtokens
 

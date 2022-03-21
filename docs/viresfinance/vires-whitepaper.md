@@ -2,7 +2,7 @@
 
 layout: default
 title: Whitepaper
-nav_order: 43
+nav_order: 44
 parent: ViresFinance
 permalink: vires-whitepaper
 
