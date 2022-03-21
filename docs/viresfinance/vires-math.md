@@ -1,4 +1,5 @@
 ---
+
 layout: default
 title: Matematyka gVires
 nav_order: 42
@@ -8,6 +9,7 @@ permalink: vires-math
 ---
 
 # VIRES, gVIRES i czas połowiczny
+{: .no_toc }
 
 <details open markdown="block">
   <summary>
@@ -28,12 +30,12 @@ gdzie `λ` oznacza szybkość rozpadu (czas połowicznego zaniku):
 
 ![](/images/gvires-math-2.png)
 
-## Przykład dla 1 uczestnika
+## Przykład dla jednego uczestnika
 
 Na przykład, użytkownik X1 zablokował 100 Vires 1 stycznia 2022 roku. Moc zarządzania użytkownika zaczyna się zmniejszać, a jego tokeny zaczynają się odblokowywać:
 
 | Date            | gVires        | Nadal zablokowane VIRES | Odblokowane VIRES |
-|:--------------- |:------------- |:----------------------- |:----------------- |
+|:----------------|:--------------|:------------------------|:------------------|
 | Sty 2022, 00:00 | 100.00 gVires | 100.00 VIRES            | 0.00 VIRES        |
 | Lut 2022        | 89.09 gVires  | 89.09 VIRES             | 10.91 VIRES       |
 | Mar 2022        | 79.37 gVires  | 79.37 VIRES             | 20.63 VIRES       |
@@ -52,10 +54,9 @@ Na przykład, użytkownik X1 zablokował 100 Vires 1 stycznia 2022 roku. Moc zar
 ![](/images/gvires-math-3.png)
 
 Jak pokazano powyżej,
-
 - Odblokowanie rozpoczyna się natychmiast po zablokowaniu VIRES,
-- W ciągu pół roku ilość gVires użytkownika zmniejsza się o połowę; również połowa VIRES może zostać wycofana,
-- Po dwóch latach pojawia się klif: użytkownik może teraz wycofać wszystkie pozostałe vires (6,25% początkowej blokady), ale jeśli tego nie zrobi, nadal będzie miał prawo głosu, władzę i wpływy (przy kontynuacji rozkładu);
+- W ciągu **pół roku** ilość gVires użytkownika zmniejsza się o połowę; również połowa VIRES może zostać wycofana,
+- Po **dwóch latach** pojawia się klif: użytkownik może teraz wycofać wszystkie pozostałe vires (6,25% początkowej blokady), ale jeśli tego nie zrobi, nadal będzie miał prawo głosu, władzę i wpływy (przy kontynuacji rozkładu);
 
 ## Przykład dla wielu uczestników
 
@@ -69,16 +70,15 @@ Rynki Vires.finance pobierają część odsetek, które płacą pożyczkobiorcy.
 Dzień 0:
 
 | Użytkownik | VIRES w systemie | gVires | już odblokowane | Udział w przychodach |
-|:---------- |:---------------- |:------ |:--------------- |:-------------------- |
+|:-----------|:-----------------|:-------|:----------------|:---------------------|
 | Alice      | 100 VIRES        | 100.00 | 0.00            | 50%                  |
 | Bob        | 100 VIRES        | 100.00 | 0.00            | 50%                  |
 
 Teraz, po pół roku, gVires uległy rozpadowi:
-
 - Alice ma 50 gVires, Bob ma 50 gVires (z łącznej liczby 100), więc nadal dzielą się strumieniem przychodów 50-50%,
 
 | Użytkownik | VIRES w systemie | gVires | już odblokowane | Udział w przychodach |
-|:---------- |:---------------- |:------ |:--------------- |:-------------------- |
+|:-----------|:-----------------|:-------|:----------------|:---------------------|
 | Alice      | 100 VIRES        | 50.00  | 50.00           | 50%                  |
 | Bob        | 100 VIRES        | 50.00  | 50.00           | 50%                  |
 
@@ -87,7 +87,7 @@ Teraz, po pół roku, gVires uległy rozpadowi:
 - Przychodzi Dave i blokuje 100 VIRES, co daje mu 100 gVires:
 
 | Użytkownik | VIRES w systemie | gVires | już odblokowane | Udział w przychodach |
-|:---------- |:---------------- |:------ |:--------------- |:-------------------- |
+|:-----------|:-----------------|:-------|:----------------|:---------------------|
 | Alice      | 100 VIRES        | 50.00  | 50.00           | 25%                  |
 | Bob        | 100 VIRES        | 50.00  | 50.00           | 25%                  |
 | Dave       | 100 VIRES        | 100.00 | 0.00            | 50%                  |
@@ -103,7 +103,7 @@ W każdej chwili każdy inny użytkownik może ponownie zablokować swoją stawk
 Oto, jak zmienia się sytuacja, gdy Alicja zdecyduje się ponownie zablokować swoje VIRES:
 
 | Użytkownik | VIRES w systemie | gVires | już odblokowane | Udział w przychodach |
-|:---------- |:---------------- |:------ |:--------------- |:-------------------- |
+|:-----------|:-----------------|:-------|:----------------|:---------------------|
 | Alice      | 100 VIRES        | 100.00 | 0.00            | 40%                  |
 | Bob        | 100 VIRES        | 50.00  | 50.00           | 20%                  |
 | Dave       | 100 VIRES        | 100.00 | 0.00            | 40%                  |
