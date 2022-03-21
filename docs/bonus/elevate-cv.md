@@ -50,6 +50,7 @@ Drugi odcinek z Zibim - ekspertem na sieci Waves. Dziś Zbyszek zaprezentuje wam
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PHmQapT4mxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Trzeci odcinek z Zibim - ekspertem na sieci Waves. Dziś Zbyszek zaprezentuje wam 3 platformy na Waves do pasywnego zarabiania:
+
 - [ViresFinance](https://vires.finance)
 - [SwopFi](https://swop.fi)
 - [PuzzleSwap](https://puzzleswap.org)
