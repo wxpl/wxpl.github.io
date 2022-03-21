@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: FAQ
 nav_order: 17
@@ -9,6 +8,7 @@ permalink: /wx-faq
 ---
 
 # WavesExchange - FAQ
+
 {: .no_toc }
 
 <details closed markdown="block">
@@ -45,6 +45,7 @@ W takim przypadku musisz się upewnić, że podczas rejestracji poprawnie podał
 Taki komunikat możesz zobaczyć tylko wtedy, gdy próbujesz zalogować się na swoje konto seed.
 
 Może się on pojawić w następujących przypadkach:
+
 - Wcześniej utworzyłeś konto seed, ale potem być może wyczyściłeś pamięć podręczną przeglądarki lub zacząłeś używać nowej przeglądarki lub urządzenia. W takim przypadku musisz zaimportować poprzednio utworzone konto.
 
 - Zostałeś zarejestrowany przez e-mail i nie masz konta seed. W takim przypadku musisz przejść na stronę logowania przez e-mail.
@@ -74,17 +75,18 @@ Aby to zrobić, przejdź na stronę wpłat i wykonaj poniższe kroki:
 1. Wybierz aktywa, które chcesz wpłacić.
 
 2. Wybierz metodę wpłaty. W zależności od aktywa wybranego w kroku 1, platforma zaproponuje dostępne sposoby wpłaty środków.
-a) Dla wewnętrznych przelewów pomiędzy kontami Waves.Exchange wybierz kartę (metodę wpłaty) z sieci Waves.
-b) Aby zażądać środków z portfela MetaMask, wybierz kartę MetaMask w wymaganej sieci.
-c) Aby wysłać środki z sieci zewnętrznych (platform i portfeli), wybierz kartę sieci, z której chcesz dokonać wpłaty.
+   a) Dla wewnętrznych przelewów pomiędzy kontami Waves.Exchange wybierz kartę (metodę wpłaty) z sieci Waves.
+   b) Aby zażądać środków z portfela MetaMask, wybierz kartę MetaMask w wymaganej sieci.
+   c) Aby wysłać środki z sieci zewnętrznych (platform i portfeli), wybierz kartę sieci, z której chcesz dokonać wpłaty.
 
 Każda karta ma zapisaną sieć (czasem standard tokena lub typ adresu).
 
 3. Zwróć uwagę na ważne kwestie:
 - Sieć, którą wybierzesz, musi być zgodna z siecią platformy, z której wypłacasz środki. Jeśli wybierzesz niewłaściwą sieć, stracisz swoje środki.
-- Jeśli wybrana zostanie sieć lub fork sieci Ethereum (ETH), standard tokena musi być zgodny ze standardem tokena na platformie, z której wypłacasz środki.
-- Istnieje minimalna kwota depozytu dla przelewów z sieci zewnętrznej. Jeśli prześlesz mniejszą kwotę, stracisz swoje środki.
 
+- Jeśli wybrana zostanie sieć lub fork sieci Ethereum (ETH), standard tokena musi być zgodny ze standardem tokena na platformie, z której wypłacasz środki.
+
+- Istnieje minimalna kwota depozytu dla przelewów z sieci zewnętrznej. Jeśli prześlesz mniejszą kwotę, stracisz swoje środki.
 4. Wyślij środki na wskazany adres.
 
 W przypadku MetaMask, wprowadź kwotę depozytu i potwierdź działania w MetaMask.
@@ -271,8 +273,6 @@ ilość USDN / ilość WAVES = aktualna cena WAVES
 
 Obliczając, otrzymujemy, że wartość twoich tokenów w puli wynosi 173,2 USD (86,6 USDN i 5,77 WAVES). Gdybyś zatrzymał tokeny w swoim portfelu, ich wartość wyniosłaby 175 dolarów (100 USDN i 5 WAVES). Nietrwała strata wynosi 175$ - 173,2$ = 1,8$.
 Nietrwała strata jest nieodłącznym ryzykiem związanym z dostarczaniem płynności do puli i zależy bezpośrednio od zmienności pary handlowej. Dlatego, jeśli chcesz zminimalizować potencjalne straty, możesz inwestować w stabilne pule, takie jak USDT/USDN.
-
-
 
 \
 \

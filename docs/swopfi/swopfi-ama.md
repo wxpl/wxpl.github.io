@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: AMA
 nav_order: 37

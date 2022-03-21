@@ -8,6 +8,7 @@ permalink: /bonus/elevate-cv
 ---
 
 # Elevate CV
+{: .no_toc }
 
 [![Twitter](/images/twitter.svg)](https://twitter.com/Elevate_CV){:target="_blank"}  [![Medium](/images/medium.svg)](https://elevate-cv.medium.com/){:target="_blank"}  [![YouTube](/images/youtube.svg)](https://www.youtube.com/channel/UCDBUVP2Slqw8n9MCsghlPmw){:target="_blank"}
 
@@ -17,9 +18,18 @@ Stakenode to bramka do gospodarki Polkadot. Dostarczamy wszystkie możliwe opcje
 
 Stale się rozwijamy, a to dopiero początek tego, co mamy w głowach i ambicjach. ELEVATE Community Ventures LLC będzie to finansowa warstwa ekosystemu, który staramy się rozwijać i pomoże nam zapewnić naszej społeczności na wczesnym etapie możliwości inwestycyjne, takie jak seed / private sales.
 
+<details closed markdown="block">
+  <summary>
+    Spis Treści
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ---
 
-**Giełda WAVES Exchange 🌊 Jak Zacząć Jak Kupić Jak Handlować i zarabiać pasywnie.**
+### **Giełda WAVES Exchange 🌊 Jak Zacząć Jak Kupić Jak Handlować i zarabiać pasywnie.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qM2BmYEBImo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -27,10 +37,27 @@ Dziś moim gościem jest Zibi - ekspert na sieci Waves. Zbyszek zaprezentuje wam
 
 ---
 
-**NEUTRINO token 🌊 Gdzie Kupić Jak Stakować - Zarabiaj pasywnie na Waves exchange**
+### **NEUTRINO token 🌊 Gdzie Kupić Jak Stakować - Zarabiaj pasywnie na Waves exchange**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TY_E_aWR02Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Drugi odcinek z Zibim - ekspertem na sieci Waves. Dziś Zbyszek zaprezentuje wam platformę [WavesExchange](https://waves.exchange) i token Neutrino. Dodatkowo pokażemy wam wszystkie możliwości zarabiania na Waves Exchange.
+
+---
+
+### **VIRES, SWOP i PUZZLESWAP 🌊 Gdzie Kupić Jak Stakować - Zarabiaj pasywnie z Waves**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PHmQapT4mxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Trzeci odcinek z Zibim - ekspertem na sieci Waves. Dziś Zbyszek zaprezentuje wam 3 platformy na Waves do pasywnego zarabiania:
+- [ViresFinance](https://vires.finance)
+- [SwopFi](https://swop.fi)
+- [PuzzleSwap](https://puzzleswap.org)
+
+---
+
+### **NSBT - Jak to działa? 🟦 2 minutowy przewodnik**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kWi9VBuse5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
