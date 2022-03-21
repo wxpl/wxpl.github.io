@@ -1,13 +1,19 @@
 ---
+
 layout: default
 title: Whitepaper
 nav_order: 43
 parent: ViresFinance
+permalink: vires-whitepaper
+
 ---
+
 ![ViresFinance](/images/vires-logo.png)
 
 # ViresFinance Whitepaper
+
 Protokół rynku pieniężnego dla Waves Ecosystem
+
 ## 1. Wprowadzenie
 
 Vires.Finance to protokół rynku pieniężnego typu peer-to-contract zbudowany na Waves Blockchain:
@@ -58,12 +64,12 @@ Opisane mechanizmy są zaimplementowane jako system połączonych ze sobą intel
 Za każdym razem, gdy użytkownik wpłaca środki do rezerwy tokenów, może zdecydować, czy chce wykorzystać chce wykorzystać depozyt tokenów jako zabezpieczenie. Zdolność użytkownika do zaciągania pożyczek jest definiowana jako suma ważona wszystkich jego aktywów, wykorzystywanych jako zabezpieczenie:
 ![05](/images/06_vires-formula.png)
 gdzie
+
 - `Ltv` jest wyrażonym w procentach stosunkiem wartości kredytu do wartości nieruchomości,
 - `C (u,a)` jest opcją użycia jako zabezpieczenia ustaloną przez użytkownika,
 - `Price a` to cena aktywa `a` podana przez wyrocznię (oracle);
-\
-![diagram](/images/vires-smartcontract.svg)
-
+  \
+  ![diagram](/images/vires-smartcontract.svg)
 
 **3.2. Próg likwidacji**
 

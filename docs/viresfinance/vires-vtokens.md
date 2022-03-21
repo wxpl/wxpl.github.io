@@ -4,6 +4,7 @@ layout: default
 title: vTokens
 nav_order: 42
 parent: ViresFinance
+permalink: /vtokens
 
 ---
 
