@@ -10,7 +10,7 @@ permalink: /ennowallet
 
 [![Twitter](/images/twitter.svg)](https://twitter.com/ennowallet){:target="_blank"}  [![Medium](/images/medium.svg)](https://blog.ennowallet.com){:target="_blank"}  [![YouTube](/images/youtube.svg)](https://www.youtube.com/c/EnnoWallet/featured){:target="_blank"}
 
-## Co to jest Enno Wallet
+## Enno Wallet
 
 Jest to prosty, intuicyjny i bezpieczny mobilny portfel kryptowalutowy dla tokenów Waves i Waves blockchain.
 
