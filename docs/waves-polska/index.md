@@ -22,7 +22,7 @@ Większość dokumentów jest skierowana do osób mniej zorientowanych na rynku 
 
 Jeśli uważasz, że materiały znajdujące się na tej stronie są pomocne i wartościowe, rozważ wsparcie projektu poprzez przyczynienie się do decentralizacji sieci Waves.
 
-Adres naszego Node:{: .fs-6 }
+***Adres naszego Node:***
 
 ```3PHG2a8SXDe1uUtuKyieLAxhEksGkkqvrEw```{: .fs-6 }
 
