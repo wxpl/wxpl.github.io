@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 8 7.9999995"
+   viewBox="0 0 30.236219 30.236219"
    preserveAspectRatio="xMidYMid meet"
    focusable="false"
    class="style-scope yt-icon"
@@ -8,8 +8,8 @@
    version="1.1"
    id="svg77"
    sodipodi:docname="mail.svg"
-   width="8"
-   height="7.9999995"
+   width="30.236219"
+   height="30.236219"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -30,18 +30,19 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="36.580991"
-     inkscape:cx="10.78429"
-     inkscape:cy="6.0413891"
+     inkscape:zoom="9.1452478"
+     inkscape:cx="-8.9117323"
+     inkscape:cy="31.819805"
      inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg77" />
   <g
      class="style-scope yt-icon"
-     id="g75">
+     id="g75"
+     transform="scale(3.7795276)">
     <g
        fill-rule="nonzero"
        fill="none"
