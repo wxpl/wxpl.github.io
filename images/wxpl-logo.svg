@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2242"
+   width="766.1106"
+   height="155.7733"
+   viewBox="0 0 766.11063 155.7733"
+   sodipodi:docname="wxpl-logo.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2246" />
+  <sodipodi:namedview
+     id="namedview2244"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1"
+     inkscape:cx="362.5"
+     inkscape:cy="98"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2248" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g2248"
+     transform="translate(-57.808324,-51.861986)">
+    <g
+       id="g2332"
+       transform="matrix(2.7880222,0,0,2.7880222,147.47515,-92.408204)">
+      <path
+         style="fill:#0154fe;stroke-width:0.151181"
+         d="m 96.508789,58.471521 c 2.24336,-2.241698 4.486721,-4.483395 6.730081,-6.725093 2.24169,2.243363 4.48339,4.486721 6.72509,6.730079 -2.24336,2.241698 -4.48672,4.483396 -6.73008,6.725093 -2.24169,-2.243363 -4.483393,-4.486721 -6.725091,-6.730079 z"
+         id="path2336"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:111.521px;line-height:1.25;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.78802"
+       x="66.244926"
+       y="139.62282"
+       id="text3802"><tspan
+         sodipodi:role="line"
+         id="tspan3800"
+         x="66.244926"
+         y="139.62282"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:'Comfortaa Bold';stroke-width:2.78802">Waves Polska</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:33.4563px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.78802"
+       x="686.80475"
+       y="191.99991"
+       id="text26265"><tspan
+         sodipodi:role="line"
+         id="tspan26263"
+         x="686.80475"
+         y="191.99991"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.4563px;font-family:calibri;-inkscape-font-specification:'calibri Italic';stroke-width:2.78802">wxpl.club</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.78802px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 819.20849,202.92813 H 683.47064 L 602.00803,162.19055 H 62.538363"
+       id="path36195"
+       sodipodi:nodetypes="cccc" />
+    <circle
+       style="fill:#000000;stroke-width:2.78802"
+       id="path36754"
+       cx="62.522251"
+       cy="162.19687"
+       r="4.7139268" />
+    <circle
+       style="fill:#000000;stroke-width:2.78802"
+       id="path36754-4"
+       cx="819.20502"
+       cy="202.92136"
+       r="4.7139268" />
+  </g>
+</svg>

@@ -2,11 +2,15 @@
 layout: default
 title: WavesPolska
 nav_order: 2
+permalink: /waves-polska
+
 ---
 
->*Uczyć się i nie myśleć to strata czasu, myśleć i nie uczyć się to niebezpieczeństwo.*
->\
->*– Konfucjusz*
+![](/images/wxpl-logo.svg)
+
+> *Uczyć się i nie myśleć to strata czasu, myśleć i nie uczyć się to niebezpieczeństwo.*
+> \
+> *– Konfucjusz*
 
 Witamy na stronie dokumentacji **WavesPolska**\
 \
@@ -15,7 +19,6 @@ Celem niniejszego zbioru informacji jest skatalogowanie i usystematyzowanie wied
 Obecnie strona jest we wczesnym etapie rozwoju i w kolejnych miesiącach będzie regularnie uzupełniana o nowe materiały.
 
 Większość dokumentów jest skierowana do osób mniej zorientowanych na rynku kryptowalut i DeFi, są również planowane dokumenty omawiające bardziej zaawansowane formy oszczędzania oraz dokumenty związane z technicznymi zagadnieniami nt samej technologii.
-
 
 **Liczymy na wsparcie ze strony społeczności. Mile widzane są wszelkiego rodzaju sugestie oraz pomoc.**
 Strona w całości dostępna na portalu Github, dzięki czemu możesz w łatwy sposób przyczynić się do rozwoju projektu: [Publiczne Reposytorium WavesPolska](https://github.com/wxpl/wxpl.github.io)\

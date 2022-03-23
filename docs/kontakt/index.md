@@ -8,10 +8,10 @@ nav_order: 110
 
 [contact@wxpl.club](contact@wxpl.club)
 
-[Telegram WavesPolska](https://t.me/wavesexchange_polska)
+[Telegram WavesPolska](https://t.me/waves_polska)
 
 **Liczymy na wsparcie ze strony społeczności. Mile widzane są wszelkiego rodzaju sugestie oraz pomoc.**
-Strona w całości dostępna na portalu Github, dzięki temu możesz w łatwy sposób przyczynić się do rozwoju projektu: [Publiczne Reposytorium WavesPolska](https://github.com/wxpl/wxpl.github.io)\
+Strona w całości dostępna na portalu Github, dzięki czemu możesz w łatwy sposób przyczynić się do rozwoju projektu: [Publiczne Reposytorium WavesPolska](https://github.com/wxpl/wxpl.github.io)\
 \
 Wszystkie materiały znajdujące się na tej stronie są dostępne bezpłatnie i mogą być rozpowszechniane bez ograniczeń wyłącznie do użytku niekomercyjnego.
 

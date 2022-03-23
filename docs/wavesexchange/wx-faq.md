@@ -8,7 +8,6 @@ permalink: /wx-faq
 ---
 
 # WavesExchange - FAQ
-
 {: .no_toc }
 
 <details closed markdown="block">
