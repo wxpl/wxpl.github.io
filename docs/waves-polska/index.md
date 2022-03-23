@@ -20,6 +20,14 @@ Obecnie strona jest we wczesnym etapie rozwoju i w kolejnych miesiącach będzie
 
 Większość dokumentów jest skierowana do osób mniej zorientowanych na rynku kryptowalut i DeFi, są również planowane dokumenty omawiające bardziej zaawansowane formy oszczędzania oraz dokumenty związane z technicznymi zagadnieniami nt samej technologii.
 
+Jeśli uważasz, że materiały znajdujące się na naszej stronie są pomocne i wartościowe, rozważ wsparcie projektu poprzez przyczynienie się do decentralizacji sieci Waves.
+
+Adres naszego Node:  ```3PHG2a8SXDe1uUtuKyieLAxhEksGkkqvrEw```
+
+*Środki z mintingu nowych bloków zostaną przeznaczone na rozwój i wsparcie projektu WavesPolska.*
+
+---
+
 **Liczymy na wsparcie ze strony społeczności. Mile widzane są wszelkiego rodzaju sugestie oraz pomoc.**
 Strona w całości dostępna na portalu Github, dzięki czemu możesz w łatwy sposób przyczynić się do rozwoju projektu: [Publiczne Reposytorium WavesPolska](https://github.com/wxpl/wxpl.github.io)\
 \
