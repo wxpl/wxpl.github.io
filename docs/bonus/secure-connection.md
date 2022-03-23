@@ -15,7 +15,7 @@ WXPL SecureConnection to usługa VPN (Virtual Private Network) z zaimplementowan
 
 W trakcie połączenia, system jest odcięty od wszystkich znanych domen, które narażają użytkownika na wyciek jakichkolwiek poufnych informacji.
 
-Korzystamy z kombinacja adlist. Szczegółowa lista dostępna [TUTAJ].(https://github.com/wxpl/wxpl.github.io/blob/main/docs/wxpl-sc-adlist.txt)
+Korzystamy z kombinacja adlist. Szczegółowa lista dostępna [TUTAJ](https://github.com/wxpl/wxpl.github.io/blob/main/docs/wxpl-sc-adlist.txt)
 
 W ramach dopełnienia powyższej listy, zostały również dodane filtry Regex:
 ```yaml
