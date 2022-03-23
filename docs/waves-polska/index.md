@@ -6,17 +6,16 @@ permalink: /waves-polska
 
 ---
 
-![](/images/wxpl-logo.svg)
-
 [![Twitter](/images/twitter.svg)](https://twitter.com/wxpl_club){:target="_blank"}  [![Mail](/images/mail.svg)](mailto:contact@wxpl.club){:target="_blank"}  [![YouTube](/images/youtube.svg)](https://youtu.be/dQw4w9WgXcQ){:target="_blank"}
 
-> *Uczyć się i nie myśleć to strata czasu, myśleć i nie uczyć się to niebezpieczeństwo.*
->\ 
->\
-> *– Konfucjusz*
+![](/images/wxpl-logo.svg)
+
+> *Uczyć się i nie myśleć to strata czasu, myśleć i nie uczyć się to niebezpieczeństwo.*{: .fs-5 }
+> 
+> *– Konfucjusz*{: .fs-5 }
 
 ### Witamy na stronie dokumentacji **WavesPolska**
-\
+
 Celem niniejszego zbioru informacji jest skatalogowanie i usystematyzowanie wiedzy związanej z produktami oraz usługami dostępnymi w ekosystemie **Waves**.
 
 Obecnie strona jest we wczesnym etapie rozwoju i w kolejnych miesiącach będzie regularnie uzupełniana o nowe materiały.

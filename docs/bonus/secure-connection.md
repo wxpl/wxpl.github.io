@@ -17,7 +17,7 @@ W trakcie połączenia, system jest odcięty od wszystkich znanych domen, które
 
 Korzystamy z kombinacja adlist. Szczegółowa lista dostępna [TUTAJ](https://github.com/wxpl/wxpl.github.io/blob/main/docs/wxpl-sc-adlist.txt).
 
-W ramach dopełnienia powyższej listy, zostały dodane filtry Regex:
+W ramach dopełnienia powyższej listy, zostały dodane również filtry Regex:
 ```yaml
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
