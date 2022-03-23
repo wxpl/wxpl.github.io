@@ -13,7 +13,27 @@ permalink: /bonus/secure-connection
 
 WXPL SecureConnection to usługa VPN (Virtual Private Network) z zaimplementowanym mostem DNS. Usługa ta, ma na celu, przede wszystkim zabezpieczenie połączenia internetowego w trakcie korzystania z WavesExchange. Działanie jest podobne do popularnych serwisów takich jak ProtonVPN, NordVPN czy PrivateInternetAccess.
 
-W trakcie połączenia, system jest odcięty od wszystkich znanych domen, które narażają użytkownika na wyciek jakichkolwiek poufnych informacji. Szczegółowa block-lista wszystkich plików zawierających szkodliwe domeny znajduje się w dalszej części dokumentu.
+W trakcie połączenia, system jest odcięty od wszystkich znanych domen, które narażają użytkownika na wyciek jakichkolwiek poufnych informacji.
+
+Korzystamy z kombinacja adlist. Szczegółowa lista dostępna [TUTAJ].(https://github.com/wxpl/wxpl.github.io/blob/main/docs/wxpl-sc-adlist.txt)
+
+W ramach dopełnienia powyższej listy, zostały również dodane filtry Regex:
+```yaml
+^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
+^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
+^(.+[_.-])?telemetry[_.-]
+^adim(age|g)s?[0-9]*[_.-]
+^adtrack(er|ing)?[0-9]*[_.-]
+^advert(s|is(ing|ements?))?[0-9]*[_.-]
+^aff(iliat(es?|ion))?[_.-]
+^analytics?[_.-]
+^banners?[_.-]
+^beacons?[0-9]*[_.-]
+^count(ers?)?[0-9]*[_.-]
+^mads\.
+^pixels?[-.]
+^stat(s|istics)?[0-9]*[_.-]
+```
 
 ## Sposób działania:
 
