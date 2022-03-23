@@ -14,7 +14,7 @@ permalink: /waves-polska
 > 
 > *– Konfucjusz*{: .fs-5 }
 
-### Witamy na stronie dokumentacji **WavesPolska**
+## Witamy na stronie dokumentacji **WavesPolska**
 
 Celem niniejszego zbioru informacji jest skatalogowanie i usystematyzowanie wiedzy związanej z produktami oraz usługami dostępnymi w ekosystemie **Waves**.
 
