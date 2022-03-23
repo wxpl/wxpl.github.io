@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 8 7.9999995"
+   preserveAspectRatio="xMidYMid meet"
+   focusable="false"
+   class="style-scope yt-icon"
+   style="display:block"
+   version="1.1"
+   id="svg77"
+   sodipodi:docname="mail.svg"
+   width="8"
+   height="7.9999995"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs81" />
+  <sodipodi:namedview
+     id="namedview79"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="36.580991"
+     inkscape:cx="10.78429"
+     inkscape:cy="6.0413891"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg77" />
+  <g
+     class="style-scope yt-icon"
+     id="g75">
+    <g
+       fill-rule="nonzero"
+       fill="none"
+       class="style-scope yt-icon"
+       id="g73"
+       transform="scale(0.13333333)">
+      <path
+         d="M 28.486325,59.969298 C 21.849921,59.400235 16.923305,57.642342 12.164352,54.145366 4.4437637,48.472117 3e-7,39.646792 3e-7,29.986934 3e-7,15.11156 10.506778,2.7983885 25.274412,0.36718048 c 6.028107,-0.9924119 12.703853,0.0492645 18.28794,2.85362962 13.576275,6.8180949 19.7813,22.5410529 14.642671,37.1031589 -3.527956,9.997705 -12.789709,17.617785 -23.391073,19.244938 -2.085625,0.320112 -5.065149,0.508645 -6.327625,0.400391 z"
+         fill="#888"
+         class="style-scope yt-icon"
+         id="path69"
+         style="fill:#000000" />
+      <path
+         d="M 43.975273,15.717043 H 15.087731 c -2.284742,0 -3.920828,1.624924 -3.939211,3.93921 v 21.009122 c 0,2.314286 1.654469,3.93921 3.939211,3.93921 h 28.887542 c 2.284742,0 3.939211,-1.624924 3.939211,-3.93921 V 19.656253 c 0,-2.314286 -1.654469,-3.93921 -3.939211,-3.93921 z m 0,7.87842 -14.443771,9.191491 -14.443771,-9.191491 v -3.93921 l 14.443771,9.191491 14.443771,-9.191491 z"
+         fill="#ffffff"
+         class="style-scope yt-icon"
+         id="path71"
+         style="stroke-width:1.31307" />
+    </g>
+  </g>
+</svg>

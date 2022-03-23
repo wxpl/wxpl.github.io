@@ -8,11 +8,14 @@ permalink: /waves-polska
 
 ![](/images/wxpl-logo.svg)
 
+[![Twitter](/images/twitter.svg)](https://twitter.com/wxpl_club){:target="_blank"}  [![Mail](/images/mail.svg)](mailto:contact@wxpl.club){:target="_blank"}  [![YouTube](/images/youtube.svg)](https://youtu.be/dQw4w9WgXcQ){:target="_blank"}
+
 > *Uczyć się i nie myśleć to strata czasu, myśleć i nie uczyć się to niebezpieczeństwo.*
-> \
+>\ 
+>\
 > *– Konfucjusz*
 
-### Witamy na stronie dokumentacji **WavesPolska**\
+### Witamy na stronie dokumentacji **WavesPolska**
 \
 Celem niniejszego zbioru informacji jest skatalogowanie i usystematyzowanie wiedzy związanej z produktami oraz usługami dostępnymi w ekosystemie **Waves**.
 
@@ -22,7 +25,7 @@ Większość dokumentów jest skierowana do osób mniej zorientowanych na rynku 
 
 Jeśli uważasz, że materiały znajdujące się na tej stronie są pomocne i wartościowe, rozważ wsparcie projektu poprzez przyczynienie się do decentralizacji sieci Waves.
 
-***Adres naszego Node:***
+**Adres naszego Node:**
 
 ```3PHG2a8SXDe1uUtuKyieLAxhEksGkkqvrEw```{: .fs-6 }
 
