@@ -69,7 +69,7 @@ Aktualizacja obejmuje zmiany w logice dwóch głównych komponentów Neutrino:
 ### **Podmiot gNSBT**
 Wprowadziliśmy nową jednostkę - gNSBT - aby rozdzielić saldo "głosów" użytkowników i saldo NSBT. Głosy (gNSBT) będą używane podczas procesu zarządzania.
 
-Właściciele gNSBT otrzymują nagrody - procent od zebranych opłat swapowych (opłat za protokół). Wysokość nagrody jest proporcjonalna do udziału użytkownika w gNSBT. Podczas tyczenia/wycofywania NSBT, ilość gNSBT użytkownika jest przeliczana.
+Właściciele gNSBT otrzymują nagrody - procent od zebranych opłat swapowych (opłat za protokół). Wysokość nagrody jest proporcjonalna do udziału użytkownika w gNSBT. Podczas wycofywania NSBT, ilość gNSBT użytkownika jest przeliczana.
 
 Stakowanie NSBT jest przenoszone na nowy kontrakt (nowy adres w sieci Waves). W obecnym kontrakcie na stakowanie NSBT, wprowadzanie (stakowanie) nowych użytkowników zostanie wyłączone, a usuwanie stakowania będzie dostępne na czas nieokreślony (ze starą opłatą za usuwanie stakowania w wysokości 0.005 WAVES). Użytkownicy starego kontraktu nie będą już otrzymywać nagród za tyczenie NSBT, co powinno ich zachęcić do samodzielnej migracji. Jeśli chodzi o interakcję użytkownika z UI, migracja będzie przebiegać następująco:
 
@@ -93,7 +93,7 @@ Opłata ta opiera się na następujących zasadach:
 
 Zasady te pomogą zmniejszyć bieżącą podaż NSBT (S). Poprzez zmniejszenie S, cena NSBT w kontrakcie również spadnie, co będzie stymulować zakup NSBT z kontraktu, a w rezultacie uzyskamy niezbędny obieg NSBT w systemie.
 Wprowadzenie opłaty za wycofanie NSBT z systemu jest skomplikowanym krokiem, ponieważ konieczne jest zachowanie równowagi pomiędzy interesami użytkowników i protokołu.
-Z jednej strony, duża opłata odstraszy użytkowników od tyczenia, a z drugiej strony, bardzo mała opłata może nie przynieść pożądanego efektu. W związku z tym, aby osiągnąć kompromis, opracowaliśmy trzecią zasadę:
+Z jednej strony, duża opłata odstraszy użytkowników od likwidacji, a z drugiej strony, bardzo mała opłata może nie przynieść pożądanego efektu. W związku z tym, aby osiągnąć kompromis, opracowaliśmy trzecią zasadę:
 
 * wielkość opłaty stanowi funkcjonalną zależność (krzywą) od t - czasu trwania stakowania NSBT. Tak więc, im wcześniej użytkownik odłącza NSBT, tym większa jest implikowana opłata i odwrotnie
 
