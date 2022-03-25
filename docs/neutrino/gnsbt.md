@@ -161,7 +161,7 @@ Maksymalny limit użytkownika (limitMax) - to maksymalna kwota w USDN, którą u
 
 ![](/images/gnsbt-3.png)
 
-> gdzie
+> gdzie:
 > \
 > `gnsbtAmount` jest kwotą gNSBT należącą do użytkownika
 > \
