@@ -8,7 +8,7 @@ permalink: /waves-polska
 
 [![Twitter](/images/twitter.svg)](https://twitter.com/wxpl_club){:target="_blank"}  [![Mail](/images/mail.svg)](mailto:contact@wxpl.club){:target="_blank"}  [![YouTube](/images/youtube.svg)](https://youtu.be/dQw4w9WgXcQ){:target="_blank"}
 
-![](/images/wxpl-logo.svg)
+![](/images/wxpl-logo.png)
 
 > *Uczyć się i nie myśleć to strata czasu, myśleć i nie uczyć się to niebezpieczeństwo.*{: .fs-5 }
 > 
@@ -20,7 +20,7 @@ Celem niniejszego zbioru informacji jest skatalogowanie i usystematyzowanie wied
 
 Obecnie strona jest we wczesnym etapie rozwoju i w kolejnych miesiącach będzie regularnie uzupełniana o nowe materiały.
 
-Większość dokumentów jest skierowana do osób mniej zorientowanych na rynku kryptowalut i DeFi, są również planowane dokumenty omawiające bardziej zaawansowane formy oszczędzania oraz dokumenty związane z technicznymi zagadnieniami nt samej technologii.
+Większość dokumentów jest skierowana do osób mniej zorientowanych na rynku kryptowalut i DeFi, są również planowane treści omawiające bardziej zaawansowane formy oszczędzania oraz dokumenty związane z technicznymi zagadnieniami nt samej technologii.
 
 Jeśli uważasz, że materiały znajdujące się na tej stronie są pomocne i wartościowe, rozważ wsparcie projektu poprzez przyczynienie się do decentralizacji sieci Waves.
 
