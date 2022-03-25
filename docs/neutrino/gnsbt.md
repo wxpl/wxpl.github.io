@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Governance gNSBT
+title: gNSBT Governance
 nav_order: 22
 parent: Neutrino
 permalink: /nsbt-governance
