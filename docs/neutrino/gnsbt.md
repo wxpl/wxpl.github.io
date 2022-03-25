@@ -7,6 +7,7 @@ parent: Neutrino
 permalink: /nsbt-governance
 
 ---
+![](/images/gnsbt-ch.png)
 
 [Protokół Neutrino](https://neutrino.at) został uruchomiony w 2019 roku i od tego czasu przeszedł sporo zmian. Jedną z nich było dodanie funkcji stakowania NSBT, która umożliwiła otrzymywanie pasywnego dochodu w kilku tokenach jednocześnie, a mianowicie: USDN (stablecoin), WAVES oraz tokenach DeFo.
 
