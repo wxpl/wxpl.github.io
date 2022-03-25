@@ -17,15 +17,15 @@ Rok 2022 można nazwać rokiem Neutrino, ponieważ protokół przejdzie szereg z
 * 3000 użytkowników wzięło udział w stakingu NSBT.
 * Top 5 najlepszych zarobków stakerów NSBT w 2021 roku:
 
-> 3P2u___WHMd: $2,654,285
+> 3P2u ... WHMd: $2,654,285
 > \
-> 3P5L___a9gY: $2,037,442
+> 3P5L ... a9gY: $2,037,442
 > \
-> 3PE2___hwXa: 1 380 715 USD
+> 3PE2 ... hwXa: 1 380 715 USD
 > \
-> 3PD9___Usdy: 1 196 840 USD
+> 3PD9 ... Usdy: 1 196 840 USD
 > \
-> 3P8T___2F3K: 1 197 680 USD
+> 3P8T ... 2F3K: 1 197 680 USD
 
 Żałujesz, że nie masz NSBT? Nadal masz możliwość kupna na [Waves.Exchange](https://waves.exchange).
 
@@ -88,21 +88,21 @@ Obecnie wiele systemów wprowadza blokadę tokenów, aby ograniczyć ich obieg i
 
 Opłata ta opiera się na następujących zasadach:
 
-1. opłata jest pobierana w tokenie NSBT
-2. zebrane opłaty są przesyłane z powrotem do kontraktu NSBT.
+* opłata jest pobierana w tokenie NSBT
+* zebrane opłaty są przesyłane z powrotem do kontraktu NSBT.
 
 Zasady te pomogą zmniejszyć bieżącą podaż NSBT (S). Poprzez zmniejszenie S, cena NSBT w kontrakcie również spadnie, co będzie stymulować zakup NSBT z kontraktu, a w rezultacie uzyskamy niezbędny obieg NSBT w systemie.
 Wprowadzenie opłaty za wycofanie NSBT z systemu jest skomplikowanym krokiem, ponieważ konieczne jest zachowanie równowagi pomiędzy interesami użytkowników i protokołu.
 Z jednej strony, duża opłata odstraszy użytkowników od tyczenia, a z drugiej strony, bardzo mała opłata może nie przynieść pożądanego efektu. W związku z tym, aby osiągnąć kompromis, opracowaliśmy trzecią zasadę:
 
-3. wielkość opłaty stanowi funkcjonalną zależność (krzywą) od t - czasu trwania stakowania NSBT. Tak więc, im wcześniej użytkownik odłącza NSBT, tym większa jest implikowana opłata i odwrotnie
+* wielkość opłaty stanowi funkcjonalną zależność (krzywą) od t - czasu trwania stakowania NSBT. Tak więc, im wcześniej użytkownik odłącza NSBT, tym większa jest implikowana opłata i odwrotnie
 
 ### **Krzywa opłat**
 
 Jako krzywa opłat zostanie użyta funkcja półokresu o okresie T=6 miesięcy. Możliwe będzie dostosowanie tego okresu w drodze głosowania.
 
 ![](/images/gnsbt-0.png)
-> gdzie
+> gdzie:
 > \
 > `stakingDuration` oznacza czas utrzymywania NSBT w stakingach
 > \
