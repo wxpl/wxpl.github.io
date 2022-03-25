@@ -1,11 +1,13 @@
 ---
 layout: default
 title: Whitepaper
-nav_order: 22
+nav_order: 23
 parent: Neutrino
+permalink: /neutrino-whitepaper
+
 ---
 
-![Under Construction](images/under-construction.png)
+![Under Construction](/images/under-construction.png)
 
 Zaangażuj się w rozwój projektu.
 

@@ -1,11 +1,14 @@
 ---
+
 layout: default
 title: FAQ
-nav_order: 23
+nav_order: 24
 parent: Neutrino
+permalink: /neutrino-faq
+
 ---
 
-![Under Construction](images/under-construction.png)
+![Under Construction](/images/under-construction.png)
 
 Zaangażuj się w rozwój projektu.
 

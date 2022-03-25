@@ -2,7 +2,7 @@
 
 layout: default
 title: Governance gNSBT
-nav_order: 21
+nav_order: 22
 parent: Neutrino
 permalink: /nsbt-governance
 
@@ -15,11 +15,12 @@ Rok 2022 można nazwać rokiem Neutrino, ponieważ protokół przejdzie szereg z
 1. Stakerzy NSBT zarobili w 2021 roku ponad 26,5 miliona dolarów! Rozdano 23.4M USDN, 52.8k WAVES, 1.58M EURN i inne aktywa DeFo.
 2. 3000 użytkowników wzięło udział w stakingu NSBT.
 3. Top 5 najlepszych zarobków stakerów NSBT w 2021 roku:
-	3P2u***WHMd: $2,654,285
-	3P5L***a9gY: $2,037,442
-	3PE2***hwXa: 1 380 715 USD
-	3PD9***Usdy: 1 196 840 USD
-	3P8T***2F3K: 1 197 680 USD
+
+> 3P2u___WHMd: $2,654,285
+> 3P5L___a9gY: $2,037,442
+> 3PE2___hwXa: 1 380 715 USD
+> 3PD9___Usdy: 1 196 840 USD
+> 3P8T___2F3K: 1 197 680 USD
 
 Żałujesz, że nie masz NSBT? Nadal masz możliwość kupna na [Waves.Exchange](https://waves.exchange).
 
@@ -55,7 +56,7 @@ Aktualizacja obejmuje zmiany w logice dwóch głównych komponentów Neutrino:
 - ilość gNSBT użytkownika określa dzienną (24-godzinną) maksymalną ilość wymian
 - użytkownik może dokonać wymiany tylko raz na dobę (24 godziny).
 
-Przeczytaj poniższy artykuł, aby uzyskać więcej informacji.
+👇 Przeczytaj poniższy artykuł, aby uzyskać więcej informacji.
 
 ## **Staking NSBT i gNSBT**
 {: .no_toc }
@@ -97,7 +98,9 @@ Jako krzywa opłat zostanie użyta funkcja półokresu o okresie T=6 miesięcy. 
 
 ![](/images/gnsbt-0.png)
 > gdzie
+> \
 > `stakingDuration` oznacza czas utrzymywania NSBT w stakingach
+> \
 > `T` oznacza okres półtrwania.
 
 Graficznie przedstawia się to w następujący sposób:
@@ -154,19 +157,22 @@ Maksymalny limit użytkownika (limitMax) - to maksymalna kwota w USDN, którą u
 ![](/images/gnsbt-3.png)
 
 > gdzie
+> \
 > `gnsbtAmount` jest kwotą gNSBT należącą do użytkownika
+> \
 > `a` oznacza stawkę, którą można dostosować w drodze głosowania
+> \
 > `e` jest liczbą Eulera
 
 **Limit wydatkowany na operację (limitSpentByOperation)** dla kierunku WAVES→USDN wykorzystywana jest wynikowa kwota wymiany USDN, dla kierunku USDN→WAVES wykorzystywana jest kwota zamienionych USDN.
 
 Na podstawie powyższych definicji możemy utworzyć zestaw poniższych reguł opisujących mechanikę działania limitu:
 - limitMax jest taki sam dla wszystkich kierunków (WAVES → USDN oraz USDN → WAVES)
-- użytkownik może wykonać tylko jedną operację swap w ciągu doby (24 godziny / 1440 bloków) i musi być spełniony warunek: limitSpentByOperation <= limitMax
+- użytkownik może wykonać tylko jedną operację swap w ciągu doby (24 godziny / 1440 bloków) i musi być spełniony warunek: `limitSpentByOperation` <= `limitMax`
 
 ### **Przykład obliczania limitu**
 
-Załóżmy, że a = 0.00000003 wówczas zależność pomiędzy limitMax a ilością gNSBT przedstawia się następująco:
+Załóżmy, że `a = 0.00000003` wówczas zależność pomiędzy `limitMax` a ilością gNSBT przedstawia się następująco:
 
 | ilość gNSBT | max. limit USDN |
 |:------------|:----------------|
