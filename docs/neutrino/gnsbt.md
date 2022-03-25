@@ -13,9 +13,9 @@ permalink: /nsbt-governance
 
 Rok 2022 można nazwać rokiem Neutrino, ponieważ protokół przejdzie szereg zmian, aby osiągnąć długo oczekiwany cel - decentralizację. Pierwszym krokiem w tym kierunku jest zmiana mechaniki działania NSBT i operacji swap. Zanim jednak opiszemy nową mechanikę, podsumujmy wyniki z 2021 roku, ponieważ w niektórych przypadkach liczby mówią same za siebie.
 
-1. Stakerzy NSBT zarobili w 2021 roku ponad 26,5 miliona dolarów! Rozdano 23.4M USDN, 52.8k WAVES, 1.58M EURN i inne aktywa DeFo.
-2. 3000 użytkowników wzięło udział w stakingu NSBT.
-3. Top 5 najlepszych zarobków stakerów NSBT w 2021 roku:
+* Stakerzy NSBT zarobili w 2021 roku ponad 26,5 miliona dolarów! Rozdano 23.4M USDN, 52.8k WAVES, 1.58M EURN i inne aktywa DeFo.
+* 3000 użytkowników wzięło udział w stakingu NSBT.
+* Top 5 najlepszych zarobków stakerów NSBT w 2021 roku:
 
 > 3P2u___WHMd: $2,654,285
 > \
@@ -29,9 +29,9 @@ Rok 2022 można nazwać rokiem Neutrino, ponieważ protokół przejdzie szereg z
 
 Żałujesz, że nie masz NSBT? Nadal masz możliwość kupna na [Waves.Exchange](https://waves.exchange).
 
-4. W momencie pisania tego artykułu USDN ma kapitalizację rynkową wynoszącą prawie pół miliarda dolarów.
-5. Token USDN jest wspierany przez ~43 000 000 WAVES.
-6. W 2021 roku dokonano 20 000 wymian (nie licząc wymiany z węzła Neutrino) na łączną kwotę 1,2 miliarda dolarów!
+* W momencie pisania tego artykułu USDN ma kapitalizację rynkową wynoszącą prawie pół miliarda dolarów.
+* Token USDN jest wspierany przez ~43 000 000 WAVES.
+* W 2021 roku dokonano 20 000 wymian (nie licząc wymiany z węzła Neutrino) na łączną kwotę 1,2 miliarda dolarów!
 
 W tym miejscu komentarze są zbędne. Teraz porozmawiajmy o zmianach.
 
