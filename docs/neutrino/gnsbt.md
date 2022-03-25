@@ -18,9 +18,13 @@ Rok 2022 można nazwać rokiem Neutrino, ponieważ protokół przejdzie szereg z
 3. Top 5 najlepszych zarobków stakerów NSBT w 2021 roku:
 
 > 3P2u___WHMd: $2,654,285
+> \
 > 3P5L___a9gY: $2,037,442
+> \
 > 3PE2___hwXa: 1 380 715 USD
+> \
 > 3PD9___Usdy: 1 196 840 USD
+> \
 > 3P8T___2F3K: 1 197 680 USD
 
 Żałujesz, że nie masz NSBT? Nadal masz możliwość kupna na [Waves.Exchange](https://waves.exchange).
