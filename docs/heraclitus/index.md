@@ -102,7 +102,9 @@ Ciszymy się, że jesteś z nami!
 
 ### Co to jest BA_TCI?
 **BA_TCI** to skrót określający stokenizowany procent składany aktywa bazowego np. sNSBT_TCI.
+
 **BA** to skrót od *"Base Asset"*.
+
 **TCI** to skrót od *"Tokenized Compound Interest"*.
 
 ### Czym jest derywat?
