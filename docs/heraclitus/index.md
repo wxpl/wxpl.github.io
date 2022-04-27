@@ -41,7 +41,8 @@ Mintowana wartość BA_TCI jest tworzona na podstawie stosunku ilości tokenu ba
 >
 >  ***BA Supply** to stan aktywa bazowego w skarbcu sc*
 
-W każdym momencie można wymienić swoje udziały na aktywa bazowego lub na USDN, tzn. wymienić posiadane aktywa BA_TCI na aktywa tokenu bazowego lub na USDN po nowym, wyższym kursie. Aby ułatwić swobodny obrót BA_TCI powstanie Market Maker na WavesExchange, który będzie oferował obrót zgodnie z ceną ze smart kontraktu.
+W każdym momencie można wymienić swoje udziały na aktywa bazowe lub na USDN, tzn. wymienić posiadane aktywa BA_TCI na aktywa tokenu bazowego lub na USDN po nowym, wyższym kursie.
+\Aby ułatwić swobodny obrót BA_TCI powstanie Market Maker na WavesExchange, który będzie oferował obrót zgodnie z ceną ze smart kontraktu.
 
 Różnica w cenie BA_TCI w momencie rozpoczęcia i zakończenia stakowania będzie stanowić Twój dochód. Różnica ta, do aktywa bazowego może być **wyłącznie dodatnia**.
 
@@ -70,7 +71,7 @@ Częstotliowść automatycznego procentu składanego jest uzależniona od częst
 
 ![](/images/tci-diagram.png)
 
-Poniższa tabela przedstawia proces generowania nowych dyrewatów sNSBT_TCI przez okres 8 dni, przy założeniu +1% wartości procentu składanego co 24h.
+Poniższa tabela przedstawia proces generowania nowych derywatów sNSBT_TCI przez okres 8 dni, przy założeniu +1% wartości procentu składanego co 24h.
 
 | Day | Staking sNSBT | Total sNSBT staked | sNSBT\_TCI per 1 sNSBT | sNSBT\_TCI issued | sNSBT\_TCI in circulation | sNSBT Treasury Supply | +1% CI per 24h (sNSBT auto-buy) |
 |:--- |:------------- |:------------------ |:---------------------- |:----------------- |:------------------------- |:--------------------- |:------------------------------- |
@@ -84,19 +85,19 @@ Poniższa tabela przedstawia proces generowania nowych dyrewatów sNSBT_TCI prze
 | 7   | 128,0000      | 255,0000           | 0,9327                 | 119,3879          | 240,1675                  | 257,4921              | 260,0670                        |
 
 
-1. W **dniu 4** Dawid zastakował 16 sNSBT przez Smart Kontrakt sNSBT_TCI.
+1. W **dniu 4** Dawid zastakował 16 sNSBT przez smart kontrakt sNSBT_TCI.
 2. Na podstawie tego depozytu, smart kontrakt wydał Dawidowi 15,3757 sNSBT_TCI, którego wartość odpowiada udziałowi 16 sNSBT w skarbcu sNSBT_TCI.
-3. 24h po zastakowaniu sNSBT w puli, nastąpiła dystrybucja nagród z sNSBT (gNSBT). Smart kontrakt automatycznie zamienia USDN z dystrybucji na sNSBT po rynkowym kursie.
-4. Wartość 15,37 sNSBT_TCI, które posiada Dawid są teraz warte 16,16 sNSBT. Tokeny, które posiada Dawid zwiększyły swoją wartość zgodnie ze wzorem określającym cenę BA_TCI.
+3. 24h po zastakowaniu sNSBT w puli, nastąpiła dystrybucja nagród z sNSBT (gNSBT). Smart kontrakt automatycznie zamienił USDN z dystrybucji na sNSBT po rynkowym kursie.
+4. Wartość 15,3757 sNSBT_TCI, które posiada Dawid są teraz warte 16,16 sNSBT. Tokeny, które posiada Dawid zwiększyły swoją wartość zgodnie ze wzorem określającym cenę BA_TCI.
 
 ## Pierwsze publikacje
 
-Mamy przyjemność potwierdzić, że jako pierwszy zostanie opublikowany derywat **sNSBT_TCI**. Aktywacja smart kontraktu zostanie poprzedzona artykułem tłumaczącym mechanikę działania. W najbliższym czasie jest planowana również publikacja Roadmapy **The Heraclitus Project**. Mamy nadzieję zostać ciepło przyjęci w społeczności ekosystemu Waves.
+Mamy przyjemność potwierdzić, że jako pierwszy zostanie opublikowany derywat **sNSBT_TCI**. Aktywacja smart kontraktu zostanie poprzedzona artykułem tłumaczącym mechanikę działania.
+
+W najbliższym czasie jest planowana również publikacja [roadmapy](https://wxpl.club/tci-roadmap) **The Heraclitus Project**. Mamy nadzieję zostać ciepło przyjęci w społeczności ekosystemu Waves.
 
 Jeśli zainteresowała Cię nasza propozycja, zapraszamy na nasz profil na [Twitterze](https://twitter.com/heraclitus_tci), [Grupę](https://t.me/heraclitus_project) oraz [Kanał](https://t.me/heraclitus_project_channel) na Telegramie.
-Ciszymy się, że jesteś z nami!
-
-
+Cieszymy się, że jesteś z nami!
 
 ## FAQ
 
