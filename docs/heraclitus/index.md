@@ -3,7 +3,7 @@
 layout: default
 title: Project Heraclitus
 nav_order: 5
-haschildren: true
+has_children: true
 permalink: /heraclitus
 
 ---
@@ -13,7 +13,7 @@ permalink: /heraclitus
 # The Heraclitus Project
 {: .no_toc }
 
-<details opened markdown="block">
+<details open markdown="block">
   <summary>
     Spis Treści
   </summary>
@@ -33,10 +33,11 @@ Dzięki takiemu rozwiązaniu inwestor otrzymuje zbywalny token, który w swojej 
 Mintowana wartość BA_TCI jest tworzona na podstawie stosunku ilości tokenu bazowego w stakingu do ilości aktywów BA_TCI w obiegu. Procent składany w puli jest naliczany po każdej dystrybucji nagród (nie częściej jak co 24h) i dodawany do puli w skarbcu, przy czym dodatkowe BA_TCI nie jest emitowane. Dzięki takiemu mechanizmowi wartość wcześniej wymintowanego BA_TCI zwiększa swoją wartość, która ma odzwierciedlenie w stanie skarbca smart kontraktu.
 
 ![](/images/tci-math-01.png)
-*gdzie:*
-
-***BA_TCI** to stokenizowany procent składany + aktywo bazowe
-**BA Supply** to stan aktywa bazowego w skarbcu sc*
+> *gdzie:*
+>
+> ***BA_TCI** to stokenizowany procent składany + aktywo bazowe
+>
+> **BA Supply** to stan aktywa bazowego w skarbcu sc*
 
 W każdym momencie można sprzedać swoje udziały do aktywa bazowego lub do USDN, tzn. wymienić posiadane aktywa BA_TCI na aktywa tokenu bazowego lub na USDN po nowym, wyższym kursie. Aby ułatwić swobodny obrót BA_TCI powstanie Market Maker na WavesExchange, który będzie oferował obrót zgodnie z ceną ze smart kontraktu.
 
@@ -47,17 +48,21 @@ Różnica w cenie BA_TCI w momencie rozpoczęcia i zakończenia stakowania będz
 Cena stokenizowanego procentu składanego jest formuowana następująco:
 
 ![](/images/tci-math-02.png)
-*gdzie:*
-
-***BA Price** to kurs / cena aktywa bazowego
-**BA** to aktywo bazowe
-**TCI** to stokenizowany procent składany*
+> *gdzie:*
+>
+> ***BA Price** to kurs / cena aktywa bazowego
+>
+> **BA** to aktywo bazowe
+>
+> **TCI** to stokenizowany procent składany*
 
 BA_TCI w smart kontrakcie zawsze będzie odzwierciedlać cenę aktywa bazowego + skonsolidowane aktywo bazowe zakupione z dystrybuowanych nagród BA. Należy pamiętać, że będzie to w pełni przejrzyste i weryfikowalne w łańcuchu Waves.
 
 UWAGA: BA_TCI to stokenizowany procent składany. W związku z czym, derywat BA_TCI podlega swobodnej zbywalności, na tej samej zasadzie, jak każdy inny token w ekosystemie Waves. Twórcy projektu nie są w stanie kontrolować, przewidzieć czy regulować otwartego rynku DEX na Waves Exchange.
 
 ## Uproszczony, praktyczny przykład działania:
+
+Stakując instrument bazowy sNSBT smart kontrakt wydaje dyrewat sNSBT_TCI reprezentujący udział stakowanego sNSBT w skarbcu sNSBT_TCI. Następnie po każdej dystrybucji nagród, które wydawane są z pochodnej sNSBT, zostaje automatycznie dokupiona dodatkowa ilość sNSBT, zwiększając wartość tokenu sNSBT_TCI. Częstotliowść automatycznego procentu składanego jest uzależniona od częstotliwości dystrybuowanych nagród z sNSBT.
 
 ![](/images/tci-diagram.png)
 
