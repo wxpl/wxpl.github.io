@@ -7,6 +7,7 @@ parent: Project Heraclitus
 permalink: /tci-roadmap
 
 ---
+![](/images/cover-tci.png)
 
 ## Roadmap
 

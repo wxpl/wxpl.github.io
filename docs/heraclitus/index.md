@@ -13,6 +13,12 @@ permalink: /heraclitus
 # The Heraclitus Project
 {: .no_toc }
 
+**The Heraclitus Project** to asortyment **Stokenizowanych dyweratów** włączających w swoją wartość **procent składany** *(Tokenized Compound Interest, **TCI**)* 
+
+TCI daje inwestorom możliwość konsolidowania nagród z tokenów takich jak sNSBT, sVIRES, sWX i LP bezpośrednio w wartości stokenizowanego procentu składanego (TCI).
+
+Dzięki takiemu rozwiązaniu inwestor otrzymuje zbywalny token, który w swojej wartości uwzględnia odsetki złożone z regularnej dystrybucji nagród oraz wartość bazowego aktywa (BA). Dodatkowo, regularne auto-buy tworzy presję zakupową dla danego aktywa bazowego, zwiększając również w ten sposób wolumen transakcji.
+
 <details open markdown="block">
   <summary>
     Spis Treści
@@ -22,12 +28,6 @@ permalink: /heraclitus
 {:toc}
 </details>
 
-**The Heraclitus Project** to asortyment **Stokenizowanych dyweratów** włączających w swoją wartość **procent składany** *(Tokenized Compound Interest, **TCI**)* 
-
-TCI daje inwestorom możliwość konsolidowania nagród z tokenów takich jak sNSBT, sVIRES, sWX i LP bezpośrednio w wartości stokenizowanego procentu składanego (TCI).
-
-Dzięki takiemu rozwiązaniu inwestor otrzymuje zbywalny token, który w swojej wartości uwzględnia odsetki złożone z regularnej dystrybucji nagród oraz wartość bazowego aktywa (BA). Dodatkowo, regularne auto-buy tworzy presję zakupową dla danego aktywa bazowego, zwiększając również w ten sposób wolumen transakcji.
-
 ## Mintowana wartości BA_TCI
 
 Mintowana wartość BA_TCI jest tworzona na podstawie stosunku ilości tokenu bazowego w stakingu do ilości aktywów BA_TCI w obiegu. Procent składany w puli jest naliczany po każdej dystrybucji nagród (nie częściej jak co 24h) i dodawany do puli w skarbcu, przy czym dodatkowe BA_TCI nie jest emitowane. Dzięki takiemu mechanizmowi wartość wcześniej wymintowanego BA_TCI zwiększa swoją wartość, która ma odzwierciedlenie w stanie skarbca smart kontraktu.
@@ -35,9 +35,9 @@ Mintowana wartość BA_TCI jest tworzona na podstawie stosunku ilości tokenu ba
 ![](/images/tci-math-01.png)
 > *gdzie:*
 >
-> ***BA_TCI** to stokenizowany procent składany + aktywo bazowe
+> ***BA_TCI** to stokenizowany procent składany + aktywo bazowe*
 >
-> **BA Supply** to stan aktywa bazowego w skarbcu sc*
+> ***BA Supply** to stan aktywa bazowego w skarbcu sc*
 
 W każdym momencie można sprzedać swoje udziały do aktywa bazowego lub do USDN, tzn. wymienić posiadane aktywa BA_TCI na aktywa tokenu bazowego lub na USDN po nowym, wyższym kursie. Aby ułatwić swobodny obrót BA_TCI powstanie Market Maker na WavesExchange, który będzie oferował obrót zgodnie z ceną ze smart kontraktu.
 
@@ -50,15 +50,15 @@ Cena stokenizowanego procentu składanego jest formuowana następująco:
 ![](/images/tci-math-02.png)
 > *gdzie:*
 >
-> ***BA Price** to kurs / cena aktywa bazowego
+> ***BA Price** to kurs / cena aktywa bazowego*
 >
-> **BA** to aktywo bazowe
+> ***BA** to aktywo bazowe*
 >
-> **TCI** to stokenizowany procent składany*
+> ***TCI** to stokenizowany procent składany*
 
 BA_TCI w smart kontrakcie zawsze będzie odzwierciedlać cenę aktywa bazowego + skonsolidowane aktywo bazowe zakupione z dystrybuowanych nagród BA. Należy pamiętać, że będzie to w pełni przejrzyste i weryfikowalne w łańcuchu Waves.
 
-UWAGA: BA_TCI to stokenizowany procent składany. W związku z czym, derywat BA_TCI podlega swobodnej zbywalności, na tej samej zasadzie, jak każdy inny token w ekosystemie Waves. Twórcy projektu nie są w stanie kontrolować, przewidzieć czy regulować otwartego rynku DEX na Waves Exchange.
+**UWAGA:** BA_TCI to stokenizowany procent składany. W związku z czym, derywat BA_TCI podlega swobodnej zbywalności, na tej samej zasadzie, jak każdy inny token w ekosystemie Waves. Twórcy projektu nie są w stanie kontrolować, przewidzieć czy regulować otwartego rynku DEX na Waves Exchange.
 
 ## Uproszczony, praktyczny przykład działania:
 
@@ -68,21 +68,21 @@ Stakując instrument bazowy sNSBT smart kontrakt wydaje dyrewat sNSBT_TCI reprez
 
 Poniższa tabela przedstawia proces generowania nowych dyrewatów sNSBT_TCI przez okres 8 dni, przy założeniu +1% wartości procentu składanego co 24h.
 
-| Day   | Staking sNSBT | Total sNSBT staked | sNSBT\_TCI per 1 sNSBT | sNSBT\_TCI issued | sNSBT\_TCI in circulation | sNSBT Treasury Supply | +1% CI per 24h (sNSBT auto-buy) |
-|:----- |:------------- |:------------------ |:---------------------- |:----------------- |:------------------------- |:--------------------- |:------------------------------- |
-| **0** | 1,0000        | 1,0000             | 1,0000                 | 1,0000            | 1,0000                    | 1,0000                | 1,0100                          |
-| **1** | 2,0000        | 3,0000             | 0,9967                 | 1,9802            | 2,9802                    | 3,0100                | 3,0401                          |
-| **2** | 4,0000        | 7,0000             | 0,9803                 | 3,9212            | 6,9014                    | 7,0401                | 7,1105                          |
-| **3** | 8,0000        | 15,0000            | 0,9706                 | 7,7647            | 14,6661                   | 15,1105               | 15,2616                         |
-| **4** | 16,0000       | 31,0000            | 0,9610                 | 15,3757           | 30,0418                   | 31,2616               | 31,5742                         |
-| **5** | 32,0000       | 63,0000            | 0,9515                 | 30,4469           | 60,4887                   | 63,5742               | 64,2100                         |
-| **6** | 64,0000       | 127,0000           | 0,9420                 | 60,2909           | 120,7796                  | 128,2100              | 129,4921                        |
-| **7** | 128,0000      | 255,0000           | 0,9327                 | 119,3879          | 240,1675                  | 257,4921              | 260,0670                        |
+| Day | Staking sNSBT | Total sNSBT staked | sNSBT\_TCI per 1 sNSBT | sNSBT\_TCI issued | sNSBT\_TCI in circulation | sNSBT Treasury Supply | +1% CI per 24h (sNSBT auto-buy) |
+|:--- |:------------- |:------------------ |:---------------------- |:----------------- |:------------------------- |:--------------------- |:------------------------------- |
+| 0   | 1,0000        | 1,0000             | 1,0000                 | 1,0000            | 1,0000                    | 1,0000                | 1,0100                          |
+| 1   | 2,0000        | 3,0000             | 0,9967                 | 1,9802            | 2,9802                    | 3,0100                | 3,0401                          |
+| 2   | 4,0000        | 7,0000             | 0,9803                 | 3,9212            | 6,9014                    | 7,0401                | 7,1105                          |
+| 3   | 8,0000        | 15,0000            | 0,9706                 | 7,7647            | 14,6661                   | 15,1105               | 15,2616                         |
+| 4   | 16,0000       | 31,0000            | 0,9610                 | 15,3757           | 30,0418                   | 31,2616               | 31,5742                         |
+| 5   | 32,0000       | 63,0000            | 0,9515                 | 30,4469           | 60,4887                   | 63,5742               | 64,2100                         |
+| 6   | 64,0000       | 127,0000           | 0,9420                 | 60,2909           | 120,7796                  | 128,2100              | 129,4921                        |
+| 7   | 128,0000      | 255,0000           | 0,9327                 | 119,3879          | 240,1675                  | 257,4921              | 260,0670                        |
 
 
 1. W **dniu 4** Dawid zastakował 16 sNSBT przez Smart Kontrakt sNSBT_TCI.
 2. Na podstawie tego depozytu, smart kontrakt wydał Dawidowi 15,3757 sNSBT_TCI, którego wartość odpowiada udziałowi 16 sNSBT w skarbcu sNSBT_TCI.
-3. 24h po zastakowaniu sNSBT w puli nastąpiła dystrybucja nagród z gNSBT. Smart kontrakt automatycznie zamienia USDN z dystrybucji na sNSBT po rynkowym kursie.
+3. 24h po zastakowaniu sNSBT w puli, nastąpiła dystrybucja nagród z sNSBT (gNSBT). Smart kontrakt automatycznie zamienia USDN z dystrybucji na sNSBT po rynkowym kursie.
 4. Wartość 15,37 sNSBT_TCI, które posiada Dawid są teraz warte 16,16 sNSBT. Tokeny, które posiada Dawid zwiększyły swoją wartość zgodnie ze wzorem określającym cenę BA_TCI.
 
 ## Pierwsze publikacje
