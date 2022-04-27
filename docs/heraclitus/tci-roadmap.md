@@ -37,7 +37,7 @@ permalink: /tci-roadmap
 11. Panta Rhei Staking Program 👀
 
 \
-**UWAGA:** Pamiętaj, że **The Heraclitus Project** jest we wczesnym rozwoju, a rynek TCI nie został jeszcze uformowany. Upewnij się, że rozumiesz ryzyko związane z obrotem aktywami DeFi, zanim podejmiesz decyzję inwestycyjną.
+**UWAGA:** Pamiętaj, że **The Heraclitus Project** jest we wczesnym rozwoju, a rynek TCI nie został jeszcze uformowany. Zanim podejmiesz decyzję inwestycyjną, upewnij się, że rozumiesz ryzyko związane z obrotem aktywami DeFi.
 
 \
 Punkty ❓ na naszej roadmapie są uzależnione od poziomu adaptacji przez społeczność.
