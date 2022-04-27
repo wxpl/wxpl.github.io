@@ -1,9 +1,9 @@
 ---
 layout: default
 title: SecureConnection
-nav_order: 102
-parent: Bonus
-permalink: /bonus/secure-connection
+nav_order: 3
+parent: WavesPolska
+permalink: /secure-connection
 
 ---
 
@@ -18,6 +18,7 @@ W trakcie połączenia, system jest odcięty od wszystkich znanych domen, które
 Korzystamy z kombinacja adlist. Szczegółowa lista dostępna [TUTAJ](https://github.com/wxpl/wxpl.github.io/blob/main/docs/wxpl-sc-adlist.txt).
 
 W ramach dopełnienia powyższej listy, zostały dodane również filtry Regex:
+
 ```yaml
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
@@ -72,12 +73,15 @@ Na podstawie id transakcji wydawane są certyfikaty umożliwiające połączenie
 ## Połączenie z WXPL SecureConnection
 
 ### Windows
+
 Pobierz OpenVPN GUI, zainstaluj go i umieść profil w folderze 'config' w katalogu OpenVPN, np. w 'C:\Program Files\OpenVPN\config'. Po zaimportowaniu, połącz się z serwerem VPN w systemie Windows, uruchamiając OpenVPN GUI z uprawnieniami administratora, klikając prawym przyciskiem myszy na ikonę w zasobniku systemowym i klikając "Connect".
 
 ### Android
+
 Zainstaluj aplikację OpenVPN Connect, wybierz 'Import' z rozwijanego menu w prawym górnym rogu ekranu głównego, wybierz katalog na swoim urządzeniu, w którym przechowywany jest plik .ovpn i wybierz plik. Połącz się wybierając profil pod 'OpenVPN Profile' i naciskając 'Connect'.
 
 ### Linux
+
 Zainstaluj OpenVPN używając menedżera pakietów (w tym przykładzie APT). Teraz, jako użytkownik root, utwórz folder /etc/openvpn/client i uniemożliw nikomu poza rootem wejście do niego (musisz to zrobić tylko za pierwszym razem):
 
 ```yaml
@@ -93,12 +97,15 @@ Przenieś konfigurację i połącz się (wprowadź hasło):
 mv whatever.ovpn /etc/openvpn/client/.
 openvpn /etc/openvpn/client/whatever.ovpn
 ```
+
 Naciśnij CTRL-C, aby się rozłączyć.
 
 ### Mac
+
 Możesz użyć klienta OpenVPN, takiego jak Tunnelblick. Oto przewodnik jak zaimportować konfigurację.
 
 ### iOS
+
 Zainstaluj aplikację OpenVPN Connect. Następnie przejdź do aplikacji, do której skopiowałeś plik .ovpn, wybierz plik, znajdź ikonę lub przycisk 'Share' lub 'Open with' i wybierz opcję otwarcia za pomocą aplikacji OpenVPN.
 
 \

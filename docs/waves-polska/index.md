@@ -2,6 +2,7 @@
 layout: default
 title: WavesPolska
 nav_order: 2
+has_children: true
 permalink: /waves-polska
 
 ---
