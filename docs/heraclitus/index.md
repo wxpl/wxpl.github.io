@@ -13,6 +13,8 @@ permalink: /heraclitus
 # The Heraclitus Project
 {: .no_toc }
 
+[![Twitter](/images/twitter.svg)](https://twitter.com/heraclitus_tci){:target="_blank"}  [![Twitter](/images/twitter.svg)](https://t.me/heraclitus_project){:target="_blank"}  [![Medium](/images/medium.svg)](https://heraclitus_tci.medium.com/){:target="_blank"} 
+
 **The Heraclitus Project** to asortyment **Stokenizowanych dyweratów** włączających w swoją wartość **procent składany** *(Tokenized Compound Interest, **TCI**)* 
 
 TCI daje inwestorom możliwość konsolidowania nagród z tokenów takich jak sNSBT, sVIRES, sWX i LP bezpośrednio w wartości stokenizowanego procentu składanego (TCI).
@@ -39,7 +41,7 @@ Mintowana wartość BA_TCI jest tworzona na podstawie stosunku ilości tokenu ba
 >
 > ***BA Supply** to stan aktywa bazowego w skarbcu sc*
 
-W każdym momencie można sprzedać swoje udziały do aktywa bazowego lub do USDN, tzn. wymienić posiadane aktywa BA_TCI na aktywa tokenu bazowego lub na USDN po nowym, wyższym kursie. Aby ułatwić swobodny obrót BA_TCI powstanie Market Maker na WavesExchange, który będzie oferował obrót zgodnie z ceną ze smart kontraktu.
+W każdym momencie można wymienić swoje udziały na aktywa bazowego lub na USDN, tzn. wymienić posiadane aktywa BA_TCI na aktywa tokenu bazowego lub na USDN po nowym, wyższym kursie. Aby ułatwić swobodny obrót BA_TCI powstanie Market Maker na WavesExchange, który będzie oferował obrót zgodnie z ceną ze smart kontraktu.
 
 Różnica w cenie BA_TCI w momencie rozpoczęcia i zakończenia stakowania będzie stanowić Twój dochód. Różnica ta, do aktywa bazowego może być **wyłącznie dodatnia**.
 
@@ -60,9 +62,11 @@ BA_TCI w smart kontrakcie zawsze będzie odzwierciedlać cenę aktywa bazowego +
 
 **UWAGA:** BA_TCI to stokenizowany procent składany. W związku z czym, derywat BA_TCI podlega swobodnej zbywalności, na tej samej zasadzie, jak każdy inny token w ekosystemie Waves. Twórcy projektu nie są w stanie kontrolować, przewidzieć czy regulować otwartego rynku DEX na Waves Exchange.
 
-## Uproszczony, praktyczny przykład działania:
+## Uproszczony przykład działania
 
-Stakując instrument bazowy sNSBT smart kontrakt wydaje dyrewat sNSBT_TCI reprezentujący udział stakowanego sNSBT w skarbcu sNSBT_TCI. Następnie po każdej dystrybucji nagród, które wydawane są z pochodnej sNSBT, zostaje automatycznie dokupiona dodatkowa ilość sNSBT, zwiększając wartość tokenu sNSBT_TCI. Częstotliowść automatycznego procentu składanego jest uzależniona od częstotliwości dystrybuowanych nagród z sNSBT.
+Stakując instrument bazowy sNSBT, smart kontrakt wydaje dyrewat sNSBT_TCI reprezentujący udział stakowanego sNSBT w skarbcu TCI. Następnie po każdej dystrybucji nagród, które wydawane są z pochodnej sNSBT, zostaje automatycznie dokupiona dodatkowa ilość sNSBT, zwiększając tym samym wartość tokenu sNSBT_TCI. 
+
+Częstotliowść automatycznego procentu składanego jest uzależniona od częstotliwości dystrybuowanych nagród z sNSBT.
 
 ![](/images/tci-diagram.png)
 
@@ -105,7 +109,7 @@ Ciszymy się, że jesteś z nami!
 Derywat (ang. derivative) to rodzaj instrumentu finansowego, niebędącego papierem wartościowym, którego wartość uzależniona jest od aktywa bazowego.
 
 ### Jak formowana jest cena stokenizowanego procentu składanego?
-Odpowiedź znajdziesz TUTAJ.
+Odpowiedź znajdziesz [TUTAJ](https://wxpl.club/heraclitus#cena-ba_tci).
 
 ### Kolejne pytania zostaną uzupełnione po publikacji artykułu.
 
