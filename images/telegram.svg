@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7.9375mm"
+   height="7.9375mm"
+   viewBox="0 0 7.9375 7.9375"
+   version="1.1"
+   id="svg221"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="telegram.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview223"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1"
+     inkscape:cx="169.5"
+     inkscape:cy="-76.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs218" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.461983,-127.3657)">
+    <path
+       d="m 49.430733,127.3657 c -2.191867,0 -3.96875,1.77705 -3.96875,3.96889 0,2.19126 1.776883,3.96861 3.96875,3.96861 2.191867,0 3.96875,-1.77735 3.96875,-3.96861 0,-2.19184 -1.776883,-3.96889 -3.96875,-3.96889"
+       style="fill:#010201;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00587952"
+       id="path198" />
+    <path
+       d="m 51.362662,129.72246 c -0.01517,-0.0447 -0.03328,-0.0564 -0.06156,-0.0676 -0.06185,-0.0229 -0.166629,0.0117 -0.166629,0.0117 0,0 -3.709164,1.33344 -3.921066,1.48102 -0.04563,0.0318 -0.06091,0.0506 -0.0685,0.0723 -0.03663,0.10466 0.07749,0.15111 0.07749,0.15111 l 0.956028,0.3116 c 0,0 0.03563,0.005 0.04833,-0.003 0.217488,-0.13758 2.188163,-1.38166 2.301817,-1.4234 0.01793,-0.005 0.03122,6.6e-4 0.02769,0.0129 -0.04551,0.15992 -1.757128,1.68092 -1.757128,1.68092 0,0 -0.0065,0.008 -0.01064,0.0176 l -0.0022,-0.001 -0.08919,0.94835 c 0,0 -0.03739,0.29044 0.253119,0 0.204963,-0.20519 0.403283,-0.37687 0.502531,-0.45977 0.328731,0.22695 0.682508,0.478 0.835202,0.60911 0.07667,0.0658 0.140817,0.0764 0.193616,0.0747 0.144933,-0.005 0.185385,-0.16463 0.185385,-0.16463 0,0 0.675922,-2.7204 0.6985,-3.08492 0.0022,-0.0359 0.0053,-0.0582 0.0055,-0.0829 4.17e-4,-0.0341 -0.0028,-0.0682 -0.0083,-0.0841"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00587952"
+       id="path200" />
+  </g>
+</svg>

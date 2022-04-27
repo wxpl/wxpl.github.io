@@ -9,7 +9,7 @@ permalink: /tci-roadmap
 ---
 ![](/images/cover-tci.png)
 
-## Roadmap
+# Roadmap
 
 1. Introducing _TCI / Appearance on social media
 	- sNSBT_TCI
@@ -36,4 +36,8 @@ permalink: /tci-roadmap
 10. BA_TCI's Swap Platform
 11. Panta Rhei Staking Program 👀
 
+\
+**UWAGA:** Pamiętaj, że **The Heraclitus Project** jest we wczesnym rozwoju, a rynek TCI nie został jeszcze uformowany. Upewnij się, że rozumiesz ryzyko związane z obrotem aktywami DeFi, zanim podejmiesz decyzję inwestycyjną.
+
+\
 Punkty ❓ na naszej roadmapie są uzależnione od poziomu adaptacji przez społeczność.
