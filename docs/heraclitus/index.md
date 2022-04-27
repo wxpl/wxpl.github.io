@@ -13,13 +13,13 @@ permalink: /heraclitus
 # The Heraclitus Project
 {: .no_toc }
 
-[![Twitter](/images/twitter.svg)](https://twitter.com/heraclitus_tci){:target="_blank"}  [![Twitter](/images/twitter.svg)](https://t.me/heraclitus_project){:target="_blank"}  [![Medium](/images/medium.svg)](https://heraclitus_tci.medium.com/){:target="_blank"} 
+[![Twitter](/images/twitter.svg)](https://twitter.com/heraclitus_tci){:target="_blank"}  [![Telegram](/images/telegram.svg)](https://t.me/heraclitus_project){:target="_blank"}  [![Medium](/images/medium.svg)](https://heraclitus_tci.medium.com/){:target="_blank"} 
 
-**The Heraclitus Project** to asortyment **Stokenizowanych dyweratów** włączających w swoją wartość **procent składany** *(Tokenized Compound Interest, **TCI**)* 
+**The Heraclitus Project** to zbiór **stokenizowanych dyweratów** włączających w swoją wartość **procent składany** *(Tokenized Compound Interest, **TCI**)* 
 
 TCI daje inwestorom możliwość konsolidowania nagród z tokenów takich jak sNSBT, sVIRES, sWX i LP bezpośrednio w wartości stokenizowanego procentu składanego (TCI).
 
-Dzięki takiemu rozwiązaniu inwestor otrzymuje zbywalny token, który w swojej wartości uwzględnia odsetki złożone z regularnej dystrybucji nagród oraz wartość bazowego aktywa (BA). Dodatkowo, regularne auto-buy tworzy presję zakupową dla danego aktywa bazowego, zwiększając również w ten sposób wolumen transakcji.
+Dzięki takiemu rozwiązaniu inwestor otrzymuje zbywalny token, który w swojej wartości uwzględnia odsetki złożone z regularnej dystrybucji nagród plus wartość bazowego aktywa (BA). Dodatkowo, regularne auto-buy tworzy presję zakupową dla danego aktywa bazowego, zwiększając również w ten sposób wolumen transakcji.
 
 <details open markdown="block">
   <summary>
@@ -110,6 +110,9 @@ Derywat (ang. derivative) to rodzaj instrumentu finansowego, niebędącego papie
 
 ### Jak formowana jest cena stokenizowanego procentu składanego?
 Odpowiedź znajdziesz [TUTAJ](https://wxpl.club/heraclitus#cena-ba_tci).
+
+### Po co uwzględniać procent składany w tokenie?
+Stokenizowany procent składany zwalnia inwestora z konieczności ręcznego reinwestowania zysku generowanego przez instrument bazowy oraz daje możliwość posiadania aktywa, które jako token może zostać reinwestowane we wszystkie produkty w systemie Waves DeFi (pule płynności, protokoły pożyczkowe, algorytmy handlujące itp.)
 
 ### Kolejne pytania zostaną uzupełnione po publikacji artykułu.
 
