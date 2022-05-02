@@ -28,13 +28,13 @@ Smart kontrakt **sNSBT_TCI** jest już w pełni funkcjonalny. Minting TCI jest m
 2. Kliknij `Attach payment` 
 3. W polu `Payments` wybierz sNSBT jako aktywo bazowe (BA)
 4. Podaj kwotę sNSBT, jaką chcesz przeznaczyć na sNSBT_TCI
-5. Kliknij `Invoke` i potwierdź transakcję aby sfinalizować minting
+5. Kliknij `Invoke` i potwierdź transakcję, aby sfinalizować minting
 
 **sNSBT_TCI Token ID:** [4CDoUKSAtLTwVTpdxFu6EcbafiCDZUSBXrWGjrAcCPoL](https://wscan.io/4CDoUKSAtLTwVTpdxFu6EcbafiCDZUSBXrWGjrAcCPoL)
 
 **Adres skarbca sNSBT_TCI:** [3PPK7G7BQf3yWQdXapuBhEhYkaqNBfcvNtk](https://wscan.io/3PPK7G7BQf3yWQdXapuBhEhYkaqNBfcvNtk) 
 
-Kolejnym krokiem w rozwoju the Heraclitus Project będzie uruchomienie zautomatyzowanych statystyk, mających na celu ułatwienie inwestorom w śledzeniu szczegółów danego TCI (APY, cena w smart kontrakcie, ilość TCI w obiegu, stan skarbca, itp.).
+Kolejnym krokiem w rozwoju the Heraclitus Project będzie uruchomienie zautomatyzowanych statystyk, mających na celu ułatwienie inwestorom monitorowanie szczegółów danego TCI (APY, cena w smart kontrakcie, ilość TCI w obiegu, stan skarbca, itp.).
 
 W najbliższym czasie zostanie również aktywowany bot market maker [sNSBT/sNSBT_TCI na WavesExchange](https://waves.exchange/trading/spot/8wUmN9Y15f3JR4KZfE81XLXpkdgwnqoBNG6NmocZpKQx_4CDoUKSAtLTwVTpdxFu6EcbafiCDZUSBXrWGjrAcCPoL)
 
