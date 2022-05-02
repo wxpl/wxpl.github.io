@@ -27,7 +27,7 @@ Smart kontrakt **sNSBT_TCI** jest już w pełni funkcjonalny. Minting TCI jest m
 1. Zaloguj się na swoje konto Waves
 2. Kliknij `Attach payment` 
 3. W polu `Payments` wybierz sNSBT jako aktywo bazowe (BA)
-4. Wpisz kwotę sNSBT, jakie chcesz zamienić na sNSBT_TCI
+4. Podaj kwotę sNSBT, jaką chcesz przeznaczyć na sNSBT_TCI
 5. Kliknij `Invoke` i potwierdź transakcję aby sfinalizować minting
 
 **sNSBT_TCI Token ID:** [4CDoUKSAtLTwVTpdxFu6EcbafiCDZUSBXrWGjrAcCPoL](https://wscan.io/4CDoUKSAtLTwVTpdxFu6EcbafiCDZUSBXrWGjrAcCPoL)
