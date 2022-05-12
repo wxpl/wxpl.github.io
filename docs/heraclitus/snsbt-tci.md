@@ -13,7 +13,7 @@ permalink: /snsbt_tci
 
 ![](/images/sNSBT_TCI-logo-text.png)
 
-**sNSBT_TCI* to pierwszy oficjalny derywat stokenizowanego procentu składanego, wydany przez Heraclitus Project. Aktywem bazowym (BA) jest tutaj Staked NSBT (sNSBT).
+**sNSBT_TCI** to pierwszy oficjalny derywat stokenizowanego procentu składanego, wydany przez Heraclitus Project. Aktywem bazowym (BA) jest tutaj Staked NSBT (sNSBT).
 
 Zasada działania sNSBT_TCI będzie zgodna z ogólnymi założeniami funkcjonowania TCI, opisanymi w [tym artykule](https://wxpl.club/heraclitus).
 
