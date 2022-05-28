@@ -5,6 +5,7 @@ nav_order: 1
 permalink: /bonus/neutrino-node
 
 ---
+**Instalujemy Node LPoS Waves - decentralizacja Neutrino Protocol**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6G8QVI3uuDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -17,11 +18,11 @@ permalink: /bonus/neutrino-node
 {:toc}
 </details>
 
-## 1. Wybór VPS / self hosting
+## Wybór VPS / self hosting
 
 [DigitalOcean](https://digitalocean.com)
 
-## 2. Wstępna konfiguracja serwera
+## Wstępna konfiguracja serwera
 
 [Oficjalna strona dokumentacji Waves](https://docs.waves.tech/en/)
 
@@ -40,7 +41,7 @@ Zainstaluj środowisko Java:
 sudo apt install openjdk-11-jre
 ```
 
-## 3. Instalacja i konfiguracja Waves Node
+## Instalacja i konfiguracja Waves Node
 
 Oprogramowanie Walidatora Waves Node, Wersja 1.3.15 (Mainnet):
 
@@ -121,14 +122,13 @@ Sprawdź status procesu walidatora:
 journalctl -u waves.service -f
 ```
 
-## 4. Chain bootstrap
+## Chain bootstrap
 
 [blockchain.wavesnodes.com](http://blockchain.wavesnodes.com)
 
 Zainstaluj tmux:
 ```
 sudo apt install tmux
-
 ```
 Uruchom nową konsolę:
 ```
@@ -150,7 +150,6 @@ sudo systemctl stop waves
 Usuń niekompletne dane łańcucha:
 ```
 sudo rm -rdf /var/lib/waves/data.
-
 ```
 
 Po pobraniu pełnego archiwum łańcucha. Zdekompresuj baze danych:
@@ -165,13 +164,13 @@ sudo systemctl start waves
 
 Node łańcucha Waves został zainstalowany, skonfigurowany oraz zaktualizowany. Gratulacje!
 
-## 5. Aplikowanie o udział w decentralizacji Neutrino
+## Aplikowanie o udział w decentralizacji Neutrino
 
 [Adres Smart Kontraktu do obsługi node'ów Neutrino](https://wavesexplorer.com/address/3P9vKqQKjUdmpXAfiWau8krREYAY1Xr69pE/tx)
 
 [Smart Contract dapp interface](https://waves-dapp.com/3P9vKqQKjUdmpXAfiWau8krREYAY1Xr69pE)
 
-\
+
 
 --- 
 
