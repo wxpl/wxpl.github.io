@@ -74,7 +74,7 @@ sudo systemctl status waves
 Wyedytuj plik konfiguracyjny:
 
 ```
-sudo nano  /etc/waves/waves.conf
+sudo nano /etc/waves/waves.conf
 ```
 
 Przykładowy szablon pliku konfiguracyjnego:
