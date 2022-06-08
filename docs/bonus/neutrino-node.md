@@ -49,7 +49,7 @@ sudo apt install openjdk-11-jre
 
 ## Instalacja i konfiguracja Waves Node
 
-Oprogramowanie Walidatora Waves Node, Wersja 1.3.15 (Mainnet):
+Oprogramowanie Walidatora Waves Node, Wersja 1.4.6 (Mainnet):
 
 [github.com/wavesplatform/Waves/releases](https://github.com/wavesplatform/Waves/releases)
 
