@@ -1,10 +1,13 @@
 ---
+
 layout: default
 title: Neutrino Node
-nav_order: 1
-permalink: /bonus/neutrino-node
+nav_order: 22
+parent: Neutrino
+permalink: /neutrino-node
 
 ---
+
 **Instalujemy Node LPoS Waves - decentralizacja Neutrino Protocol**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6G8QVI3uuDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,16 +30,19 @@ permalink: /bonus/neutrino-node
 [Oficjalna strona dokumentacji Waves](https://docs.waves.tech/en/)
 
 Połącz się ze swoim serwerem:
+
 ```
 ssh root@your-vps-public-ip
 ```
 
 Zaktualizuj system Ubuntu:
+
 ```
 sudo apt update && sudo apt upgrade -y
 ```
 
 Zainstaluj środowisko Java:
+
 ```
 sudo apt install openjdk-11-jre
 ```
@@ -47,27 +53,32 @@ Oprogramowanie Walidatora Waves Node, Wersja 1.3.15 (Mainnet):
 
 [github.com/wavesplatform/Waves/releases](https://github.com/wavesplatform/Waves/releases)
 
-
 Pobierz oprogramowanie walidatora:
+
 ```
-wget https://github.com/wavesplatform/Waves/releases/download/v1.3.15/waves_1.3.15_all.deb
+wget https://github.com/wavesplatform/Waves/releases/download/v1.4.6/waves_1.4.6_all.deb
 ```
+
 Zainstaluj oprogramowanie walidatora:
+
 ```
-sudo apt install ./waves_1.3.15_all.deb
+sudo apt install ./waves_1.4.6_all.deb
 ```
 
 Sprawdź status serwisu:
+
 ```
 sudo systemctl status waves
 ```
 
 Wyedytuj plik konfiguracyjny:
+
 ```
 sudo nano  /etc/waves/waves.conf
 ```
 
 Przykładowy szablon pliku konfiguracyjnego:
+
 ```
 waves {
 
@@ -99,11 +110,19 @@ waves {
   }
 
   network {
-    # Node name to send during handshake. Comment this string out to set random node name.
     node-name = "your-waves-node"
     declared-address = "123.456.789.101:6868"
     bind-address = "192.168.3.234"
     port = 6868
+  }
+
+  features {
+    auto-shutdown-on-unsupported-feature = no
+    support = [17]
+  }
+
+  rewards {
+    desired = 700000000
   }
 
   # Uncomment to enable the gRPC extension
@@ -112,12 +131,13 @@ waves {
 ```
 
 Uruchom walidator Waves po raz pierwszy:
+
 ```
 sudo systemctl enable --now waves
 ```
 
-
 Sprawdź status procesu walidatora:
+
 ```
 journalctl -u waves.service -f
 ```
@@ -127,15 +147,19 @@ journalctl -u waves.service -f
 [blockchain.wavesnodes.com](http://blockchain.wavesnodes.com)
 
 Zainstaluj tmux:
+
 ```
 sudo apt install tmux
 ```
+
 Uruchom nową konsolę:
+
 ```
 tmux new -s blockchain
 ```
 
 Pobierz blockchain:
+
 ```
 wget http://blockchain.wavesnodes.com/blockchain_last.tar
 ```
@@ -143,21 +167,25 @@ wget http://blockchain.wavesnodes.com/blockchain_last.tar
 Wyjdź z powłoki tmux, poprzez kombinację klawiszy `ctrl+B` a następnie naciśnięcie klawisza `D`.
 
 Zatrzymaj proces walidatora Waves:
+
 ```
 sudo systemctl stop waves
 ```
 
 Usuń niekompletne dane łańcucha:
+
 ```
 sudo rm -rdf /var/lib/waves/data.
 ```
 
 Po pobraniu pełnego archiwum łańcucha. Zdekompresuj baze danych:
+
 ```
-tar -xvf blockchain_last.tar -C /var/lib/waves/data
+tar -xvf blockchain_last.tar -C /var/lib/waves/
 ```
 
 Uruchom proces walidatora:
+
 ```
 sudo systemctl start waves
 ```
@@ -169,8 +197,6 @@ Node łańcucha Waves został zainstalowany, skonfigurowany oraz zaktualizowany.
 [Adres Smart Kontraktu do obsługi node'ów Neutrino](https://wavesexplorer.com/address/3P9vKqQKjUdmpXAfiWau8krREYAY1Xr69pE/tx)
 
 [Smart Contract dapp interface](https://waves-dapp.com/3P9vKqQKjUdmpXAfiWau8krREYAY1Xr69pE)
-
-
 
 --- 
 
