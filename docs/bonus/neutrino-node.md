@@ -118,7 +118,7 @@ waves {
 
   features {
     auto-shutdown-on-unsupported-feature = no
-    support = [17]
+    supported = [17]
   }
 
   rewards {
