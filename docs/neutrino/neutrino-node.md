@@ -293,6 +293,8 @@ Gratuluję! Jesteś operatorem Node'a Neutrino!
 
 * [docs.waves.tech](https://docs.waves.tech)
 
+* [Digital Ocean](https://m.do.co/c/caf4ad4a3a31)
+
 * [blockchain.wavesnodes.com](http://blockchain.wavesnodes.com)
 
 * [github.com/wavesplatform/Waves/releases](https://github.com/wavesplatform/Waves/releases)
