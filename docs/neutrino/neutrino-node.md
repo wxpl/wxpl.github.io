@@ -22,7 +22,7 @@ permalink: /neutrino-node
 
 ## Wybór VPS / self hosting
 
-[DigitalOcean](https://digitalocean.com)
+<a href="https://www.digitalocean.com/?refcode=caf4ad4a3a31&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
 ## Wstępna konfiguracja serwera
 
@@ -262,6 +262,7 @@ W ostatniej lini podaj cron job pod automatyzację:
 ```
 0 */12 * * * /usr/bin/python3 /path-to-your-script/payment.py > /root/payment.log
 ```
+
 Zamień `/path-to-your-script/payment.py` na lokalizację, w której znajduje się `payment.py`. Jeśli jesteś root'em to skrypt prawdopodobnie znajduje się tu: `/root/payment.py`
 
 `/root/payment.log` zapisuje output ze skryptu. Stwórzmy teraz ten plik:
@@ -269,6 +270,7 @@ Zamień `/path-to-your-script/payment.py` na lokalizację, w której znajduje si
 ```
 touch /root/payment.log
 ```
+
 lokalizacja może być dowolna. Sam zdecyduj.
 
 Jeśli chcesz zautomatyzować proces wypłaty w inny sposób, pomocny może okazać się [Crontab.guru](https://crontab.guru/every-12-hours), szybki oraz prosty edytor kodów pod cron jobs.
