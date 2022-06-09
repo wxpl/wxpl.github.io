@@ -1,5 +1,4 @@
 ---
-
 layout: default
 title: Neutrino Node
 nav_order: 22
@@ -198,6 +197,88 @@ Node łańcucha Waves został zainstalowany, skonfigurowany oraz zaktualizowany.
 
 [Smart Contract dapp interface](https://waves-dapp.com/3P9vKqQKjUdmpXAfiWau8krREYAY1Xr69pE)
 
+## Automatyzacja wypłaty
+
+Zainstaluj środowisko Python:
+
+```
+sudo apt install build-essential python3-dev python3-pip python3-testresources -y
+```
+
+Zainstaluj Pywaves do obsługi skryptu:
+
+```
+pip install pywaves
+```
+
+pobierz gotowy skrypt:
+
+```
+wget https://raw.githubusercontent.com/waves-exchange/neutrino-utilities/main/neutrino_nodes/payment.py
+```
+
+Dostosuj skrypt do swoich potrzeb:
+
+```
+nano payment.py
+```
+
+Przykład wyedytowanego skryptu:
+
+```
+import pywaves as pw
+import datetime as dt
+
+pw.setNode('https://node.heraclitus.space', chain='mainnet')
+myAddress = pw.Address(privateKey='your_node_private_key') # klucz prywatny Twojego node'a
+dappAddress = '3P9vKqQKjUdmpXAfiWau8krREYAY1Xr69pE'
+beneficiaryAddress = '3P_your_beneficiary_address' # adres na który chcesz otrzymać wypłatę 5% z mintingu
+fee = pw.DEFAULT_INVOKE_SCRIPT_FEE
+amount = myAddress.balance() - fee
+result = myAddress.invokeScript(dappAddress, 'distributeMinerReward', params=[{"type": "string", "value": beneficiaryAddress}], payments=[{"assetId": None, "amount": amount}], feeAsset = None, txFee=fee)
+now = dt.datetime.now()
+print(now.strftime("%Y-%m-%d %H:%M:%S"))
+print(result)
+```
+
+Skrypt jest gotowy do egzekwowania kodu. Możesz spróbować czy działa odpalając go ręcznie:
+
+```
+python3 payment.py
+```
+
+**Automatyzacja procesu**
+
+Aby zautomatyzować egzekwowanie skryptu wykorzystamy `cron job`. Proponuję aby automatyzację wykonywać co 12h.
+
+Otwórz cron tab:
+
+```
+crontab -e
+```
+
+W ostatniej lini podaj cron job pod automatyzację:
+
+```
+0 */12 * * * /usr/bin/python3 /path-to-your-script/payment.py > /root/payment.log
+```
+Zamień `/path-to-your-script/payment.py` na lokalizację, w której znajduje się `payment.py`. Jeśli jesteś root'em to skrypt prawdopodobnie znajduje się tu: `/root/payment.py`
+
+`/root/payment.log` zapisuje output ze skryptu. Stwórzmy teraz ten plik:
+
+```
+touch /root/payment.log
+```
+lokalizacja może być dowolna. Sam zdecyduj.
+
+Jeśli chcesz zautomatyzować proces wypłaty w inny sposób, pomocny może okazać się [Crontab.guru](https://crontab.guru/every-12-hours), szybki oraz prosty edytor kodów pod cron jobs.
+
+Wszystko gotowe.
+
+Monitoruj czy zadania cron są wykonywane poprawnie, bez błędów. Przydatna może okazać się usługa [Cronitor](https://cronitor.io/cron-job-monitoring).
+
+Gratuluję! Jesteś operatorem Node'a Neutrino!
+
 --- 
 
 **Przytatne linki:**
@@ -221,3 +302,7 @@ Node łańcucha Waves został zainstalowany, skonfigurowany oraz zaktualizowany.
 * [Smart Contract dapp interface](https://waves-dapp.com/3P9vKqQKjUdmpXAfiWau8krREYAY1Xr69pE)
 
 * [Pywaves Stats](https://dev.pywaves.org/generators-monthly/)
+
+* [Payout script in python](https://github.com/waves-exchange/neutrino-utilities)
+
+* [Crontab.guru](https://crontab.guru/every-12-hours)
