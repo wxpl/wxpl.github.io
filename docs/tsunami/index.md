@@ -24,5 +24,6 @@ Wieczyste kontrakty terminowe nie mają daty wygaśnięcia, co czyni je bardzo w
 
 Kontrakty terminowe pozwalają inwestorom spekulować na ruchach cenowych składnika aktywów bazowych bez posiadania go na własność, poprzez zakup (long) lub sprzedaż (short) kontraktu.
 
-*INFO
-Ten dokument jest w trakcie opracowywania. Zespół stara się na bieżąco aktualizować zawarte tu informacje, uwzględniając najnowsze osiągnięcia. Ze względu na iteracyjny charakter naszego procesu rozwoju, niektóre implementacje mogą różnić się od tego, co jest wymienione w tym dokumencie. Jeśli zauważyłeś taki problem, zgłoś go na naszej grupie Telegram.*
+> **INFO**
+> 
+> *Ten dokument jest w trakcie opracowywania. Zespół stara się na bieżąco aktualizować zawarte tu informacje, uwzględniając najnowsze osiągnięcia. Ze względu na iteracyjny charakter naszego procesu rozwoju, niektóre implementacje mogą różnić się od tego, co jest wymienione w tym dokumencie. Jeśli zauważyłeś taki problem, zgłoś go na naszej grupie Telegram.*
