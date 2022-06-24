@@ -15,8 +15,6 @@ Cena kontraktu terminowego może odbiegać od ceny aktywów bazowych (ceny indek
 
 Aby cena kontraktu future była zbliżona do ceny indeksu, stosuje się płatność finansującą.
 
-> **INFO**
->
 > **Mechanizm finansowania**
 > 
 > *Co godzinę traderzy z otwartymi długimi lub krótkimi pozycjami wypłacają sobie nawzajem płatność finansującą, w zależności od warunków rynkowych. Jeśli cena kontraktu jest wyższa od ceny spot, inwestorzy z długimi pozycjami płacą inwestorom z krótkimi. Jeśli cena kontraktu jest niższa od ceny spot, shorty będą płacić longom. W ten sposób inwestorzy są zachęcani do zajmowania niepopularnej strony rynku.*
@@ -123,8 +121,6 @@ Likwidacje są przeprowadzane przez boty likwidatorów. Początkowo zespół Tsu
 
 Handel z wykorzystaniem dźwigni nieodłącznie wiąże się z pewnym ryzykiem zarówno dla inwestora, jak i dla protokołu. Podczas bardzo zmiennych warunków rynkowych, poślizgi i opóźnienia w realizacji zleceń mogą spowodować, że na niektórych rachunkach po rozliczeniu pojawi się saldo ujemne.
 
-> **INFO**
-> 
 > *Fundusz ubezpieczeniowy to siatka bezpieczeństwa, która utrzymuje wypłacalność protokołu, gdy rachunek ma ujemny wskaźnik marży. Straty z likwidacji takich rachunków są kompensowane przez fundusz ubezpieczeniowy.*
 
 1. Fundusz ubezpieczeniowy jest początkowo zasilany przez zespół

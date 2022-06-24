@@ -28,7 +28,7 @@ Początkowa płynność jest dostarczana do Puzzle.Swap z początkową ceną tok
 
 Jako entuzjaści kryptowalut i inwestorzy wysoko cenimy uczciwość i przejrzystość podczas ofert tokenów. Zgodnie z naszymi wartościami, oferujemy tokeny TSN w ramach modelu "Fair Launch". Uczciwy start oznacza, że każdy uczestnik może wziąć udział w ofercie na równych warunkach. Tsunami nie pozyskało żadnego kapitału VC i nie przeprowadziło żadnej prywatnej rundy przed fazą ILO.
 
-**Initial Liquidity Offering (ILO)** - to nowy mechanizm pozyskiwania funduszy, za pomocą którego wiele projektów i startupów zbiera fundusze sprzedając tokeny na zdecentralizowanych giełdach opartych na DeFi (DEX's). Podczas ILO, zespół wniesie własny kapitał, aby zapewnić początkową płynność na DEX (Puzzle Swap) w celu uruchomienia płynności. Wszystkie tokeny zostaną natychmiast wprowadzone do obiegu, co ograniczy możliwość manipulowania cenami przez dużych posiadaczy.
+**Initial Liquidity Offering, ILO** - to nowy mechanizm pozyskiwania funduszy, za pomocą którego wiele projektów i startupów zbiera fundusze sprzedając tokeny na zdecentralizowanych giełdach opartych na DeFi (DEX's). Podczas ILO, zespół wniesie własny kapitał, aby zapewnić początkową płynność na DEX (Puzzle Swap) w celu uruchomienia płynności. Wszystkie tokeny zostaną natychmiast wprowadzone do obiegu, co ograniczy możliwość manipulowania cenami przez dużych posiadaczy.
 
 Mówiąc prościej, stworzymy parę handlową (liquidity pool) na Puzzle Swap, dostarczymy 65% całkowitej podaży TSN do liquidity pool, wraz z wystarczającą ilością USDN, aby cena TSN na giełdzie wynosiła 0,2 USDN.
 
