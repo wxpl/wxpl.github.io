@@ -56,7 +56,6 @@ x = 480.777
 
 Teraz Alicja ma pozycję 480,777 WAVES, a vAMM ma następujący nowy stan:
 
-
 | USDN   | WAVES    | K          |
 |:------:|:--------:|:----------:|
 | 104000 | 12019.22 | 1250000000 |
