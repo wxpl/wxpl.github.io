@@ -7,6 +7,8 @@ permalink: /tsunami/futures
 
 ---
 
+![futures](/images/futures.png)
+
 ## Kontrakty terminowe typu Perpetual Futures
 
 Perpetual Futures to kontrakty rozliczane w gotówce (stablecoin), które nie mają terminu wygaśnięcia. Handel wieczystymi kontraktami futures jest podobny do handlu spot opartego na depozycie zabezpieczającym, z tą różnicą, że do Twojej pozycji nie jest stosowana stopa procentowa.
@@ -18,6 +20,8 @@ Aby cena kontraktu future była zbliżona do ceny indeksu, stosuje się płatno�
 > **Mechanizm finansowania**
 > 
 > *Co godzinę traderzy z otwartymi długimi lub krótkimi pozycjami wypłacają sobie nawzajem płatność finansującą, w zależności od warunków rynkowych. Jeśli cena kontraktu jest wyższa od ceny spot, inwestorzy z długimi pozycjami płacą inwestorom z krótkimi. Jeśli cena kontraktu jest niższa od ceny spot, shorty będą płacić longom. W ten sposób inwestorzy są zachęcani do zajmowania niepopularnej strony rynku.*
+
+![vAMM](/images/vamm.png)
 
 ## Wirtualny AMM (vAMM)
 

@@ -7,6 +7,8 @@ permalink: /tsunami/tokenomia
 
 ---
 
+![tokenomics](/images/tokenomics.png)
+
 ## Token TSN
 
 Tsunami jest zarządzane przez token platformy, TSN. TSN daje jego posiadaczom możliwość uczestniczenia w podejmowaniu decyzji dotyczących rozwoju platformy, w tym dodawania nowych rynków i ustalania priorytetów funkcji. Inną ważną cechą TSN jest możliwość stakowania. Posiadacze TSN uczestniczą w podziale zysków z platformy.
