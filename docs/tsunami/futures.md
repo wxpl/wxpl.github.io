@@ -19,7 +19,7 @@ Aby cena kontraktu future była zbliżona do ceny indeksu, stosuje się płatno�
 >
 > **Mechanizm finansowania**
 > 
-> Co godzinę traderzy z otwartymi długimi lub krótkimi pozycjami wypłacają sobie nawzajem płatność finansującą, w zależności od warunków rynkowych. Jeśli cena kontraktu jest wyższa od ceny spot, inwestorzy z długimi pozycjami płacą inwestorom z krótkimi. Jeśli cena kontraktu jest niższa od ceny spot, shorty będą płacić longom. W ten sposób inwestorzy są zachęcani do zajmowania niepopularnej strony rynku.
+> *Co godzinę traderzy z otwartymi długimi lub krótkimi pozycjami wypłacają sobie nawzajem płatność finansującą, w zależności od warunków rynkowych. Jeśli cena kontraktu jest wyższa od ceny spot, inwestorzy z długimi pozycjami płacą inwestorom z krótkimi. Jeśli cena kontraktu jest niższa od ceny spot, shorty będą płacić longom. W ten sposób inwestorzy są zachęcani do zajmowania niepopularnej strony rynku.*
 
 ## Wirtualny AMM (vAMM)
 
@@ -104,3 +104,30 @@ Kwota płatności finansującej jest obliczana według wzoru:
 ![Tsunami Funding Payment](/images/tsunami-funding-payment.png)
 
 Z reguły - im większa różnica między ceną mark a ceną indeksu, tym więcej funduszy zapłacisz otwierając pozycję dywergencyjną, a tym więcej zarobisz otwierając pozycję konwergencyjną.
+
+## Likwidacja
+
+Kontrakty terminowe są instrumentem lewarowanym, co zwiększa zarówno potencjalne zyski, jak i straty. Dzięki vAMM możesz praktycznie pożyczyć dodatkowe środki, aby zwiększyć wielkość pozycji. Handel z wykorzystaniem dźwigni finansowej jest wysoce ryzykownym działaniem, z możliwością likwidacji.
+
+Na przykład, jeżeli otworzysz pozycję lewarowaną x3 z 200 USDN, pozycja początkowa jest warta 600 USDN, a 400 z nich jest pożyczone. Zabezpieczenie w wysokości 200 USDN zostanie w pełni wykorzystane, jeżeli całkowita wartość pozycji spadnie o około 30%.
+
+Likwidacja to mechanizm, służący do zamykania pozycji, które są *"pod wodą" (nie są w stanie utrzymać minimalnego wymaganego depozytu zabezpieczającego)*. Gwałtowny ruch ceny może narazić giełdę na ryzyko, ponieważ straty mogą przekroczyć depozyt zabezpieczający. Dlatego giełda nakłada wymóg minimalnego wskaźnika depozytu zabezpieczającego, aby pomóc w likwidacji podczas niekorzystnych warunków rynkowych.
+
+![Liquidation](/images/tsunami-liquidation.png)
+
+Tsunami używa wskaźnika depozytu zabezpieczającego 8,5% do uruchomienia likwidacji. Jeśli wskaźnik depozytu zabezpieczającego spadnie poniżej 8,5%, wielkość pozycji zostanie zlikwidowana, pozostawiając zabezpieczenie w vAMM jako zysk dla traderów strony przeciwnej.
+
+Likwidacje są przeprowadzane przez boty likwidatorów. Początkowo zespół Tsunami będzie prowadził boty likwidacyjne, później zostaną one otwarte i udostępnione społeczności do prowadzenia botów.
+
+## Fundusz ubezpieczeniowy
+
+Handel z wykorzystaniem dźwigni nieodłącznie wiąże się z pewnym ryzykiem zarówno dla inwestora, jak i dla protokołu. Podczas bardzo zmiennych warunków rynkowych, poślizgi i opóźnienia w realizacji zleceń mogą spowodować, że na niektórych rachunkach po rozliczeniu pojawi się saldo ujemne.
+
+> **INFO**
+> 
+> *Fundusz ubezpieczeniowy to siatka bezpieczeństwa, która utrzymuje wypłacalność protokołu, gdy rachunek ma ujemny wskaźnik marży. Straty z likwidacji takich rachunków są kompensowane przez fundusz ubezpieczeniowy.*
+
+1. Fundusz ubezpieczeniowy jest początkowo zasilany przez zespół
+2. Początkowa wielkość funduszu ubezpieczeniowego wynosi 10 000 USD.
+3. Tsunami nakłada 1% opłaty od każdej transakcji. Połowa tej opłaty trafia do funduszu ubezpieczeniowego.
+4. Dodatkowo, podczas likwidacji część kary likwidacyjnej trafia do funduszu ubezpieczeniowego.

@@ -8,6 +8,8 @@ permalink: /tsunami
 
 ---
 
+![tsunami](http://docs.tsunami.exchange/img/logo_light.png)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IgKh0g9etuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Wprowadzenie
