@@ -4,6 +4,7 @@ layout: default
 title: Tsunami
 nav_order: 60
 has_children: true
+permalink: /tsunami
 
 ---
 
@@ -19,7 +20,7 @@ Kontrakty futures są instrumentami pochodnymi, co oznacza, że nie są one rzec
 
 Wieczyste kontrakty terminowe nie mają daty wygaśnięcia, co czyni je bardzo wygodnymi, jeśli chcemy utrzymać aktywa bez konieczności myślenia o ich wygaśnięciu.
 
-Kontrakty terminowe pozwalają inwestorom spekulować na ruchach cenowych składnika aktywów bazowych bez posiadania go na własność, poprzez zakup (długi) lub sprzedaż (krótki) kontraktu.
+Kontrakty terminowe pozwalają inwestorom spekulować na ruchach cenowych składnika aktywów bazowych bez posiadania go na własność, poprzez zakup (long) lub sprzedaż (short) kontraktu.
 
 *INFO
 Ten dokument jest w trakcie opracowywania. Zespół stara się na bieżąco aktualizować zawarte tu informacje, uwzględniając najnowsze osiągnięcia. Ze względu na iteracyjny charakter naszego procesu rozwoju, niektóre implementacje mogą różnić się od tego, co jest wymienione w tym dokumencie. Jeśli zauważyłeś taki problem, zgłoś go na naszej grupie Telegram.*
