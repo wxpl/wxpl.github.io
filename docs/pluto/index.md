@@ -155,6 +155,6 @@ Opierając się na modelu wdrażającym systematyczny wzrost Ceny Wsparcia, PLUT
 \
 \
 \
----
+
 
 Żródło: [Pluto Paper](https://mirror.xyz/0x409981e2C0370AA0790CCd4AC90F1143D2a01886/WU_eUFiXRHTFa-dCxsDeRNjFJLbF-awO47bjVUY7VTo)
