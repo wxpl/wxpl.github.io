@@ -1,10 +1,10 @@
 ---
 layout: default
-title: subtitle
+title: Subtitle
 nav_order: 1
 parent: Pluto
 permalink: /pluto/subtitle
 
 ---
 
-subtitle
+2022-07-13 - writing - translating 
