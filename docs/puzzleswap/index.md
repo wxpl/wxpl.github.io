@@ -20,4 +20,4 @@ Mimo że Puzzle Swap rozpoczął działalność jako narzędzie dla użytkownik�
 \
 \
 \
-Materiał opracowany przez: [QQryq](https://twitter.com/q_qryq) na podstawie [dokumentacji PuzzleSwap](https://medium.com/@puzzleswap)
+Materiał opracowany przez [QQryq](https://twitter.com/q_qryq), na podstawie [dokumentacji PuzzleSwap](https://medium.com/@puzzleswap)

@@ -7,7 +7,9 @@ permalink: /heraclitus
 
 ---
 
-![](/images/cover-final.jpg)
+![image](/images/heraclitus-block.png)
+\
+\
 
 # Przedstawiamy The Heraclitus Project
 
@@ -91,6 +93,8 @@ Poniższa tabela przedstawia proces generowania nowych derywatów sNSBT_TCI prze
 2. Na podstawie tego depozytu, smart kontrakt wydał Dawidowi 15,3757 sNSBT_TCI, którego wartość odpowiada udziałowi 16 sNSBT w skarbcu sNSBT_TCI.
 3. 24h po zastakowaniu sNSBT w puli, nastąpiła dystrybucja nagród z sNSBT (gNSBT). Smart kontrakt automatycznie zamienił USDN z dystrybucji na sNSBT po rynkowym kursie.
 4. Wartość 15,3757 sNSBT_TCI, które posiada Dawid są teraz warte 16,16 sNSBT. Tokeny, które posiada Dawid zwiększyły swoją wartość zgodnie ze wzorem określającym cenę BA_TCI.
+
+![](/images/cover-final.jpg)
 
 ## Pierwsze publikacje
 

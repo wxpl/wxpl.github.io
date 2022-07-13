@@ -27,4 +27,4 @@ Agregator Puzzle to narzędzie, dzięki któremu możesz handlować dowolnymi ak
 \
 \
 \
-Materiał opracowany przez: [QQryq](https://twitter.com/q_qryq) na podstawie [dokumentacji PuzzleSwap](https://medium.com/@puzzleswap)
+Materiał opracowany przez [QQryq](https://twitter.com/q_qryq), na podstawie [dokumentacji PuzzleSwap](https://medium.com/@puzzleswap)
