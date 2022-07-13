@@ -3,6 +3,8 @@ layout: default
 title: Mega Pools
 nav_order: 1
 parent: PuzzleSwap
+permalink: /puzzleswap/megapools
+
 ---
 
 ![](/images/03-puzzle.png)
