@@ -52,15 +52,16 @@ Formuła, na której opierają się mega pule, została zaproponowana przez  Bal
 > `t` to zakres tokenów w puli \
 > `Bt` to saldo tokena w puli \
 > `Wt` to znormalizowana waga tokena \
-> `V` jest stałą w przypadku zamiany \
+> `V` jest stałą w przypadku zamiany
 
-**Przykład:** Pula EGG zawiera 80% EGG i 20% USDN. Gdy aktualne salda są takie, jak na poniższym rysunku, wartość `V` oblicza się następująco:
+**Przykład** \
+Pula EGG zawiera 80% EGG i 20% USDN. Gdy aktualne salda są takie, jak na poniższym rysunku, wartość `V` oblicza się następująco:
 
 ![](/images/06-puzzle.png)
 
 ![](/images/07-puzzle.png)
 
-Jak udowodnił Balancer w swoim Whitepaper, w momencie gdy użytkownik wydaje token `i`, aby otrzymać token `o`, kwota wyjściowa jest obliczana w następujący sposób:
+W momencie gdy użytkownik wydaje token `i`, aby otrzymać token `o`, kwota wyjściowa jest obliczana w następujący sposób:
 
 ![](/images/08-puzzle.png)
 
@@ -70,9 +71,9 @@ Jak udowodnił Balancer w swoim Whitepaper, w momencie gdy użytkownik wydaje to
 > `Wo` - znormalizowana waga tokena wyjściowego \
 > `Ai` - ilość tokenów wejściowych \
 > `Bi` - początkowe saldo tokenów wejściowych \
-> `Wi` - znormalizowana waga tokena wejściowego \
-> 
-> Kwota, którą użytkownik faktycznie otrzymuje, nie wynosi `Ao`, lecz `Ao` jest pomniejszona o opłatę (fee).
+> `Wi` - znormalizowana waga tokena wejściowego
+
+Kwota, którą użytkownik faktycznie otrzymuje, nie wynosi `Ao`, lecz `Ao` jest pomniejszona o opłatę (fee).
 
 ## Opłaty
 
