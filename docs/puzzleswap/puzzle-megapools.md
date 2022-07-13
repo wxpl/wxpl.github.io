@@ -64,7 +64,7 @@ Jak udowodnił Balancer w swoim Whitepaper, w momencie gdy użytkownik wydaje to
 
 ![](/images/08-puzzle.png)
 
-> Gdzie:
+> Gdzie: \
 > `Ao` - ilość tokenów wyjściowych;
 > `Bo` - początkowe saldo tokenów wyjściowych w puli;
 > `Wo` - znormalizowana waga tokena wyjściowego;
