@@ -2,8 +2,8 @@
 
 layout: default
 title: Roadmap
-nav_order: 6
-parent: Project Heraclitus
+nav_order: 1
+parent: The Heraclitus Project
 permalink: /tci-roadmap
 
 ---

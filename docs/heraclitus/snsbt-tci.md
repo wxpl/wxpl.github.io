@@ -1,8 +1,8 @@
 ---
 layout: default
 title: sNSBT_TCI
-nav_order: 7
-parent: Project Heraclitus
+nav_order: 2
+parent: The Heraclitus Project
 permalink: /snsbt_tci
 
 ---

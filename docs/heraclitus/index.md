@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Heraclitus
+title: The Heraclitus Project
 nav_order: 3
 has_children: true
 permalink: /heraclitus
