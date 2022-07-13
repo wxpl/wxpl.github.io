@@ -7,7 +7,7 @@ permalink: /puzzleswap
 
 ---
 
-[image](/images/01-puzzle.png)
+![image](/images/01-puzzle.png)
 
 [PuzzleSwap](https://puzzleswap.org/) to giełda Automated Market Maker  umożliwiająca tworzenie mega puli. AMM to giełda, która umożliwia natychmiastowe zawieranie transakcji za pomocą formuły matematycznej, która oblicza cenę wymiany. W przeciwieństwie do giełd typu orderbook, tego typu narzędzie umożliwia natychmiastową wymianę dowolnej ilości tokenów. 
 
@@ -16,4 +16,7 @@ Dlaczego Puzzle Swap jest inny? W klasycznym modelu AMM (zwanym CPMM) dozwolony 
 **Czego można się spodziewać po Puzzle Swap**
 Mimo że Puzzle Swap rozpoczął działalność jako narzędzie dla użytkowników Waves Ducks, ma on stać się w pełni funkcjonalnym produktem DeFi, zwiększającym solidność całego ekosystemu.
 
-Materiał opracowany przez: [QQryq](https://twitter.com/q_qryq)
+\
+\
+\
+Materiał opracowany przez: [QQryq](https://twitter.com/q_qryq) na podstawie [dokumentacji PuzzleSwap](https://medium.com/@puzzleswap)
