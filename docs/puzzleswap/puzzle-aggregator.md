@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DEX Aggregator
-nav_order: 520
+nav_order: 2
 parent: PuzzleSwap
 permalink: /puzzleswap/aggregate
 
