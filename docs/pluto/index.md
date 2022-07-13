@@ -129,7 +129,7 @@ Istnieje również emisja motywacyjna. Załóżmy, że w wyniku głosowania usta
 
 W takim scenariuszu całkowity zysk ze stakingu PLUTO wyniesie 40 + 120 = 160% rocznie bez lock-up'u. Zysk ten jest mierzony w PLUTO niezależnie od wzrostu Ceny Wsparcia, tzn. zakłada się, że rzeczywisty wzrost kapitału w ciągu roku jest wyższy niż APY.
 
-## Dlaczego Pluton jest zrównoważony
+## Dlaczego Pluto jest zrównoważony
 
 Kluczowym celem protokołu jest zwiększenie wartości zabezpieczenia każdego PLUTO (tj. Backed Price), co pobudza wzrost Ceny Maksymalnej i równowagę Ceny Rynkowej.
 
@@ -155,7 +155,6 @@ Opierając się na modelu wdrażającym systematyczny wzrost Ceny Wsparcia, PLUT
 \
 \
 \
-
 ---
 
 Żródło: [Pluto Paper](https://mirror.xyz/0x409981e2C0370AA0790CCd4AC90F1143D2a01886/WU_eUFiXRHTFa-dCxsDeRNjFJLbF-awO47bjVUY7VTo)
