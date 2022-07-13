@@ -78,7 +78,7 @@ Bonus Onboardingowy ma imponującą wielkość. Użytkownik otrzymuje tokeny PLU
 
 Okres blokady i wielkość APY zależą od współczynnika wzrostu w momencie uwolnienia:
 
-![image](/image/02-pluto.png)
+![image](/images/02-pluto.png)
 
 Określone APY nalicza się od liczby PLUTO, które użytkownik wystawił, podczas dni blokady. Po zakończeniu okresu blokady, PLUTO są automatycznie konwertowane na regularne stakingi i nadal przynoszą stabilne odsetki.
 
