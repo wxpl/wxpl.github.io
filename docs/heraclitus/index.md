@@ -8,12 +8,9 @@ permalink: /heraclitus
 ---
 
 ![image](/images/heraclitus-block.png)
+
 \
 \
-
-# Przedstawiamy The Heraclitus Project
-
-{: .no_toc }
 
 [![Twitter](/images/twitter.svg)](https://twitter.com/heraclitus_tci){:target="_blank"}  [![Telegram](/images/telegram.svg)](https://t.me/heraclitus_project){:target="_blank"}  [![Medium](/images/medium.svg)](https://medium.com/@heraclitus_project){:target="_blank"} 
 
@@ -23,7 +20,7 @@ TCI daje inwestorom możliwość konsolidowania nagród z tokenów takich jak sN
 
 Dzięki takiemu rozwiązaniu inwestor otrzymuje zbywalny token, który w swojej wartości uwzględnia odsetki złożone z regularnej dystrybucji nagród łącznie z wartością bazowego aktywa (BA). Dodatkowo, regularne auto-buy tworzy presję zakupową dla danego aktywa bazowego, zwiększając również w ten sposób wolumen transakcji.
 
-<details closed markdown="block">
+<details open markdown="block">
   <summary>
     Spis Treści
   </summary>
