@@ -28,7 +28,7 @@ Zabezpieczenie jest realizowane przez Skarbiec (Treasury), gdzie parametry są k
 
 Wzrost Skarbu napędzany jest przez środki użytkowników PLUTO. Użytkownicy mogą zdefiniować ten wzrost za pomocą mechanizmu uwalniania PLUTO. Mechanizm ten zakłada, że Skarb Państwa jest wydawany tylko w przypadku, gdy cena tokena PLUTO spadnie poniżej ceny oparcia. Takie podejście gwarantuje, że cena rynkowa nigdy nie osiąga poziomu poniżej ceny zabezpieczonej.
 
-Co najmniej 80% Skarbu Państwa stanowią stablecoiny. stablecoiny są wykorzystywane do wydobywania płynności na rynkach pieniężnych, takich jak [https://vires.finance](ViresFinance). Treasury obejmuje również tokeny dostawców płynności w puli macierzystej PLUTO, megapulę uruchomioną w serwisie Puzzle Swap.
+Co najmniej 80% Skarbu Państwa stanowią stablecoiny. stablecoiny są wykorzystywane do wydobywania płynności na rynkach pieniężnych, takich jak [ViresFinance](https://vires.finance). Treasury obejmuje również tokeny dostawców płynności w puli macierzystej PLUTO, megapulę uruchomioną w serwisie Puzzle Swap.
 
 Lista wspieranych aktywów może zostać rozszerzona w drodze głosowania przeprowadzonego przez stakerów. Mimo to ich udział w Skarbie nigdy nie może przekroczyć 20%, aby zapewnić stabilność dostarczania płynności.
 
