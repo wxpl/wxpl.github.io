@@ -3,7 +3,7 @@ layout: default
 title: Pluto
 nav_order: 8
 has_children: true
-permalink: /pluto/subtitle
+permalink: /pluto
 
 ---
 
