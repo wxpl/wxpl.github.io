@@ -116,7 +116,7 @@ Na przykład, w puli Farms 2 znajduje się 9 różnych typów tokenów o łączn
 
 Obecnie wszystkie tokeny indeksowe są automatycznie stakowane, aby zarobić APY w puli. Wyobraź sobie jednak, że tokenami indeksowymi można by handlować lub po prostu przechowywać je w swoim portfelu - tu dopiero zaczyna się cała zabawa!
 
-## Niestandardowe mega poole
+## Niestandardowe mega pule
 
 Puzzle swap oferuje tworzenie własnych niestandardowych mega puli. Pule niestandardowe powinny być szczególnie atrakcyjne dla dużych inwestorów, którzy tworzą pulę w celu maksymalizacji korzyści ze swojego portfela. Mianowicie, dostosowują skład puli i uzyskują najwyższą możliwą APY dzięki wykorzystaniu swojej płynności.
 
