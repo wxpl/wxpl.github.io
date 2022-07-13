@@ -2,7 +2,7 @@
 
 layout: default
 title: Tsunami
-nav_order: 60
+nav_order: 10
 has_children: true
 permalink: /tsunami
 

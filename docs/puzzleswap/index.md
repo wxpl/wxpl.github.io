@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PuzzleSwap
-nav_order: 50
+nav_order: 9
 has_children: true
 ---
 

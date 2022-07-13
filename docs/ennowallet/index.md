@@ -1,7 +1,7 @@
 ---
 layout: default
 title: EnnoWallet
-nav_order: 90
+nav_order: 14
 permalink: /ennowallet
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SwopFi
-nav_order: 30
+nav_order: 6
 has_children: true
 permalink: /swopfi
 
