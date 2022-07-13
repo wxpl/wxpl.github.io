@@ -48,11 +48,11 @@ Formuła, na której opierają się mega pule, została zaproponowana przez  Bal
 
 ![](/images/05-puzzle.png)
 
-> Gdzie:
-> `t` to zakres tokenów w puli
-> `Bt` to saldo tokena w puli
-> `Wt` to znormalizowana waga tokena
-> `V` jest stałą w przypadku zamiany
+> Gdzie: \
+> `t` to zakres tokenów w puli \
+> `Bt` to saldo tokena w puli \
+> `Wt` to znormalizowana waga tokena \
+> `V` jest stałą w przypadku zamiany \
 
 **Przykład:** Pula EGG zawiera 80% EGG i 20% USDN. Gdy aktualne salda są takie, jak na poniższym rysunku, wartość `V` oblicza się następująco:
 
@@ -65,12 +65,12 @@ Jak udowodnił Balancer w swoim Whitepaper, w momencie gdy użytkownik wydaje to
 ![](/images/08-puzzle.png)
 
 > Gdzie: \
-> `Ao` - ilość tokenów wyjściowych;
-> `Bo` - początkowe saldo tokenów wyjściowych w puli;
-> `Wo` - znormalizowana waga tokena wyjściowego;
-> `Ai` - ilość tokenów wejściowych;
-> `Bi` - początkowe saldo tokenów wejściowych;
-> `Wi` - znormalizowana waga tokena wejściowego
+> `Ao` - ilość tokenów wyjściowych \
+> `Bo` - początkowe saldo tokenów wyjściowych w puli \
+> `Wo` - znormalizowana waga tokena wyjściowego \
+> `Ai` - ilość tokenów wejściowych \
+> `Bi` - początkowe saldo tokenów wejściowych \
+> `Wi` - znormalizowana waga tokena wejściowego \
 > 
 > Kwota, którą użytkownik faktycznie otrzymuje, nie wynosi `Ao`, lecz `Ao` jest pomniejszona o opłatę (fee).
 
@@ -118,7 +118,7 @@ Obecnie wszystkie tokeny indeksowe są automatycznie stakowane, aby zarobić APY
 
 ## Niestandardowe mega pule
 
-Puzzle swap oferuje tworzenie własnych niestandardowych mega puli. Pule niestandardowe powinny być szczególnie atrakcyjne dla dużych inwestorów, którzy tworzą pulę w celu maksymalizacji korzyści ze swojego portfela. Mianowicie, dostosowują skład puli i uzyskują najwyższą możliwą APY dzięki wykorzystaniu swojej płynności.
+PuzzleSwap oferuje tworzenie własnych niestandardowych mega puli. Pule niestandardowe powinny być szczególnie atrakcyjne dla dużych inwestorów, którzy tworzą pulę w celu maksymalizacji korzyści ze swojego portfela. Mianowicie, dostosowują skład puli i uzyskują najwyższą możliwą APY dzięki wykorzystaniu swojej płynności.
 
 Jednak celem zespołu Puzzle jest nie tylko stworzenie wygodnego narzędzia finansowego dla wielorybów, ale także zapewnienie możliwości zarabiania mniejszym inwestorom i nowym graczom. Jeśli jesteś dobrze zorientowany w świecie DeFi, to stworzenie własnej mega puli jest szansą na zbudowanie ciekawej kombinacji tokenów i przyciągnięcie dużych inwestorów, dzięki czemu możesz zarabiać na prowizji dla właściciela puli.
 
