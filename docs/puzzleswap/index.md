@@ -15,7 +15,7 @@ Dlaczego Puzzle Swap jest inny? W klasycznym modelu AMM (zwanym CPMM) dozwolony 
 
 **Czego można się spodziewać po Puzzle Swap**
 
-Mimo że Puzzle Swap rozpoczął działalność jako narzędzie dla użytkowników Waves Ducks, ma on stać się w pełni funkcjonalnym produktem DeFi, zwiększającym solidność całego ekosystemu.
+Mimo że PuzzleSwap rozpoczął działalność jako narzędzie dla użytkowników Waves Ducks, ma on stać się w pełni funkcjonalnym produktem DeFi, zwiększającym solidność całego ekosystemu.
 
 \
 \

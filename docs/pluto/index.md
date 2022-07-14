@@ -24,7 +24,7 @@ Pluto to innowacyjny projekt waluty rezerwowej. Jest to instrument finansowy odp
 
 Główną metryką protokołu jest wzrost wartości zabezpieczenia każdego tokena PLUTO.
 
-Zabezpieczenie jest realizowane przez Skarbiec (Treasury), gdzie parametry są kontrolowane przez głosowanie, a także mogą zmieniać się automatycznie w zależności od danych rynkowych. Model matematyczny Plutona skupia się głównie na wzroście Treasury. Jest on zbudowany z myślą o tym celu.
+Zabezpieczenie jest realizowane przez Skarbiec (Treasury), gdzie parametry są kontrolowane przez głosowanie, a także mogą zmieniać się automatycznie w zależności od danych rynkowych. Model matematyczny Pluto skupia się głównie na wzroście Treasury. Jest on zbudowany z myślą o tym celu.
 
 Wzrost Skarbu napędzany jest przez środki użytkowników PLUTO. Użytkownicy mogą zdefiniować ten wzrost za pomocą mechanizmu uwalniania PLUTO. Mechanizm ten zakłada, że Skarb Państwa jest wydawany tylko w przypadku, gdy cena tokena PLUTO spadnie poniżej ceny oparcia. Takie podejście gwarantuje, że cena rynkowa nigdy nie osiąga poziomu poniżej ceny zabezpieczonej.
 
@@ -72,7 +72,7 @@ Kupując PLUTO, użytkownik może liczyć na to, że jego cena rynkowa nie spadn
 
 ## PLUTO Minting
 
-Podstawowym mechanizmem emisji tokenów PLUTO jest onboarding. Użytkownik może wymienić jeden z obsługiwanych tokenów LP na Plutona po cenie rynkowej i otrzymać Bonus Onboardingowy.
+Podstawowym mechanizmem emisji tokenów PLUTO jest onboarding. Użytkownik może wymienić jeden z obsługiwanych tokenów LP na Pluto po cenie rynkowej i otrzymać Bonus Onboardingowy.
 
 Bonus Onboardingowy ma imponującą wielkość. Użytkownik otrzymuje tokeny PLUTO natychmiast po cenie rynkowej. Te tokeny mogą być odblokowane po okresie lock-up z bonusami onboarding APY zapisanymi w PLUTO.
 

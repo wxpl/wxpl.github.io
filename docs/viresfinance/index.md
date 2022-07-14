@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ViresFinance
-nav_order: 40
+nav_order: 7
 has_children: true
 permalink: /viresfinance
 
