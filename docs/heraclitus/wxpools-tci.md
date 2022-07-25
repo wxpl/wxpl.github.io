@@ -1,69 +1,26 @@
 ---
 layout: default
-title: Collective Boosting
-nav_order: 3
+title: wxPools_TCI
+nav_order: 2
 parent: The Heraclitus Project
-permalink: /collective-boosting
+permalink: /wxpools-tci
 
 ---
-## wxPools_TCI i Collective Boosting
+## WX Pools - TCI już jest! Zbiorowy Boosting aktywowany 🚀
 
-![](/images/cboosting-01.png)
+![](/images/wxpools-tci-01.png)
 
-wxPools_TCI to nazwa, którą nadaliśmy smart kontraktowi, w którym możesz mintować instrumenty pochodne ze swoich tokeny WXLP. Nasz dapp oferuje automatyczny procent składany z WX Pools tAPY i zapewnia początkowy boosting z prawie 1000 WX. Jako dowód Twojego depozytu, emitowane są tokeny TCI przynoszące dochód. Te instrumenty pochodne zawierają wartość tokenów LP oraz automatyczną kompilację boostowanych tAPY. Można nimi swobodnie handlować bez konieczności stosowania jakichkolwiek blokad terminowych.
+Po pierwszym głosowaniu DAO dystrybucji emisji WX, mamy przyjemność przedstawić pierwsze TCI z TOP5 puli WX (wagowo):
+
+1. wxWXUSDN_TCI \token ID: FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh \Base Asset: WXUSDNWXLP
+2. wxUSDTUSDN_TCI \token ID: 2CD44HANZzsdU7yqRsmz7L9eA2Foh4YYMC4azMbaZEj6 \Base Asset: USDTUSDNWXLP
+3. wxUSDCUSDN_TCI \token ID: HZKFpNfyPG5gt4D6Nfy1zQSg2Ptmqv932GjNTCyBEeKP \Base Asset: USDCUSDNLP
+4. wxUSDCUSDT_TCI \token ID: BqPYkaiz7Le6fFu1rjZ54anrpT57EpvyugZCUqrsjXj \Base Asset: USDCUSDTLP
+5. wxPUZZLEUSDN_TCI \token ID: Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A \Base Asset: PUZZLEUSDNLP
+
+Główna zasada działania Tokenized Compound Interest pozostaje tak, jak została opisana w pierwszych publikacjach. Jednak w przypadku WX Pools TCI zdecydowaliśmy się utrzymać wszystkie pochodne w jednym Skarbcu i zasponsorować początkowy Boosting dla pierwszych użytkowników!
+
+![](/images/wxpools-tci-02.png)
 
 
-### Jak to działa?
-
-![](/images/cboosting-02.png)
-
-1. Wpłać swoje tokeny WX LP za pomocą interfejsu Waves dapp UI
-2. Instrument pochodny TCI jest emitowany do Twojego portfela
-3. Podczas kompilacji, 4/5 z tAPY jest zamieniane z powrotem na tokeny LP i umieszczane w dapp podnosząc cenę tokenów TCI.
-4. 1/5 z tAPY jest składana w Boosting podnosząc tAPY.
-5. Nagrody z Boosting APY są składane z powrotem do Boosting'u.
-
-##Jak mintować TCI i skorzystać z Collective Boosting:\
-*(przewodnik krok po kroku)*
-
-- Zaloguj się na swoje konto WavesExchange.
-- W górnym pasku menu wybierz **Pools**.
-- Kliknij przycisk **Deposit** obok interesującej Cię puli.
-
-![](images/cboosting-03.png)
-
-- Dodaj kwotę tokenów pod LP, odznacz opcję *“Stake straight after the Deposit”* i kliknij przycisk **Deposit**
-
-![](/images/cboosting-04.png)
-
-- Następnie, w sekcji **Wallet**, zobaczysz ilość swoich tokenów WX Pools LP. Kliknij na nią. Zobaczysz szczegóły dotyczące wybranego tokenu. Pozostaw tę zakładkę otwartą w przeglądarce.
-
-![](/images/cboosting-05.png)
-
-- Jesteś teraz gotowy, aby przejść do **Waves Dapp UI**, gdzie wymintujesz tokeny TCI.
-- W nowej karcie w przeglądarce otwórz stronę [Waves Dapp UI](https://waves-dapp.com/3PQV9AUMU36fdDYMmMZw6urSYG3BuMahQuk).
-- Upewnij się, że adres dapp jest poprawny 3PQV9AUMU36fdDYMmMZw6urSYG3BuMahQuk i zaloguj się do swojego portfela.
-- Kliknij na znak plusa obok **Attach payment**
-
-![](/images/cboosting-06.png)
-
-- Wklej ID tokena LP lub wybierz go z listy rozwijanej.
-- Kopiuj - wklej saldo tokena LP i kliknij **Invoke**.
-
-![](/images/cboosting-07.png)
-
-- Pojawi się ekran potwierdzenia transakcji. Zweryfikuj szczegóły transakcji i kliknij przycisk **Confirm**.
-
-![](/images/cboosting-08.png)
-
-- Gratulacje! Z powodzeniem zdeponowałeś swoje tokeny LP w smart kontrakcie **wxPools_TCI**. Korzystasz teraz ze skumulowanych tAPY i Collective Boosting. Instrument pochodny TCI został wydany do Twojego portfela. Sprawdź swoją transakcję w eksploratorze.
-
-![](/images/cboosting-09.png)
-
-- Po zalogowaniu na konto **WavesExchange**, w zakładce **Wallet** możesz zobaczyć swoje tokeny TCI, po wybraniu opcji **Unverified**. Mamy nadzieję, że w najbliższym czasie weźmiesz udział w głosowaniu nad weryfikacją pochodnych TCI.
-
-![](/images/cboosting-10.png)
-
-- To wszystko. Pamiętaj, że tokeny wxPools_TCI są dochodowe. Oznacza to, że w swojej cenie zawierają skumulowaną wartość z APY i Boostingu.
-
-Bądźcie na bieżąco z bardziej ekscytującymi wiadomościami, które pojawią się w najbliższych dniach!
+writing.. 
