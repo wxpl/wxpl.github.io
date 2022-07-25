@@ -8,13 +8,13 @@ permalink: /collective-boosting
 
 ---
 
-## wxPools_TCI i Collective Boosting
+# wxPools_TCI i Collective Boosting
 
 ![](/images/cboosting-01.png)
 
 wxPools_TCI to nazwa, którą nadaliśmy smart kontraktowi, w którym możesz mintować instrumenty pochodne ze swoich tokeny WXLP. Nasz dapp oferuje automatyczny procent składany z WX Pools tAPY i zapewnia początkowy boosting z prawie 1000 WX. Jako dowód Twojego depozytu, emitowane są tokeny TCI przynoszące dochód. Te instrumenty pochodne zawierają wartość tokenów LP oraz automatyczną kompilację boostowanych tAPY. Można nimi swobodnie handlować bez konieczności stosowania jakichkolwiek blokad terminowych.
 
-### Jak to działa?
+## Jak to działa?
 
 ![](/images/cboosting-02.png)
 
@@ -24,7 +24,7 @@ wxPools_TCI to nazwa, którą nadaliśmy smart kontraktowi, w którym możesz mi
 4. 1/5 z tAPY jest składana w Boosting podnosząc tAPY.
 5. Nagrody z Boosting APY są składane z powrotem do Boosting'u.
 
-##Jak mintować TCI i skorzystać z Collective Boosting:\
+## Jak mintować TCI i skorzystać z Collective Boosting:\
 *(przewodnik krok po kroku)*
 
 - Zaloguj się na swoje konto WavesExchange.
@@ -67,4 +67,4 @@ wxPools_TCI to nazwa, którą nadaliśmy smart kontraktowi, w którym możesz mi
 
 - To wszystko. Pamiętaj, że tokeny wxPools_TCI są dochodowe. Oznacza to, że w swojej cenie zawierają skumulowaną wartość z APY i Boostingu.
 
-Bądźcie na bieżąco z bardziej ekscytującymi wiadomościami, które pojawią się w najbliższych dniach!
+**Bądźcie na bieżąco z bardziej ekscytującymi wiadomościami, które pojawią się w najbliższych dniach!**
