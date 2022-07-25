@@ -13,23 +13,23 @@ permalink: /wxpools-tci
 Po pierwszym głosowaniu DAO dystrybucji emisji WX, mamy przyjemność przedstawić pierwsze TCI z TOP5 puli WX (wagowo):
 
 ### wxWXUSDN_TCI
-Token ID: FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh \
+Token ID: [FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh](https://wscan.io/FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh) \
 Base Asset: [WXUSDNWXLP](https://wavescap.com/asset/WXUSDNWXLP)
 
 ### wxUSDTUSDN_TCI
-Token ID: 2CD44HANZzsdU7yqRsmz7L9eA2Foh4YYMC4azMbaZEj6 \
+Token ID: [2CD44HANZzsdU7yqRsmz7L9eA2Foh4YYMC4azMbaZEj6](https://wscan.io/2CD44HANZzsdU7yqRsmz7L9eA2Foh4YYMC4azMbaZEj6) \
 Base Asset: [USDTUSDNWXLP](https://wavescap.com/asset/USDTUSDNWXLP)
 
 ### wxUSDCUSDN_TCI
-Token ID: HZKFpNfyPG5gt4D6Nfy1zQSg2Ptmqv932GjNTCyBEeKP \
+Token ID: [HZKFpNfyPG5gt4D6Nfy1zQSg2Ptmqv932GjNTCyBEeKP](https://wscan.io/HZKFpNfyPG5gt4D6Nfy1zQSg2Ptmqv932GjNTCyBEeKP) \
 Base Asset: [USDCUSDNLP](https://wscan.io/EK6N7S38xbtBT3SxAqoGdDLCiX6rojX6G169CnSyuE5)
 
 ### wxUSDCUSDT_TCI
-Token ID: BqPYkaiz7Le6fFu1rjZ54anrpT57EpvyugZCUqrsjXj \
+Token ID: [BqPYkaiz7Le6fFu1rjZ54anrpT57EpvyugZCUqrsjXj](https://wscan.io/BqPYkaiz7Le6fFu1rjZ54anrpT57EpvyugZCUqrsjXj) \
 Base Asset: [USDCUSDTLP](https://wscan.io/EPhdEfmQaNcHyvDmRGhnLhgcJtKZ2a4k3ZBmKWtAEWyH)
 
 ### wxPUZZLEUSDN_TCI
-Token ID: Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A \
+Token ID: [Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A](https://wscan.io/Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A) \
 Base Asset: [PUZZLEUSDNLP](https://wscan.io/E8zHu33GfcNyGLypX77gZiUXfvuZQeaYmiEfsy7VYNwP)
 
 Główna zasada działania Tokenized Compound Interest pozostaje tak, jak została opisana w pierwszych publikacjach. Jednak w przypadku WX Pools TCI zdecydowaliśmy się utrzymać wszystkie pochodne w jednym Skarbcu i zasponsorować początkowy Boosting dla pierwszych użytkowników!
