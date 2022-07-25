@@ -29,7 +29,8 @@ Po prostu wszystkie wcześnie ymintowane TCI będą korzystać z boostingu prawi
 
 Aby utrzymać Skarbiec w dobrym stanie boostingu, proponujemy podzielić początkowe tAPY, 20% przeznaczając na boosting WX, a 80% z powrotem na LP każdego TCI. W ten sposób będziemy mogli zaoferować świetne rozwiązanie dla małych inwestorów, którzy nie są w stanie samodzielnie stworzyć wysokiego boosting'u. W tym modelu oferujemy instrumenty pochodne z wysokim oprocentowaniem bez dodatkowych wymagań ze strony inwestorów. Zakładasz TCI raz i cieszysz się automatycznym procentem składanym i wysokim APY tak długo, jak chcesz. Pamiętaj, że instrumenty pochodne TCI są swobodnie zbywalne, możesz bez problemu przenosić te tokeny między adresami bez utraty boostingu.
 
-Minting wxPools_TCIs można przeprowadzić poprzez [Waves Dapp UI](https://waves-dapp.com/3PQV9AUMU36fdDYMmMZw6urSYG3BuMahQuk). Dokładną instrukcję znajdziesz [tutaj](https://wxpl.club/collective-boosting#jak-mintowa%C4%87-tci-i-skorzysta%C4%87-z-collective-boosting).
+Minting wxPools_TCIs można przeprowadzić poprzez [Waves Dapp UI](https://waves-dapp.com/3PQV9AUMU36fdDYMmMZw6urSYG3BuMahQuk).
+Dokładną instrukcję znajdziesz [tutaj](https://wxpl.club/collective-boosting#jak-mintowa%C4%87-tci-i-skorzysta%C4%87-z-collective-boosting).
 
 ## Co dalej
 - Dodanie większej ilości TCI z niższych wag WX

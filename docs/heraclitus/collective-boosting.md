@@ -24,8 +24,8 @@ wxPools_TCI to nazwa, którą nadaliśmy smart kontraktowi, w którym możesz mi
 4. 1/5 z tAPY jest składana w Boosting podnosząc tAPY.
 5. Nagrody z Boosting APY są składane z powrotem do Boosting'u.
 
-## Jak mintować TCI i skorzystać z Collective Boosting: \
-\ *(przewodnik krok po kroku)*
+## Jak mintować TCI i skorzystać z Collective Boosting:
+*(przewodnik krok po kroku)*
 
 - Zaloguj się na swoje konto WavesExchange.
 - W górnym pasku menu wybierz **Pools**.
