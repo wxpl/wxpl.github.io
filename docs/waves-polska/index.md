@@ -42,7 +42,7 @@ Jeśli uważasz, że materiały znajdujące się na tej stronie są pomocne i wa
 
 ```wxpl.club```{: .fs-6 }
 
-*Środki z mintingu nowych bloków są obecnie dystrybuowane raz w tygodniu. Wraz ze wzrostem siły PoS zwiększymy częstotliwość dystrybucji. Pobieramy opłatę w wysokości 2% na częściowe pokrycie kosztów prowadzenia walidatora. 
+> *Środki z mintingu nowych bloków są obecnie dystrybuowane raz w tygodniu. Wraz ze wzrostem siły PoS zwiększymy częstotliwość dystrybucji. Pobieramy opłatę w wysokości 2% na częściowe pokrycie kosztów prowadzenia walidatora.*
 
 ---
 
@@ -65,7 +65,7 @@ Most of the documents are aimed at people less familiar with the cryptocurrency 
 
 If you find the material on this site helpful and valuable, please consider supporting the project by contributing to the Waves decentralized network.
 
-**Address of our Node:**.
+**Address of our Node:**
 
 ``3PHG2a8SXDe1uUtuKyieLAxhEksGkkqvrEw``{: .fs-6 }
 
@@ -73,7 +73,7 @@ If you find the material on this site helpful and valuable, please consider supp
 
 ``wxpl.club``{: .fs-6 }
 
-*The funds from minting of new blocks are currently distributed once a week. As PoS strength increases, we will increase the frequency of distribution. We charge a 2% fee to partially cover the cost of running the validator. 
+> *The funds from minting of new blocks are currently distributed once a week. As PoS strength increases, we will increase the frequency of distribution. We charge a 2% fee to partially cover the cost of running the validator.*
 
 ---
 
