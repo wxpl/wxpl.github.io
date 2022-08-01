@@ -8,10 +8,15 @@ permalink: /tci-add
 2022-08-01
 
 **--- 01 ---**
+
 Asset ID: `F2AKkA513k5yHEJkLsU6vWxCYYk811GpjLhwEv2WGwZ9`
+
 Name: `WX/USDN WX LP`
+
 Symbol:	 `WXUSDNWXLP`
+
 Decimals: `8`
+
 Start Price: `4.93`
 
 ```yaml
@@ -28,10 +33,15 @@ Start Price: `4.93`
 
 
 **--- 02 ---**
+
 Asset ID: `FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh`
+
 Name: `wxWXUSDN_TCI`
+
 Symbol:	 `WXWXUSDNTCI`
+
 Decimals: `8`
+
 Start Price: `4.93`
 
 ```yaml
@@ -47,10 +57,15 @@ Start Price: `4.93`
 [wxWXUSDN_TCI logo](https://cloud.jetdebt.xyz/s/gzjk2ar4BTXknaT/download/wxWXUSDN_TCI.svg)
 
 **--- 03 ---**
+
 Asset ID: `97zHFp1C3cB7qfvx8Xv5f2rWp9nUSG5UnAamfPcW6txf`
+
 Name: `USDT/USDN WX LP`
+
 Symbol:	 `USDTUSDNWXLP`
+
 Decimals: `8`
+
 Start Price: `2.353879`
 
 ```yaml
@@ -67,11 +82,17 @@ Start Price: `2.353879`
 
 
 **--- 04 ---**
+
 Asset ID: `2CD44HANZzsdU7yqRsmz7L9eA2Foh4YYMC4azMbaZEj6`
+
 Name: `wxUSDTUSDN_TCI`
+
 Symbol:	 `WXUSDTUSDNTCI`
+
 Decimals: `8`
+
 Start Price: `2.52719`
+
 
 ```yaml
 "assetId": "2CD44HANZzsdU7yqRsmz7L9eA2Foh4YYMC4azMbaZEj6",
@@ -87,10 +108,15 @@ Start Price: `2.52719`
 
 
 **--- 05 ---**
+
 Asset ID: `EK6N7S38xbtBT3SxAqoGdDLCiX6rojX6G169CnSyuE5`
+
 Name: `USDC/USDN WX LP`
+
 Symbol:	 `USDCUSDNLP`
+
 Decimals: `8`
+
 Start Price: `2.13616`
 
 ```yaml
@@ -107,10 +133,15 @@ Start Price: `2.13616`
 
 
 **--- 06 ---**
+
 Asset ID: `HZKFpNfyPG5gt4D6Nfy1zQSg2Ptmqv932GjNTCyBEeKP`
+
 Name: `wxUSDCUSDN_TCI`
+
 Symbol:	 `WXUSDCUSDNTCI`
+
 Decimals: `8`
+
 Start Price: `2.13616`
 
 ```yaml
@@ -127,10 +158,15 @@ Start Price: `2.13616`
 
 
 **--- 07 ---**
+
 Asset ID: `EPhdEfmQaNcHyvDmRGhnLhgcJtKZ2a4k3ZBmKWtAEWyH`
+
 Name: `USDC/USDT WX LP`
+
 Symbol:	 `USDCUSDTLP`
+
 Decimals: `8`
+
 Start Price: `2.041596`
 
 ```yaml
@@ -146,10 +182,15 @@ Start Price: `2.041596`
 [USDCUSDTLP logo](https://cloud.jetdebt.xyz/s/L6MPEzzWEXgdEAc/download/usdcusdt.svg)
 
 **--- 08 ---**
+
 Asset ID: `BqPYkaiz7Le6fFu1rjZ54anrpT57EpvyugZCUqrsjXj`
+
 Name: `wxUSDCUSDT_TCI`
+
 Symbol:	 `WXUSDCUSDTTCI`
+
 Decimals: `8`
+
 Start Price: `2.041596`
 
 ```yaml
@@ -165,10 +206,15 @@ Start Price: `2.041596`
 [wxUSDCUSDT_TCI logo](https://cloud.jetdebt.xyz/s/mJtwbeDLJ8K77bH/download/wxUSDCUSDT_TCI.svg)
 
 **--- 09 ---**
+
 Asset ID: `E8zHu33GfcNyGLypX77gZiUXfvuZQeaYmiEfsy7VYNwP`
+
 Name: `PUZZLE/USDN WX LP`
+
 Symbol:	 `PUZZLEUSDNLP`
+
 Decimals: `8`
+
 Start Price: `8.477326`
 
 ```yaml
@@ -185,10 +231,15 @@ Start Price: `8.477326`
 
 
 **--- 10 ---**
+
 Asset ID: `Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A`
+
 Name: `wxPUZZLEUSDN_TCI`
+
 Symbol:	 `WXPUZZLEUSDNTCI`
+
 Decimals: `8`
+
 Start Price: `8.477326`
 
 ```yaml
