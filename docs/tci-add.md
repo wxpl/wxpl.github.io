@@ -5,7 +5,7 @@ permalink: /tci-add
 ---
 
 
-2022-08-01
+2022-08-01 | 20:00 UTC
 
 **--- 01 ---**
 
@@ -17,14 +17,14 @@ Symbol:	 `WXUSDNWXLP`
 
 Decimals: `8`
 
-Start Price: `4.93`
+Start Price: `4.9579`
 
 ```yaml
 "assetId": "F2AKkA513k5yHEJkLsU6vWxCYYk811GpjLhwEv2WGwZ9",
     "name": "WX/USDN WX LP",
     "symbol": "WXUSDNWXLP",
     "decimals": 8,
-    "startPrice": 4.93
+    "startPrice": 4.9579
 ```
 
 [Blockchain reference](https://wscan.io/F2AKkA513k5yHEJkLsU6vWxCYYk811GpjLhwEv2WGwZ9)
@@ -42,14 +42,14 @@ Symbol:	 `WXWXUSDNTCI`
 
 Decimals: `8`
 
-Start Price: `4.93`
+Start Price: `4.9579`
 
 ```yaml
 "assetId": "FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh",
     "name": "wxWXUSDN_TCI",
     "symbol": "WXWXUSDNTCI",
     "decimals": 8,
-    "startPrice": 4.93
+    "startPrice": 4.9579
 ```
 
 [Blockchain reference](https://wscan.io/FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh)
@@ -215,14 +215,14 @@ Symbol:	 `PUZZLEUSDNLP`
 
 Decimals: `8`
 
-Start Price: `8.477326`
+Start Price: `8.494656`
 
 ```yaml
 "assetId": "E8zHu33GfcNyGLypX77gZiUXfvuZQeaYmiEfsy7VYNwP",
     "name": "PUZZLE/USDN WX LP",
     "symbol": "PUZZLEUSDNLP",
     "decimals": 8,
-    "startPrice": 8.477326
+    "startPrice": 8.494656
 ```
 
 [Blockchain reference](https://wscan.io/E8zHu33GfcNyGLypX77gZiUXfvuZQeaYmiEfsy7VYNwP)
@@ -240,14 +240,14 @@ Symbol:	 `WXPUZZLEUSDNTCI`
 
 Decimals: `8`
 
-Start Price: `8.477326`
+Start Price: `8.494656`
 
 ```yaml
 "assetId": "Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A",
     "name": "wxPUZZLEUSDN_TCI",
     "symbol": "WXPUZZLEUSDNTCI",
     "decimals": 8,
-    "startPrice": 8.477326
+    "startPrice": 8.494656
 ```
 
 [Blockchain reference](https://wscan.io/Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A)
