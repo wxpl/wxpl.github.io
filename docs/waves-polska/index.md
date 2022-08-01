@@ -15,6 +15,15 @@ permalink: /waves-polska
 > 
 > *– Konfucjusz*{: .fs-5 }
 
+<details open markdown="block">
+  <summary>
+    Spis Treści
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 ## Witamy na stronie dokumentacji **WavesPolska**
 
 Celem niniejszego zbioru informacji jest skatalogowanie i usystematyzowanie wiedzy związanej z produktami oraz usługami dostępnymi w ekosystemie **Waves**.
@@ -29,7 +38,11 @@ Jeśli uważasz, że materiały znajdujące się na tej stronie są pomocne i wa
 
 ```3PHG2a8SXDe1uUtuKyieLAxhEksGkkqvrEw```{: .fs-6 }
 
-*Środki z mintingu nowych bloków zostaną przeznaczone na rozwój i wsparcie projektu WavesPolska.*
+**Alias:**
+
+```wxpl.club```{: .fs-6 }
+
+*Środki z mintingu nowych bloków są obecnie dystrybuowane raz w tygodniu. Wraz ze wzrostem siły PoS zwiększymy częstotliwość dystrybucji. Pobieramy opłatę w wysokości 2% na częściowe pokrycie kosztów prowadzenia walidatora. 
 
 ---
 
@@ -39,6 +52,37 @@ Strona jest w całości dostępna na portalu Github, dzięki czemu możesz w ła
 Wszystkie materiały znajdujące się na tej stronie są dostępne bezpłatnie i mogą być rozpowszechniane bez ograniczeń wyłącznie do użytku niekomercyjnego.
 
 Żadna z informacji przedstawionych na naszej stronie nie powinna być traktowana jako wiążąca oferta, czy porada finansowa lecz jako zaproszenie dla osoby trzeciej do zapoznania się z systemem Waves.Exchange ©2022
+
+---
+
+## Welcome to the **WavesPolska** documentation page.
+
+The purpose of this collection of information is to catalog and systematize knowledge related to the products and services available in the **Waves** ecosystem.
+
+The site is currently in the early stages of development and will be regularly updated with new material in the coming months.
+
+Most of the documents are aimed at people less familiar with the cryptocurrency and DeFi market, there are also planned content discussing more advanced forms of savings and documents related to technical issues about the technology itself.
+
+If you find the material on this site helpful and valuable, please consider supporting the project by contributing to the Waves decentralized network.
+
+**Address of our Node:**.
+
+``3PHG2a8SXDe1uUtuKyieLAxhEksGkkqvrEw``{: .fs-6 }
+
+**Alias:**
+
+``wxpl.club``{: .fs-6 }
+
+*The funds from minting of new blocks are currently distributed once a week. As PoS strength increases, we will increase the frequency of distribution. We charge a 2% fee to partially cover the cost of running the validator. 
+
+---
+
+**We are counting on support from the community. All kinds of suggestions and help are welcome.
+The site is entirely available on Github, so you can easily contribute to the project: [WavesPolska Public Repositories](https://github.com/wxpl/wxpl.github.io)**.
+\
+All materials on this site are available free of charge and may be distributed without restriction for non-commercial use only.
+
+None of the information presented on our site should be considered as a binding offer or financial advice, but as an invitation to learn more about Waves.Exchange ©2022
 
 \
 \
