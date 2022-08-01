@@ -38,7 +38,7 @@ Asset ID: `FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh`
 
 Name: `wxWXUSDN_TCI`
 
-Symbol:	 `WXWXUSDNTCI`
+Symbol:	 `wxWXUSDN_TCI`
 
 Decimals: `8`
 
@@ -47,7 +47,7 @@ Start Price: `4.9579`
 ```yaml
 "assetId": "FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh",
     "name": "wxWXUSDN_TCI",
-    "symbol": "WXWXUSDNTCI",
+    "symbol": "wxWXUSDN_TCI",
     "decimals": 8,
     "startPrice": 4.9579
 ```
@@ -87,7 +87,7 @@ Asset ID: `2CD44HANZzsdU7yqRsmz7L9eA2Foh4YYMC4azMbaZEj6`
 
 Name: `wxUSDTUSDN_TCI`
 
-Symbol:	 `WXUSDTUSDNTCI`
+Symbol:	 `wxUSDTUSDN_TCI`
 
 Decimals: `8`
 
@@ -97,7 +97,7 @@ Start Price: `2.52719`
 ```yaml
 "assetId": "2CD44HANZzsdU7yqRsmz7L9eA2Foh4YYMC4azMbaZEj6",
     "name": "wxUSDTUSDN_TCI",
-    "symbol": "WXUSDTUSDNTCI",
+    "symbol": "wxUSDTUSDN_TCI",
     "decimals": 8,
     "startPrice": 2.52719
 ```
@@ -138,7 +138,7 @@ Asset ID: `HZKFpNfyPG5gt4D6Nfy1zQSg2Ptmqv932GjNTCyBEeKP`
 
 Name: `wxUSDCUSDN_TCI`
 
-Symbol:	 `WXUSDCUSDNTCI`
+Symbol:	 `wxUSDCUSDN_TCI`
 
 Decimals: `8`
 
@@ -147,7 +147,7 @@ Start Price: `2.13616`
 ```yaml
 "assetId": "HZKFpNfyPG5gt4D6Nfy1zQSg2Ptmqv932GjNTCyBEeKP",
     "name": "wxUSDCUSDN_TCI",
-    "symbol": "WXUSDCUSDNTCI",
+    "symbol": "wxUSDCUSDN_TCI",
     "decimals": 8,
     "startPrice": 2.13616
 ```
@@ -187,7 +187,7 @@ Asset ID: `BqPYkaiz7Le6fFu1rjZ54anrpT57EpvyugZCUqrsjXj`
 
 Name: `wxUSDCUSDT_TCI`
 
-Symbol:	 `WXUSDCUSDTTCI`
+Symbol:	 `wxUSDCUSDT_TCI`
 
 Decimals: `8`
 
@@ -196,7 +196,7 @@ Start Price: `2.041596`
 ```yaml
 "assetId": "BqPYkaiz7Le6fFu1rjZ54anrpT57EpvyugZCUqrsjXj",
     "name": "wxUSDCUSDT_TCI",
-    "symbol": "WXUSDCUSDTTCI",
+    "symbol": "wxUSDCUSDT_TCI",
     "decimals": 8,
     "startPrice": 2.041596
 ```
@@ -236,7 +236,7 @@ Asset ID: `Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A`
 
 Name: `wxPUZZLEUSDN_TCI`
 
-Symbol:	 `WXPUZZLEUSDNTCI`
+Symbol:	 `wxPUZZLEUSDN_TCI`
 
 Decimals: `8`
 
@@ -245,7 +245,7 @@ Start Price: `8.494656`
 ```yaml
 "assetId": "Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A",
     "name": "wxPUZZLEUSDN_TCI",
-    "symbol": "WXPUZZLEUSDNTCI",
+    "symbol": "wxPUZZLEUSDN_TCI",
     "decimals": 8,
     "startPrice": 8.494656
 ```
