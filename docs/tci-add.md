@@ -5,7 +5,7 @@ permalink: /tci-add
 ---
 
 
-2022-08-01 | 20:00 UTC
+2022-08-01 | 06:43 UTC
 
 **--- 01 ---**
 
@@ -17,14 +17,14 @@ Symbol:	 `WXUSDNWXLP`
 
 Decimals: `8`
 
-Start Price: `4.9579`
+Start Price: `4.934148`
 
 ```yaml
 "assetId": "F2AKkA513k5yHEJkLsU6vWxCYYk811GpjLhwEv2WGwZ9",
     "name": "WX/USDN WX LP",
     "symbol": "WXUSDNWXLP",
     "decimals": 8,
-    "startPrice": 4.9579
+    "startPrice": 4.934148
 ```
 
 [Blockchain reference](https://wscan.io/F2AKkA513k5yHEJkLsU6vWxCYYk811GpjLhwEv2WGwZ9)
@@ -42,14 +42,14 @@ Symbol:	 `wxWXUSDN_TCI`
 
 Decimals: `8`
 
-Start Price: `4.9579`
+Start Price: `4.934148`
 
 ```yaml
 "assetId": "FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh",
     "name": "wxWXUSDN_TCI",
     "symbol": "wxWXUSDN_TCI",
     "decimals": 8,
-    "startPrice": 4.9579
+    "startPrice": 4.934148
 ```
 
 [Blockchain reference](https://wscan.io/FuUobp3DcfARzDLcvtVW37i7FvMPvCCpgdcvWke8sBuh)
@@ -66,14 +66,14 @@ Symbol:	 `USDTUSDNWXLP`
 
 Decimals: `8`
 
-Start Price: `2.353879`
+Start Price: `2.353718`
 
 ```yaml
 "assetId": "97zHFp1C3cB7qfvx8Xv5f2rWp9nUSG5UnAamfPcW6txf",
     "name": "USDT/USDN WX LP",
     "symbol": "USDTUSDNWXLP",
     "decimals": 8,
-    "startPrice": 2.353879
+    "startPrice": 2.353718
 ```
 
 [Blockchain reference](https://wscan.io/97zHFp1C3cB7qfvx8Xv5f2rWp9nUSG5UnAamfPcW6txf)
@@ -91,7 +91,7 @@ Symbol:	 `wxUSDTUSDN_TCI`
 
 Decimals: `8`
 
-Start Price: `2.52719`
+Start Price: `2.5312`
 
 
 ```yaml
@@ -99,7 +99,7 @@ Start Price: `2.52719`
     "name": "wxUSDTUSDN_TCI",
     "symbol": "wxUSDTUSDN_TCI",
     "decimals": 8,
-    "startPrice": 2.52719
+    "startPrice": 2.5312
 ```
 
 [Blockchain reference](https://wscan.io/2CD44HANZzsdU7yqRsmz7L9eA2Foh4YYMC4azMbaZEj6)
@@ -117,14 +117,14 @@ Symbol:	 `USDCUSDNLP`
 
 Decimals: `8`
 
-Start Price: `2.13616`
+Start Price: `2.136639`
 
 ```yaml
 "assetId": "EK6N7S38xbtBT3SxAqoGdDLCiX6rojX6G169CnSyuE5",
     "name": "USDC/USDN WX LP",
     "symbol": "USDCUSDNLP",
     "decimals": 8,
-    "startPrice": 2.13616
+    "startPrice": 2.136639
 ```
 
 [Blockchain reference](https://wscan.io/EK6N7S38xbtBT3SxAqoGdDLCiX6rojX6G169CnSyuE5)
@@ -142,14 +142,14 @@ Symbol:	 `wxUSDCUSDN_TCI`
 
 Decimals: `8`
 
-Start Price: `2.13616`
+Start Price: `2.136639`
 
 ```yaml
 "assetId": "HZKFpNfyPG5gt4D6Nfy1zQSg2Ptmqv932GjNTCyBEeKP",
     "name": "wxUSDCUSDN_TCI",
     "symbol": "wxUSDCUSDN_TCI",
     "decimals": 8,
-    "startPrice": 2.13616
+    "startPrice": 2.136639
 ```
 
 [Blockchain reference](https://wscan.io/HZKFpNfyPG5gt4D6Nfy1zQSg2Ptmqv932GjNTCyBEeKP)
@@ -167,14 +167,14 @@ Symbol:	 `USDCUSDTLP`
 
 Decimals: `8`
 
-Start Price: `2.041596`
+Start Price: `2.042171`
 
 ```yaml
 "assetId": "EPhdEfmQaNcHyvDmRGhnLhgcJtKZ2a4k3ZBmKWtAEWyH",
     "name": "USDC/USDT WX LP",
     "symbol": "USDCUSDTLP",
     "decimals": 8,
-    "startPrice": 2.041596
+    "startPrice": 2.042171
 ```
 
 [Blockchain reference](https://wscan.io/EPhdEfmQaNcHyvDmRGhnLhgcJtKZ2a4k3ZBmKWtAEWyH)
@@ -191,14 +191,14 @@ Symbol:	 `wxUSDCUSDT_TCI`
 
 Decimals: `8`
 
-Start Price: `2.041596`
+Start Price: `2.042171`
 
 ```yaml
 "assetId": "BqPYkaiz7Le6fFu1rjZ54anrpT57EpvyugZCUqrsjXj",
     "name": "wxUSDCUSDT_TCI",
     "symbol": "wxUSDCUSDT_TCI",
     "decimals": 8,
-    "startPrice": 2.041596
+    "startPrice": 2.042171
 ```
 
 [Blockchain reference](https://wscan.io/BqPYkaiz7Le6fFu1rjZ54anrpT57EpvyugZCUqrsjXj)
@@ -215,14 +215,14 @@ Symbol:	 `PUZZLEUSDNLP`
 
 Decimals: `8`
 
-Start Price: `8.494656`
+Start Price: `8.416814`
 
 ```yaml
 "assetId": "E8zHu33GfcNyGLypX77gZiUXfvuZQeaYmiEfsy7VYNwP",
     "name": "PUZZLE/USDN WX LP",
     "symbol": "PUZZLEUSDNLP",
     "decimals": 8,
-    "startPrice": 8.494656
+    "startPrice": 8.416814
 ```
 
 [Blockchain reference](https://wscan.io/E8zHu33GfcNyGLypX77gZiUXfvuZQeaYmiEfsy7VYNwP)
@@ -240,14 +240,14 @@ Symbol:	 `wxPUZZLEUSDN_TCI`
 
 Decimals: `8`
 
-Start Price: `8.494656`
+Start Price: `8.416814`
 
 ```yaml
 "assetId": "Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A",
     "name": "wxPUZZLEUSDN_TCI",
     "symbol": "wxPUZZLEUSDN_TCI",
     "decimals": 8,
-    "startPrice": 8.494656
+    "startPrice": 8.416814
 ```
 
 [Blockchain reference](https://wscan.io/Dh9QXSSABE5V6aRfu3mCbDAUokbpE7ER7pbZV6cvyg1A)
