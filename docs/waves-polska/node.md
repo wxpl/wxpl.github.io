@@ -18,7 +18,7 @@ permalink: /node
 
 ## Walidator wxpl.club (PL)
 
-Dzięki współpracy z [The Heraclitus Project](http://wxpl.club/heraclitus) uruchomiliśmy społecznościowego walidatora WavesPolska. Jest to inicjatywa udowodniająca, że w społeczności jest siła. Prowadzenie aktywnego node'a pokazuje, że jako społeczność jesteśmy widoczni w łańuchu Waves oraz uczestniczymy w jego zabezpieczeniu.
+Dzięki współpracy z [The Heraclitus Project](http://wxpl.club/heraclitus) uruchomiliśmy walidatora WavesPolska. Jest to inicjatywa udowodniająca, że w społeczności jest siła. Prowadzenie aktywnego node'a pokazuje, że jako kolektyw jesteśmy widoczni w łańuchu Waves oraz uczestniczymy w jego zabezpieczeniu.
 
 ![](/images/stake-waves.jpg)
 
@@ -36,7 +36,7 @@ Oferujemy 98% wszystkich mintowanych środków, dystrybuowane co tydzień w poni
 
 ## Node wxpl.club (EN)
 
-Thanks to a partnership with [The Heraclitus Project](http://wxpl.club/heraclitus), we have launched the community node WavesPolska. Through this initiative, we want to prove that there is strength in community. Running an active node shows that as a community we are visible in the Waves chain and participate in securing it.
+Thanks to a partnership with [The Heraclitus Project](http://wxpl.club/heraclitus), we have launched the community node WavesPolska. Through this initiative, we want to prove that there is strength in the community. Running an active node shows that as a collective we are visible in the Waves chain and participate in securing it.
 
 ![](/images/stake-waves.jpg)
 
@@ -49,4 +49,3 @@ Alias:
 ```wxpl.club```{: .fs-6 }
 
 We offer 98% of all minted funds, distributed weekly on Monday. As PoS strength increases, we will increase the frequency of distribution. We charge a 2% fee to partially cover the cost of running the validator. The minimum lease for regular distributions is 10 WAVES.
-
