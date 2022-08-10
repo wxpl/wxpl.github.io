@@ -1,4 +1,5 @@
 ---
+
 layout: default
 title: SURF
 nav_order: 3
@@ -6,9 +7,11 @@ parent: Neutrino
 permalink: /surf
 
 ---
-## Czym jest SURF i dlaczego jest ważny dla ekosystemu Neutrino?
+
 
 ![](/images/01-surf.png)
+
+## Czym jest SURF i dlaczego jest ważny dla ekosystemu Neutrino?
 
 **SURF** (Smart Utility Recapitalization Feature) to nowy token zaprojektowany w celu poprawy mechaniki rekapitalizacji rezerw USDN.
 
@@ -143,5 +146,6 @@ Powyższy przykład pokazuje, że tokeny NSBT i SURF są bardzo podobne, ale ża
 [![](/images/11-surf.png)](https://neutrino.at/buy/SURF){:target="_blank"}
 
 ---
+
 reference: [What is SURF and why is it important for the Neutrino ecosystem?
 ](https://medium.com/neutrinoteam/what-is-surf-and-why-is-it-important-for-the-neutrino-ecosystem-8962c2230049) 
