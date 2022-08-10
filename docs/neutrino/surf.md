@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SURF
-nav_order: 22
+nav_order: 3
 parent: Neutrino
 permalink: /surf
 

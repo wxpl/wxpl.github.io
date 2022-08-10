@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Whitepaper
-nav_order: 23
+nav_order: 4
 parent: Neutrino
 permalink: /neutrino-whitepaper
 

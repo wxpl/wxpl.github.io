@@ -1,7 +1,7 @@
 ---
 layout: default
 title: NSBT
-nav_order: 21
+nav_order: 1
 parent: Neutrino
 permalink: /nsbt
 

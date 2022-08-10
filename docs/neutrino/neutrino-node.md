@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Neutrino Node
-nav_order: 22
+nav_order: 8
 parent: Neutrino
 permalink: /neutrino-node
 

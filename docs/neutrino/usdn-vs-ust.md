@@ -2,7 +2,7 @@
 
 layout: default
 title: USDN vs UST
-nav_order: 25
+nav_order: 7
 parent: Neutrino
 permalink: /usdn-vs-ust
 

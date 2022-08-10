@@ -2,11 +2,12 @@
 
 layout: default
 title: gNSBT Governance
-nav_order: 22
+nav_order: 2
 parent: Neutrino
 permalink: /nsbt-governance
 
 ---
+
 ![](/images/gnsbt-ch.png)
 
 [Protokół Neutrino](https://neutrino.at) został uruchomiony w 2019 roku i od tego czasu przeszedł sporo zmian. Jedną z nich było dodanie funkcji stakowania NSBT, która umożliwiła otrzymywanie pasywnego dochodu w kilku tokenach jednocześnie, a mianowicie: USDN (stablecoin), WAVES oraz tokenach DeFo.
@@ -36,6 +37,7 @@ Rok 2022 można nazwać rokiem Neutrino, ponieważ protokół przejdzie szereg z
 W tym miejscu komentarze są zbędne. Teraz porozmawiajmy o zmianach.
 
 ## Krótki opis zmian
+
 {: .no_toc }
 
 <details open markdown="block">
@@ -48,13 +50,13 @@ W tym miejscu komentarze są zbędne. Teraz porozmawiajmy o zmianach.
 </details>
 
 Aktualizacja obejmuje zmiany w logice dwóch głównych komponentów Neutrino:
+
 1. NSBT staking i gNSBT:
 - Stakerzy NSBT otrzymują "głosy" (gNSBT) w proporcji 1 do 1
 - posiadacze gNSBT otrzymują nagrody - procent od zebranych opłat swapowych WAVES ↔ USDN (opłata za protokół)
 - głosowanie w protokole Neutrino odbywa się za pomocą gNSBT
 - wyodrębnienie NSBT pociąga za sobą opłatę - procent od wyodrębnionej kwoty NSBT na krzywą opłaty (funkcja półokresu)
 - automatyczne wypłaty nagród za wystawianie NSBT są anulowane.
-
 2. WAVES ↔ USDN swapy:
 - anulowano mechanikę losowego opóźnienia swapów, teraz swapy będą następować prawie natychmiast, z opóźnieniem 1 bloku
 - wymiana jest dostępna tylko dla posiadaczy gNSBT (stakerów NSBT)
@@ -64,9 +66,11 @@ Aktualizacja obejmuje zmiany w logice dwóch głównych komponentów Neutrino:
 👇 Przeczytaj poniższy artykuł, aby uzyskać więcej informacji.
 
 ## **Staking NSBT i gNSBT**
+
 {: .no_toc }
 
 ### **Podmiot gNSBT**
+
 Wprowadziliśmy nową jednostkę - gNSBT - aby rozdzielić saldo "głosów" użytkowników i saldo NSBT. Głosy (gNSBT) będą używane podczas procesu zarządzania.
 
 Właściciele gNSBT otrzymują nagrody - procent od zebranych opłat swapowych (opłat za protokół). Wysokość nagrody jest proporcjonalna do udziału użytkownika w gNSBT. Podczas wycofywania NSBT, ilość gNSBT użytkownika jest przeliczana.
@@ -102,6 +106,7 @@ Z jednej strony, duża opłata odstraszy użytkowników od likwidacji, a z drugi
 Jako krzywa opłat zostanie użyta funkcja półokresu o okresie T=6 miesięcy. Możliwe będzie dostosowanie tego okresu w drodze głosowania.
 
 ![](/images/gnsbt-0.png)
+
 > gdzie:
 > \
 > `stakingDuration` oznacza czas utrzymywania NSBT w stakingach
@@ -130,6 +135,7 @@ Protokół Neutrino zawsze dążył do całkowitej decentralizacji. Zrobiliśmy 
 Czas trwania operacji swap jest jednym z głównych tematów dyskusji w społeczności. Obecna aktualizacja oferuje rozwiązanie kompromisowe, które zakłada ograniczenie ilości operacji swap i umożliwia szybką wymianę w 1 bloku bez losowości. Wyeliminowanie losowości jest ważnym krokiem w kierunku pełnej decentralizacji protokołu.
 
 Wprowadzenie limitu wymiany jest skomplikowanym procesem. Aby go wyjaśnić, musimy odpowiedzieć na następujące pytania:
+
 - do czego służy swap limit?
 - w jaki sposób użytkownik może uzyskać limit swapowy?
 - jak długo obowiązuje limit?
@@ -142,6 +148,7 @@ Odpowiedzi znajdziesz w poniższym opisie.
 Na początku istnienia protokołu, operacja swap była postrzegana jako narzędzie, które traderzy mogli wykorzystać do arbitrażu USDN pomiędzy giełdami i kontraktem. Jednak w miarę rozwoju protokołu stało się jasne, że głównym celem powinno być zapewnienie stabilności rezerw samego kontraktu. W związku z tym pojawiły się niepożądane zmiany: losowość i wydłużenie czasu operacji swap.
 
 Zmiany wprowadzone przez NEP-102 koncentrują się na dostosowaniu protokołu do nowych zasad:
+
 - minimalizacji arbitrażu kontraktowego
 - skupieniu się na stabilności rezerw
 - pozbyciu się niepopularnych i scentralizowanych rozwiązań
@@ -149,6 +156,7 @@ Zmiany wprowadzone przez NEP-102 koncentrują się na dostosowaniu protokołu do
 **NEP-102 jest jednym z kroków prowadzących do osiągnięcia stabilności protokołu**
 
 Aby osiągnąć powyższe zasady, wprowadzamy **następujące zmiany do operacji swapowych:**
+
 - tylko właściciele gNSBT (NSBT stakerzy) mogą wykonywać zamiany
 - kwota gNSBT użytkownika określa maksymalną kwotę zamiany
 - operacja zamiany zajmuje 1 blok
@@ -172,6 +180,7 @@ Maksymalny limit użytkownika (limitMax) - to maksymalna kwota w USDN, którą u
 **Limit wydatkowany na operację (limitSpentByOperation)** dla kierunku WAVES→USDN wykorzystywana jest wynikowa kwota wymiany USDN, dla kierunku USDN→WAVES wykorzystywana jest kwota zamienionych USDN.
 
 Na podstawie powyższych definicji możemy utworzyć zestaw poniższych reguł opisujących mechanikę działania limitu:
+
 - limitMax jest taki sam dla wszystkich kierunków (WAVES → USDN oraz USDN → WAVES)
 - użytkownik może wykonać tylko jedną operację swap w ciągu doby (24 godziny / 1440 bloków) i musi być spełniony warunek: `limitSpentByOperation` <= `limitMax`
 
@@ -180,7 +189,7 @@ Na podstawie powyższych definicji możemy utworzyć zestaw poniższych reguł o
 Załóżmy, że `a = 0.00000003` wówczas zależność pomiędzy `limitMax` a ilością gNSBT przedstawia się następująco:
 
 | ilość gNSBT | max. limit USDN |
-|:------------|:----------------|
+|:----------- |:--------------- |
 | 10000       | 2075.49         |
 | 25000       | 24862.15        |
 | 50000       | 162678.43       |

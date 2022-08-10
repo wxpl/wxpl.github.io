@@ -2,7 +2,7 @@
 
 layout: default
 title: FAQ
-nav_order: 24
+nav_order: 9
 parent: Neutrino
 permalink: /neutrino-faq
 
