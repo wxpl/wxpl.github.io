@@ -6,6 +6,7 @@ parent: Neutrino
 permalink: /surf
 
 ---
+## Czym jest SURF i dlaczego jest ważny dla ekosystemu Neutrino?
 
 ![](/images/01-surf.png)
 
@@ -24,7 +25,7 @@ Token SURF pomoże osiągnąć równowagę BR i zapewni dodatkowe zachęty dla s
 * Staked SURF daje pasywny dochód i inne korzyści
 * Kiedy BR wzrośnie powyżej 115%, SURF zostanie automatycznie zamieniony na USDN w stosunku 1:1.
 
-## Dlaczego warto używać SURF i jak zarobić na nim najwięcej?
+### Dlaczego warto używać SURF i jak zarobić na nim najwięcej?
 
 SURF staje się dostępny do zakupu (emisji poprzez smart contract) poprzez zablokowanie USDN lub WAVES na smart contract tylko wtedy, gdy BR (Backing Ratio) jest <100%.
 
@@ -35,9 +36,11 @@ Zablokowany WAVES jest dodawany do istniejących rezerw, aby zapewnić dodatkow�
 Zakup SURF za USDN jest nieco bardziej opłacalny niż zakup za WAVES, natomiast zakup za WAVES ma większy wpływ na wartość BR. Do obliczania ceny SURF stosuje się następujące wzory.
 
 Przy zakupie za USDN:
+
 ![](/images/03-surf.png)
 
 przy zakupie za WAVES:
+
 ![](/images/04-surf.png)
 
 > gdzie:
@@ -48,7 +51,7 @@ przy zakupie za WAVES:
 Cena SURF emitowanego poprzez smart contract zależy od aktualnego BR i ilości, którą chcesz kupić, więc im więcej kupujesz, tym wyższa staje się średnia cena SURF.
 Najlepszym momentem na zakup SURF jest czas, kiedy BR jest niski.
 
-### Przykład
+#### Przykład
 
 Załóżmy, że cena WAVES wynosi ~5,6 USDN, natomiast BR wynosi aż 17%, co oznacza, że cena kontraktowa SURF wynosi 0,17 USDN. Ilość WAVES w rezerwach wynosi 22 071 844 przy łącznej podaży 727 068 652 USDN. (w tym przykładzie, ze względu na stosunkowo małe liczby, pomińmy wpływ ceny, co oznacza, że im więcej SURF kupujesz, tym wyższy staje się BR i średnia cena zakupu SURF).
 
@@ -57,7 +60,7 @@ Jeśli wydasz $10,000 w USDN na zakup SURF, otrzymasz ~58,822 SURF i zwiększysz
 
 ![](/images/05-surf.png)
 
-## Stejkuj Twoje SURF, aby uzyskać wszystkie korzyści z posiadania gNSBT (otrzymasz 1 gNSBT za 300* SURF) i więcej:
+### Stejkuj Twoje SURF, aby uzyskać wszystkie korzyści z posiadania gNSBT (otrzymasz 1 gNSBT za 300* SURF) i więcej:
 
 * Uzyskaj możliwość swapowania WAVES↔USDN. Twoja dzienna Max Kwota Swapu zależy od Twojego udziału w gNSBT. Wykorzystaj funkcję swap, aby uzyskać dodatkowy zysk na arbitrażu, jeśli cena USDN na giełdach spadnie poniżej 1$.
 * Otrzymuj regularne nagrody w zależności od udziału w gNSBT i dziennych opłat za wymianę (Protocol Fees). Odbierz nagrody w dowolnym momencie.
@@ -66,7 +69,7 @@ Jeśli wydasz $10,000 w USDN na zakup SURF, otrzymasz ~58,822 SURF i zwiększysz
 
 *Później ta wartość będzie regulowana za pomocą głosowania społeczności.*
 
-## Jak działa automatyczna konwersja?
+### Jak działa automatyczna konwersja?
 
 1) Kiedy BR osiągnie 115%, zostanie uruchomiona automatyczna konwersja SURF na USDN.
 
@@ -103,7 +106,7 @@ Nowo wyemitowana kwota USDN jest przechowywana na kontrakcie (dopóki nie zostan
 
 8) Istnieje duże prawdopodobieństwo, że konwersja wszystkich SURFów zajmie kilka cykli auto konwersji. Proces powtarza się za każdym razem, gdy BR trafi na 115%, aż cała podaż SURFów zostanie przekonwertowana na USDN.
 
-## SURF vs. NSBT. Który z nich jest lepszy?
+### SURF vs. NSBT. Który z nich jest lepszy?
 
 W tej chwili, większość podaży NSBT jest zamknięta w długoterminowym stakingu. W momencie pisania tego artykułu, ponad 96% całkowitej podaży NSBT zostało wybite, a ponad 88% jest stakowane. W rezultacie, trudno jest kupić NSBT. Dodatkowo, cena inteligentnego kontraktu ciągle rośnie z powodu mechaniki Moon Factor.
 
@@ -111,7 +114,7 @@ Tymczasem stakerzy NSBT nadal osiągają codzienne zyski i używają swapów do 
 
 Inwestowanie w SURF to łatwy sposób dla społeczności Neutrino i nowych inwestorów, aby wspierać protokół Neutrino i uzyskać te same korzyści, co stakerzy NSBT. Na dodatek, nowy produkt zapewnia również świetny zwrot z inwestycji (ROI), gdy BR się poprawi. Zakup SURF przy bardzo niskim BR może dać nawet większy zysk niż stakerzy NSBT mogą uzyskać za tę samą wydaną kwotę.
 
-### Przykład
+#### Przykład
 
 Załóżmy, że BR wynosi aż 20%; oznacza to, że cena kontraktowa SURF wynosi 0,20 USDN. (w tym przykładzie, ze względu na stosunkowo małe liczby, pomińmy wpływ ceny, co oznacza, że im więcej SURF-u kupujesz, tym wyższy staje się BR i średnia cena zakupu SURF-u).
 
@@ -131,7 +134,7 @@ Kiedy BR przekroczy 115%, Twoje 50.000 SURF zostanie ostatecznie automatycznie z
 
 *Wartości referencyjne obliczane są w oparciu o dzień 29 lipca 2022 roku: BR=20%, cena SURF 0,20 USDN, cena NSBT 19 USDN.*
 
-## Wniosek
+### Wnioski
 
 Powyższy przykład pokazuje, że tokeny NSBT i SURF są bardzo podobne, ale żaden z nich nie jest jednoznacznym liderem. Biorąc pod uwagę zwrot z inwestycji (gdy BR staje się wysoki), token SURF zakupiony przy niskim BR może zapewnić nawet większy zysk niż NSBT. Potencjalne zyski tokena SURF są łatwe do obliczenia i zrozumienia; plus, przychodzi ze wszystkimi korzyściami posiadania gNSBT bez opłaty ustakingowej. SURF token dodaje unikalny i godny uwagi atut do tokenomiki Neutrino, zapewniając dodatkową możliwość wpływu społeczności Neutrino i nowych inwestorów na rozwój protokołu. Token SURF przyczyni się do stabilności i bodźców bezpieczeństwa systemu i ustanowi Neutrino jako najsilniejszy algorytmiczny stabilny protokół aktywów.
 
