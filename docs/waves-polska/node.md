@@ -18,7 +18,7 @@ permalink: /node
 
 ## Walidator wxpl.club (PL)
 
-Dzięki współpracy z [The Heraclitus Project](http://wxpl.club/heraclitus) uruchomiliśmy walidatora WavesPolska. Jest to inicjatywa udowodniająca, że w społeczności jest siła. Prowadzenie aktywnego node'a pokazuje, że jako kolektyw jesteśmy widoczni w łańuchu Waves oraz uczestniczymy w jego zabezpieczeniu.
+Dzięki współpracy z [The Heraclitus Project](http://wxpl.club/heraclitus) uruchomiliśmy walidatora WavesPolska. Jest to inicjatywa udowadniająca, że w społeczności jest siła. Prowadzenie aktywnego node'a pokazuje, że jako kolektyw jesteśmy widoczni w łańuchu Waves oraz uczestniczymy w jego zabezpieczeniu.
 
 ![](/images/stake-waves.jpg)
 
@@ -30,7 +30,7 @@ Alias:
 
 ```wxpl.club```{: .fs-6 }
 
-Oferujemy 98% wszystkich mintowanych środków, dystrybuowane co tydzień w poniedziałek. Wraz ze wzrostem siły PoS zwiększymy częstotliwość dystrybucji. Pobieramy opłatę w wysokości 2% na częściowe pokrycie kosztów prowadzenia walidatora. Minimalny leasing pod regularne dystrybucje to 10 WAVES.
+Oferujemy 98% wszystkich mintowanych środków, dystrybuowane codziennie. Pobieramy opłatę w wysokości 2% na częściowe pokrycie kosztów prowadzenia walidatora. Minimalny leasing pod regularne dystrybucje to 10 WAVES.
 
 ---
 
@@ -48,4 +48,4 @@ Alias:
 
 ```wxpl.club```{: .fs-6 }
 
-We offer 98% of all minted funds, distributed weekly on Monday. As PoS strength increases, we will increase the frequency of distribution. We charge a 2% fee to partially cover the cost of running the validator. The minimum lease for regular distributions is 10 WAVES.
+We offer 98% of all minted funds, distributed daily. We charge a 2% fee to partially cover the cost of running the validator. The minimum lease for regular distributions is 10 WAVES.
