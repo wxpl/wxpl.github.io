@@ -30,7 +30,7 @@ Alias:
 
 ```wxpl.club```{: .fs-6 }
 
-Oferujemy 98% wszystkich mintowanych środków, dystrybuowane codziennie. Pobieramy opłatę w wysokości 2% na częściowe pokrycie kosztów prowadzenia walidatora. Minimalny leasing pod regularne dystrybucje to 10 WAVES.
+Oferujemy 97% wszystkich mintowanych środków, dystrybuowane codziennie. Pobieramy opłatę w wysokości 3% na częściowe pokrycie kosztów prowadzenia walidatora. Minimalny leasing pod regularne dystrybucje to 10 WAVES.
 
 ---
 
@@ -48,4 +48,4 @@ Alias:
 
 ```wxpl.club```{: .fs-6 }
 
-We offer 98% of all minted funds, distributed daily. We charge a 2% fee to partially cover the cost of running the validator. The minimum lease for regular distributions is 10 WAVES.
+We offer 97% of all minted funds, distributed daily. We charge a 3% fee to partially cover the cost of running the validator. The minimum lease for regular distributions is 10 WAVES.
